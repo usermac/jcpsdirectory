@@ -22,4 +22,9 @@ The FileMaker Pro schools and departments databases export the file into Princip
 
 These three files and then put in place on the web, well, two of them are. The last one is directly imported into an Adobe InDesign CS6 template as regular pages with one major advantage: it has indexing coded behind each entry. The TOC is generated and placed or replaced as needed. Amazingly effective. 
 
-- Brian
+Roadmap
+
+Production: The future is to move away from proprietary software and into open source. 
+Funtion: Create single line itmes for the purpose of creating business cards and stationary. 
+
+— Brian
