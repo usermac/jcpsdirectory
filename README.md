@@ -12,7 +12,8 @@ That Etherpad list of about 2,300 administrative contacts has the core data such
 Workflow
 
 From Ehterpad I export it as text-only. 
-Currently I process the file in BBEdit using five RegEx's to put the data in order.
+Currently I process the file in BBEdit using five RegEx's to put the data in order. Grep Patterns.xml is the file that belongs in the OSX > Library > Application Support > BBEdit > Setup. 
+
 I then import the data into FileMaker Pro but in 2 parts:
 Departments and Schools
 
