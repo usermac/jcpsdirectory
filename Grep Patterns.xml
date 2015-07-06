@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SavedGrepPatterns</key>
+	<array>
+		<dict>
+			<key>ReplacePattern</key>
+			<string>	</string>
+			<key>SearchPattern</key>
+			<string>&lt;!--</string>
+			<key>Title</key>
+			<string>Directory replace html comment open with real tab</string>
+			<key>UniqueID</key>
+			<string>6BCAE46C-F5F4-4F21-8DE6-D77E8F16E14A</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string>\1 --&gt;</string>
+			<key>SearchPattern</key>
+			<string>(\S)--&gt;</string>
+			<key>Title</key>
+			<string>directory replace no space at HTML comment end</string>
+			<key>UniqueID</key>
+			<string>73ED0218-F5AF-4A98-852C-A8BFD1DE1236</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string></string>
+			<key>SearchPattern</key>
+			<string> --&gt;</string>
+			<key>Title</key>
+			<string>Directory replace html comment close with nothing</string>
+			<key>UniqueID</key>
+			<string>8AC8F2D5-D841-41D6-A500-2216B484349C</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string>Vacant;</string>
+			<key>SearchPattern</key>
+			<string>Vacant,</string>
+			<key>Title</key>
+			<string>Directory replace Vacant, with Vacant;</string>
+			<key>UniqueID</key>
+			<string>0136D2E8-86C3-46A8-8AAF-490D8F13C919</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string>	</string>
+			<key>SearchPattern</key>
+			<string>;</string>
+			<key>Title</key>
+			<string>Directory replace semicolon with real tab</string>
+			<key>UniqueID</key>
+			<string>9B54C6F5-8136-4E97-9C1D-CD5003EB298B</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string>|</string>
+			<key>SearchPattern</key>
+			<string>•</string>
+			<key>Title</key>
+			<string>Directory replace bullet with pipe</string>
+			<key>UniqueID</key>
+			<string>9DE7B40F-4C47-44DF-97CE-DD8B019F8E4D</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string></string>
+			<key>SearchPattern</key>
+			<string>^"</string>
+			<key>Title</key>
+			<string>Directory remove leading quote</string>
+			<key>UniqueID</key>
+			<string>AB9F7FFA-A070-485A-B044-C7DE4BF4003A</string>
+		</dict>
+		<dict>
+			<key>ReplacePattern</key>
+			<string></string>
+			<key>SearchPattern</key>
+			<string>"$</string>
+			<key>Title</key>
+			<string>Directory remove trailing quote</string>
+			<key>UniqueID</key>
+			<string>A9E1126C-8BAF-4A0D-86DD-E97760079290</string>
+		</dict>
+	</array>
+</dict>
+</plist>
