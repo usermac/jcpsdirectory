@@ -13,6 +13,7 @@ Workflow
 
 From Ehterpad I export it as text-only. 
 Currently I process the file in BBEdit using five RegEx's to put the data in order. Grep Patterns.xml is the file that belongs in the OSX > Library > Application Support > BBEdit > Setup. 
+![BBEdit screenshot of GREP patterns to do in order.](https://github.com/usermac/jcpsdirectory/blob/master/GrepPatterns.png)
 
 I then import the data into FileMaker Pro but in 2 parts:
 Departments and Schools
