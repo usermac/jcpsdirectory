@@ -30,6 +30,6 @@ These three files and then put in place on the web, well, two of them are. The l
 Roadmap
 
 Production: The future is to move away from proprietary software and into open source. 
-Funtion: Create single line itmes for the purpose of creating business cards and stationary. 
+Function: Create single line items for the purpose of creating business cards and stationary. 
 
 — Brian
