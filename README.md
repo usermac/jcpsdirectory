@@ -4,6 +4,8 @@
 
 In the animated gif above, you should see the colored text in an Etherpad document. That is where anyone within the Intranet has made an update or change. Then you'll see the live page with how fast the search is. This project documents how I move from Etherpad to live Web. 
 
+Credit should go to Jonny Strömberg for his listjs that makes the search so very fast on the web page. His work made my work possible.
+
 History
 
 This project began in-house 8/8/2014 by Brian Ginn, the new Systems Coordinator of Materials Production. Why? We needed a way to handle the data behind the printed directory mainly the index generation automatically. Until now, the index was done by hand. 
