@@ -1,5 +1,6 @@
 # jcpsdirectory
-7/6/2015—Louisville, Kentucky. Created to document the creation of the printed and web administrative directory. - Brian
+7/6/2015—Louisville, Kentucky. Process to move data from Etherpad to the website. - Brian
+![Etherpad to Web](etherpad-to-web.gif)
 
 History
 
