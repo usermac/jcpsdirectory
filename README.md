@@ -2,7 +2,7 @@
 7/6/2015—Louisville, Kentucky. Process to move data from Etherpad to the website. - Brian
 ![Etherpad to Web](etherpad-to-web.gif)
 
-In the animated gif above, you should see the colored text. That is where anyone within the Intranet has made an update or change. Then you'll see the live page with how fast the search is. 
+In the animated gif above, you should see the colored text in an Etherpad document. That is where anyone within the Intranet has made an update or change. Then you'll see the live page with how fast the search is. This project documents how I move from Etherpad to live Web. 
 
 History
 
