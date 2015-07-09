@@ -1,7 +1,3 @@
-<!-- Use CTLR+F to search/find or just scroll. Saves are automatic. -->
-<!-- Change or move names as you wish. Please do not change school names or department headers or their order. -->
-<!-- Keywords, such as "Monday Memo," are in the comments tags. Brian x3142 -->
-*
 ACADEMY @ SHAWNEE; 4001 Herman Street, 40212; 485-8326 • 485-8738 <!-- Red, White and Blue Red White Blue RWB -->
 Beasley-Jenkins, Alona; Secretary; 485-8326 • 485-8738; Academy @ Shawnee; alona.beasley-jenkins@jefferson.kyschools.us <!-- Alona Beasley-Jenkins BOLD ITALIC -->
 Bivens, Carla; Bookkeeper; 485-5414 • 485-8738; Academy @ Shawnee; carla.bivens@jefferson.kyschools.us <!-- Carla Bivens -->
@@ -1458,7 +1454,6 @@ Leveque, Traci; Secretary; 485-8355 • 485-8808; Youth Performing Arts School (
 Mayes, Jerry; Principal; 485-8355 • 485-8808; Youth Performing Arts School (YPAS); gerald.mayes@jefferson.kyschools.us <!-- Jerry Mayes Gerald Mayes YPAS BOLD -->
 Robinson, Dennis; Counselor; 485-8355 • 485-8808; Youth Performing Arts School (YPAS); dennis.robinson@jefferson.kyschools.us <!-- Dennis Robinson YPAS -->
 Shrewsbury, Joe; Plant Operator; 485-8355 • 485-8808; Youth Performing Arts School (YPAS); joseph.shrewsbury@jefferson.kyschools.us <!-- Joe Shrewsbury YPAS -->
-
 ADMINISTRATION (SECTION) <!-- HEADING -->
 SUPERINTENDENT; 485-3251 <!-- HEADING -->
 Fields, Sherry; Executive Secretary to the Superintendent; VH; 485-3251 • 485-3991; Superintendent; sherry.fields@jefferson.kyschools.us <!-- Sherry Fields BOLD ITALIC -->
