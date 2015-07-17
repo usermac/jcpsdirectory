@@ -1686,8 +1686,9 @@ Handley, Linda; Director IV; Gheens; 485-3240 • 485-3355; Title I; linda.handl
 Hill, Nicole; Secretary; Gheens; 485-3240 • 485-3355; Title I; nicole.hill@jefferson.kyschools.us <!-- Nicole Hill BOLD ITALIC -->
 Smith, Toni; Title I Com. Spec., Parent Involvement; Gheens; 485-6285 • 485-6142; Title I; toni.smith@jefferson.kyschools.us <!-- Toni Smith -->
 ACADEMIC SUPPORT SERVICES; 485-3255 <!-- HEADING -->
-Robbins, Lea Ann; Secretary V; 3rd Fl-VH; 485-3255 • 485-3810; Academic Support Services; lea.robbins@jefferson.kyschools.us <!-- Lea Ann Robbins Lea Robbins BOLD ITALIC -->
 Averette, Alicia; Asst. Supt. for Academic Support Prog.; 3rd Fl-VH; 485-3255 • 485-3810; Academic Support Services; alicia.averette@jefferson.kyschools.us <!--  Alicia Averette BOLD -->
+Robbins, Lea Ann; Secretary V; 3rd Fl-VH; 485-3255 • 485-3810; Academic Support Services; lea.robbins@jefferson.kyschools.us <!-- Lea Ann Robbins Lea Robbins BOLD ITALIC -->
+Triplett, Linda ; Clerk ; 3rd Fl-VH; 485-6781 • 485-3810; Academic Support Services; linda.triplett@jefferson.kyschools.us <!-- Linda Triplett -->
 COMMUNITY SUPPORT SERVICES; 485-7709 <!-- HEADING -->
 Langley, Ben; Sp. Com. Sup. (NP, AmCorps, Stud. Sup.) ; Ahrens (920); 485-3926 • 485-7812; Community Support Services; ben.langley@jefferson.kyschools.us <!-- Ben Langley BOLD -->
 Thurman, Kristen; Program Specialist I; Ahrens (920); 962-3949 • 962-3171; Community Support Services; unknown@jefferson.kyschools.us <!-- Kristen Thurman -->
@@ -2662,3 +2663,4 @@ Walters, Roy; Manager; Nichols Garage; 485-3423 • 485-3764; Vehicle Maintenanc
 Wheatley, Travis; Foreman, Body Shop; Nichols Garage; 485-3423 • 485-3680; Vehicle Maintenance; travis.wheatley2@jefferson.kyschools.us <!-- Travis Wheatley -->
 Wolfe, Bobby; Foreman, Bus Shop; Nichols Garage; 485-3423 • 485-7809; Vehicle Maintenance; robert.wolfe@jefferson.kyschools.us <!-- Bobby Wolfe Robert Wolfe Bob Wolfe -->
 Yates, Tiffany; Clerk II; Nichols Garage; 485-3423 • 485-3764; Vehicle Maintenance; tiffany.yates@jefferson.kyschools.us <!-- Tiffany Yates -->
+
