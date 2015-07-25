@@ -4,6 +4,8 @@ use warnings;
 # 目录 150707 - Is YYMMDD for documentation purposes. - Brian
 # 目录 means Directory required lines. Why Chinese? It doesn't conflict with code or comments yet is filterable. - Brian
 # 红白蓝 means Red White Blue code. This is per request of Jason C. via Mike for the iOS app of school listings. Should be JSON and put in mpu/data/live web directory. - Brian
+# All code is in the public domain. - Brian
+# All information processed is public information. - Brian
 my $credit = "<!-- See GitHub usermac/jcpsdirectory for more about this project. - Brian. -->"; # 目录 150709 - Please do not remove. - Brian
 use DateTime qw(); # 目录 150723 - Grab the Date and Time as words only using the qw function. - Brian
 my $date = DateTime->now->strftime('%m/%d/%Y'); #150723 - Set to the date var as MM/DD/YYYY. - Brian
