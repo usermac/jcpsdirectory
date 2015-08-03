@@ -1,4 +1,4 @@
-ACADEMY @ SHAWNEE; 4001 Herman Street, 40212; 485-8326 • 485-8738 <!-- Red, White and Blue Red White Blue RWB -->
+ACADEMY @ SHAWNEE; 4001 Herman Street, 40212; 485-8326 • 485-8738 <!-- Red White Blue RWB -->
 Beasley-Jenkins, Alona; Secretary; 485-8326 • 485-8738; Academy @ Shawnee; alona.beasley-jenkins@jefferson.kyschools.us <!-- Alona Beasley-Jenkins BOLD ITALIC -->
 Bivens, Carla; Bookkeeper; 485-5414 • 485-8738; Academy @ Shawnee; carla.bivens@jefferson.kyschools.us <!-- Carla Bivens -->
 Bransford, Dwight; Athletic Director; 485-8683 • 485-8738; Academy @ Shawnee; dwight.bransford@jefferson.kyschools.us <!-- Dwight Bransford -->
@@ -18,10 +18,10 @@ Omdal, Cecilia; SAM; 485-8326 • 485-8738; Academy @ Shawnee; cecilia.omdal@jef
 Sellinger, Shannon; Counselor; 485-8326 • 485-8738; Academy @ Shawnee; shannon.sellinger@jefferson.kyschools.us <!-- Shannon Sellinger -->
 Shearon, Tyler; Assistant Principal; 485-8326 • 485-8738; Academy @ Shawnee; tyler.shearon@jefferson.kyschools.us <!-- Tyler Shearon -->
 Vacant; Principal; 485-8326 • 485-8738; Academy @ Shawnee; unknown@jefferson.kyschools.us <!-- Vacant BOLD -->
-ACKERLY; 200 East Chestnut Street, Unit N-78, 40202; 629-6326 • 629-2039 <!-- Red, White and Blue Red White Blue RWB -->
+ACKERLY; 200 East Chestnut Street, Unit N-78, 40202; 629-6326 • 629-2039 <!-- Red White Blue RWB -->
 Corbeill, Karen; Associate Principal; 721-2351 • 629-2039; Ackerly; karen.corbeill@jefferson.kyschools.us <!-- Karen Corbeill -->
 Lechleiter, Kathleen; Clerk II; 721-2342 • 629-2039; Ackerly; kathleen.lechleiter@jefferson.kyschools.us <!-- Kathleen Lechleiter -->
-ATHERTON HIGH; 3000 Dundee Road, 40205; 485-8202 • 485-8985 <!-- Red, White and Blue Red White Blue RWB -->
+ATHERTON HIGH; 3000 Dundee Road, 40205; 485-8202 • 485-8985 <!-- Red White Blue RWB -->
 Aberli, Thomas; Principal; 485-8202 • 485-8985; Atherton High; thomas.aberli@jefferson.kyschools.us <!-- Thomas Aberli BOLD -->
 Cassidy, Maritza; Counselor; 485-8730 • 485-7718; Atherton High; maritza.cassidy@jefferson.kyschools.us <!-- Maritza Cassidy -->
 Dulin, Angela; Plant Operator; 485-8202 • 485-8985; Atherton High; angela.dulin@jefferson.kyschools.us <!-- Angela Dulin -->
@@ -33,7 +33,7 @@ Kurtz, Dianna; Assistant Principal; 485-6528 • 485-8985; Atherton High; dianna
 Marables, Madalyn; Coordinator Youth Services Center; 485-6020 • 485-7744; Atherton High; madalyn.marables@jefferson.kyschools.us <!-- Madalyn Marables -->
 Uhl, Sarah; Counselor; 485-8730 • 485-7718; Atherton High; sarah.uhl@jefferson.kyschools.us <!-- Sarah Uhl -->
 White, Judith; Goal Clarity Coach; 485-8202 • 485-8985; Atherton High; judith.white@jefferson.kyschools.us <!-- Judith White -->
-ATKINSON ACADEMY; 2811 Duncan Street, 40212; 485-8203 • 485-8743 <!-- Red, White and Blue Red White Blue RWB -->
+ATKINSON ACADEMY; 2811 Duncan Street, 40212; 485-8203 • 485-8743 <!-- Red White Blue RWB -->
 Andrews, Rochelle; Counselor; 485-8203 • 485-8743; Atkinson Academy; rochelle.andrews@jefferson.kyschools.us <!-- Rochelle Andrews -->
 Carmichael-Miller, Sarah; Assistant Principal; 485-8203 • 485-8743; Atkinson Academy; sarah.carmichael-miller@jefferson.kyschools.us <!-- Sarah Carmichael-Miller Sarah Miller -->
 Hirsch, Lisa; FRC Coordinator; 485-8867 • 485-3274; Atkinson Academy; lisa.hirsch-aarvig@jefferson.kyschools.us <!-- Lisa Hirsch -->
@@ -41,7 +41,7 @@ Howard, Tijuana; Secretary; 485-8203 • 485-8743; Atkinson Academy; tijuana.how
 Nutter, Stephanie; Principal; 485-8203 • 485-8743; Atkinson Academy; stephanie.nutter@jefferson.kyschools.us <!-- Stephanie Nutter BOLD -->
 Robinson, Tamara; Plant Operator; 485-8203 • 485-8743; Atkinson Academy; tamara.robinson@jefferson.kyschools.us <!-- Tamara Robinson -->
 Sanders, Nancy; Bookkeeper; 485-8203 • 485-8743; Atkinson Academy; nancy.sanders@jefferson.kyschools.us <!-- Nancy Sanders -->
-AUBURNDALE ELEMENTARY; 5749 New Cut Road, 40214; 485-8204 • 485-8461 <!-- Red, White and Blue Red White Blue RWB -->
+AUBURNDALE ELEMENTARY; 5749 New Cut Road, 40214; 485-8204 • 485-8461 <!-- Red White Blue RWB -->
 Anderson, Wendy; Counselor; 485-8204 • 485-8461; Auburndale Elementary; wendy.anderson@jefferson.kyschools.us <!-- Wendy Anderson -->
 Blumer, Tara; Counselor; 485-8204 • 485-8461; Auburndale Elementary; tara.blumer@jefferson.kyschools.us <!-- Tara Blumer -->
 Donahue, Kathryn; Secretary; 485-8204 • 485-8461; Auburndale Elementary; kathryn.donahue@jefferson.kyschools.us <!-- Kathryn Donahue BOLD ITALIC -->
@@ -51,18 +51,18 @@ Perry, Brett; Assistant Principal; 485-8204 • 485-8461; Auburndale Elementary;
 Pittman, Ren; Assistant Principal; 485-8204 • 485-8461; Auburndale Elementary; ren.pittman@jefferson.kyschools.us <!-- Ren Pittman -->
 Seewer, Mary; Bookkeeper; 485-8204 • 485-8461; Auburndale Elementary; mary.seewer@jefferson.kyschools.us <!-- Mary Seewer -->
 Young, Wynette; FRC Coordinator; 485-8204 • 485-3827/485-8461; Auburndale Elementary; wynette.young@jefferson.kyschools.us <!-- Wynette Young -->
-AUDUBON TRADITIONAL ELEMENTARY; 1051 Hess Lane, 40217; 485-8205 • 485-8798 <!-- Red, White and Blue Red White Blue RWB -->
+AUDUBON TRADITIONAL ELEMENTARY; 1051 Hess Lane, 40217; 485-8205 • 485-8798 <!-- Red White Blue RWB -->
 Divine, Robin; Counselor; 485-8205 • 485-8798; Audubon Traditional Elementary; robin.divine@jefferson.kyschools.us <!-- Robin Divine -->
 Giudice, Debbie; Secretary; 485-8205 • 485-8798; Audubon Traditional Elementary; debbie.giudice@jefferson.kyschools.us <!-- Debbie Giudice BOLD ITALIC -->
 Highley, Eric; Plant Operator; 485-8205 • 485-8798; Audubon Traditional Elementary; eric.highley@jefferson.kyschools.us <!-- Eric Highley -->
 Marshall, Tiffany; Principal; 485-8205 • 485-8798; Audubon Traditional Elementary; tiffany.marshall@jefferson.kyschools.us <!-- Tiffany Marshall BOLD -->
 McPherson, Faneshia; Assistant Principal; 485-8205 • 485-8798; Audubon Traditional Elementary; faneshia.mcpherson@jefferson.kyschools.us <!-- Faneshia McPherson -->
 Plappert, Rebel; Bookkeeper; 485-8205 • 485-8798; Audubon Traditional Elementary; rebel.plappert@jefferson.kyschools.us <!-- Rebel Plappert -->
-AUDUBON YOUTH DEVELOPMENT CENTER; 8711 LaGrange Road, 40242; 429-7287 • 429-7296 <!-- Red, White and Blue Red White Blue RWB -->
+AUDUBON YOUTH DEVELOPMENT CENTER; 8711 LaGrange Road, 40242; 429-7287 • 429-7296 <!-- Red White Blue RWB -->
 Brunner, Paula; Clerk II; 429-7287 • 429-7296; Audubon Youth Development Center; paula.brunner@jefferson.kyschools.us <!-- Paula Brunner BOLD ITALIC -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Audubon Youth Development Center; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 McCormick, Fran; Associate Principal; 429-7287 • 429-7296; Audubon Youth Development Center; fran.mccormick@jefferson.kyschools.us <!-- Fran McCormick -->
-BALLARD HIGH; 6000 Brownsboro Road, 40222; 485-8206 • 485-8856 <!-- Red, White and Blue Red White Blue RWB -->
+BALLARD HIGH; 6000 Brownsboro Road, 40222; 485-8206 • 485-8856 <!-- Red White Blue RWB -->
 Brakmeier, Pam; Bookkeeper; 485-8206 • 485-8856; Ballard High; pam.brakmeier@jefferson.kyschools.us <!-- Pam Brakmeier -->
 Brown, Lee; Secondary Records Clerk; 485-8902 • 485-8138; Ballard High; lee.brown@jefferson.kyschools.us <!-- Lee Brown -->
 Bunting, John; Assistant Principal; 485-7618 • 485-8856; Ballard High; john.bunting@jefferson.kyschools.us <!-- John Bunting -->
@@ -77,7 +77,7 @@ Ramsey, Sandy; Secondary Secretary II; 485-8206 • 485-8856; Ballard High; sand
 Riggs, Yvonne; Coordinator Youth Services Center; 485-7666 • 485-8856; Ballard High; yvonne.riggs@jefferson.kyschools.us <!-- Yvonne Riggs -->
 Scharfenber, Meghann; Resource Teacher; 485-8251 • 485-8032; Ballard High; meghann.scharfenberger@jefferson.kyschools.us <!-- Meghann Scharfenber -->
 Sgro, Terri; Counselor; 485-8915 • 485-8856; Ballard High; terri.sgro@jefferson.kyschools.us <!-- Terri Sgro -->
-BARRET TRADITIONAL MIDDLE; 2561 Grinstead Drive, 40206; 485-8207 • 485-8579 <!-- Red, White and Blue Red White Blue RWB -->
+BARRET TRADITIONAL MIDDLE; 2561 Grinstead Drive, 40206; 485-8207 • 485-8579 <!-- Red White Blue RWB -->
 Campbell, Tim; Assistant Principal; 485-8207 • 485-8579; Barret Traditional Middle; tim.campbell@jefferson.kyschools.us <!-- Tim Campbell -->
 Daniels, Cheryl; Secretary; 485-8207 • 485-8579; Barret Traditional Middle; cheryl.daniels@jefferson.kyschools.us <!-- Cheryl Daniels BOLD ITALIC -->
 Epperson, Karen; Bookkeeper; 485-8207 • 485-8579; Barret Traditional Middle; karen.epperson@jefferson.kyschools.us <!-- Karen Epperson -->
@@ -86,7 +86,7 @@ May, Lesa; Counselor; 893-1922 • 485-8579; Barret Traditional Middle; lesa.may
 Morris, Omar; Counselor; 893-1922 • 485-8579; Barret Traditional Middle; omar.morris@jefferson.kyschools.us <!-- Omar Morris -->
 Seay, Steve; Plant Operator; 485-8207 • 485-8579; Barret Traditional Middle; stephen.seay@jefferson.kyschools.us <!-- Steve Seay Stephen Seay -->
 Wortham, Tom; Principal; 485-8207 • 485-8579; Barret Traditional Middle; tom.wortham@jefferson.kyschools.us <!-- Tom Wortham BOLD -->
-BATES ELEMENTARY; 7601 Bardstown Road, 40291; 485-8208 • 485-8960 <!-- Red, White and Blue Red White Blue RWB -->
+BATES ELEMENTARY; 7601 Bardstown Road, 40291; 485-8208 • 485-8960 <!-- Red White Blue RWB -->
 Britt, Bridget; Goal Clarity Coach; 485-8208 • 485-8960; Bates Elementary; bridget.britt@jefferson.kyschools.us <!-- Bridget Britt -->
 Charleston, Angel; Plant Operator; 485-8208 • 485-8960; Bates Elementary; angeline.charleston@jefferson.kyschools.us <!-- Angel Charleston Angeline Charleston -->
 Clark, Nicole; FRC Coordinator; 485-8208 • 485-8960; Bates Elementary; nicole.clark@jefferson.kyschools.us <!-- Nicole Clark -->
@@ -98,7 +98,7 @@ Yates, Michele; Assistant Principal; 485-8208 • 485-8960; Bates Elementary; mi
 BELLEWOOD PRESBYTERIAN HOME FOR CHILDREN; 11103 Park Road, 40223; 244-4439 • 244-4414
 Casper, Samuel; Head Teacher; 400-2497 • 244-4414; Bellewood Presbyterian Home for Children; sam.casper@jefferson.kyschools.us <!-- Samuel Casper -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Bellewood Presbyterian Home for Children; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
-BINET SCHOOL; 3410 Bon Air Avenue, 40220; 485-8209 • 485-8776 <!-- Red, White and Blue Red White Blue RWB -->
+BINET SCHOOL; 3410 Bon Air Avenue, 40220; 485-8209 • 485-8776 <!-- Red White Blue RWB -->
 Bennett, Ann; Bookkeeper; 485-8209 • 485-8776; Binet School; ann.bennett@jefferson.kyschools.us <!-- Ann Bennett -->
 Dohn, Patti; Secretary; 485-8209 • 485-8776; Binet School; patricia.dohn@jefferson.kyschools.us <!-- Patti Dohn Patricia Dohn BOLD ITALIC -->
 Hedges, Rhonda; Principal, Special School; 485-8209 • 485-8776; Binet School; rhonda.hedges@jefferson.kyschools.us <!-- Rhonda Hedges BOLD -->
@@ -106,7 +106,7 @@ Knott, Kevin; Plant Operator; 485-8209 • 485-8474; Binet School; kevin.knott@j
 Pettaway, Elycia; FRC Coordinator; 485-7427 • 485-8776; Binet School; elycia.pettaway@jefferson.kyschools.us <!-- Elycia Pettaway -->
 Shelton, Jeffery; Assistant Principal; 485-8209 • 485-8776; Binet School; jeffery.shelton@jefferson.kyschools.us <!-- Jeffery Shelton -->
 Terry, Tamela; Counselor; 485-8209 • 485-8776; Binet School; tamela.terry@jefferson.kyschools.us <!-- Tamela Terry -->
-BLAKE ELEMENTARY; 3801 Bonaventure Boulevard, 40219; 485-8210 • 485-8469 <!-- Red, White and Blue Red White Blue RWB -->
+BLAKE ELEMENTARY; 3801 Bonaventure Boulevard, 40219; 485-8210 • 485-8469 <!-- Red White Blue RWB -->
 Briggs, Jeanna; Secretary; 485-8210 • 485-8469; Blake Elementary; jeanna.briggs@jefferson.kyschools.us <!-- Jeanna Briggs BOLD ITALIC -->
 Fitzgerald, Paula; Bookkeeper; 485-8210 • 485-8469; Blake Elementary; paula.fitzgerald@jefferson.kyschools.us <!-- Paula Fitzgerald -->
 Glenn, Susan; Principal; 485-8210 • 485-8469; Blake Elementary; susan.glenn@jefferson.kyschools.us <!-- Susan Glenn BOLD -->
@@ -114,7 +114,7 @@ Hudgens, Joan; FRC Coordinator; 485-8210 • 485-8469; Blake Elementary; joan.hu
 Johnson, Marion; Counselor; 485-8210 • 485-8469; Blake Elementary; marion.johnson@jefferson.kyschools.us <!-- Marion Johnson -->
 McCoy, Ryan; Assistant Principal; 485-8210 • 485-8469; Blake Elementary; ryan.mccoy@jefferson.kyschools.us <!-- Ryan McCoy -->
 Shields, Joe; Plant Operator; 485-8210 • 485-8469; Blake Elementary; joe.shields@jefferson.kyschools.us <!-- Joe Shields Joseph Shields -->
-BLOOM ELEMENTARY; 1627 Lucia Avenue, 40204; 485-8211 • 485-8809 <!-- Red, White and Blue Red White Blue RWB -->
+BLOOM ELEMENTARY; 1627 Lucia Avenue, 40204; 485-8211 • 485-8809 <!-- Red White Blue RWB -->
 Chenoweth, Kelly; Secretary; 485-8211 • 485-8809; Bloom Elementary; kelly.chenoweth@jefferson.kyschools.us <!-- Kelly Chenoweth BOLD -->
 Crawford, Lynetta; FRC Coordinator; 451-3066/485-8211 • 485-8809; Bloom Elementary; Lynetta.Crawford@jefferson.kyschools.us <!-- Lynetta Crawford -->
 Jacobs, Jack; Principal; 485-8211 • 485-8809; Bloom Elementary; jack.jacobs2@jefferson.kyschools.us <!-- Jack Jacobs BOLD ITALIC -->
@@ -122,13 +122,13 @@ Keene, Carlous; Plant Operator; 485-8211 • 485-8809; Bloom Elementary; carlous
 May, Tawnya; School Bookkeeper; 485-8211 • 485-8809; Bloom Elementary; tawnya.may@jefferson.kyschools.us <!-- Tawnya May -->
 O'Bannon, Kristie; Assistant Principal; 485-8211 • 485-8809; Bloom Elementary; kristie.obannon@jefferson.kyschools.us <!-- Kristie O'Bannon Kristie OBannon -->
 Whitmer, Jessica; Counselor; 485-8211 • 485-8809; Bloom Elementary; jessica.whitmer@jefferson.kyschools.us <!-- Jessica Whitmer -->
-BLUE LICK ELEMENTARY; 9801 Blue Lick Road, 40229; 485-8212 • 485-8131 <!-- Red, White and Blue Red White Blue RWB -->
+BLUE LICK ELEMENTARY; 9801 Blue Lick Road, 40229; 485-8212 • 485-8131 <!-- Red White Blue RWB -->
 Holt, Dionne; FRC Coordinator; 485-8212 • 485-8131; Blue Lick Elementary; Yaneka.Holt@jefferson.kyschools.us <!-- Dionne Holt Yaneka Holt -->
 Morris, Elizabeth; Secretary; 485-8212 • 485-8131; Blue Lick Elementary; elizabeth.morris@jefferson.kyschools.us <!-- Elizabeth Morris BOLD ITALIC -->
 Raymond, Melody; Principal; 485-8212 • 485-8131; Blue Lick Elementary; melody.raymond@jefferson.kyschools.us <!-- Melody Raymond BOLD -->
 Scutchfield, Kim; Bookkeeper; 485-8212 • 485-8131; Blue Lick Elementary; kimberly.scutchfield@jefferson.kyschools.us <!-- Kim Scutchfield Kimberly Scutchfield -->
 Uhlman, Amy; Assistant Principal; 485-8212 • 485-8131; Blue Lick Elementary; amy.uhlman@jefferson.kyschools.us <!-- Amy Uhlman -->
-BOWEN ELEMENTARY; 1601 Roosevelt Avenue, 40242; 485-8213 • 485-8578 <!-- Red, White and Blue Red White Blue RWB -->
+BOWEN ELEMENTARY; 1601 Roosevelt Avenue, 40242; 485-8213 • 485-8578 <!-- Red White Blue RWB -->
 Bizianes, Shan; Counselor; 485-8213 • 485-8578; Bowen Elementary; shan.bizianes@jefferson.kyschools.us <!-- Shan Bizianes -->
 Busin, Carolyn; Bookkeeper; 485-8213 • 485-8578; Bowen Elementary; carolyn.busin@jefferson.kyschools.us <!-- Carolyn Busin -->
 Dietz, Janie; Secretary; 485-8213 • 485-8578; Bowen Elementary; janie.dietz@jefferson.kyschools.us <!-- Janie Dietz BOLD ITALIC -->
@@ -140,7 +140,7 @@ BOYS & GIRLS HAVEN; 2301 Goldsmith Lane 40218; 458-1171 • 855-3638
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Boys & Girls Haven; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Maddox, Barbara; Instructor II; 458-1171 • 855-3638; Boys & Girls Haven; barbara.maddox@jefferson.kyschools.us <!-- Barbara Maddox -->
 McCormick, Fran; Associate Principal; 429-7287 • 855-3638; Boys & Girls Haven; fran.mccormick@jefferson.kyschools.us <!-- Fran McCormick -->
-BRANDEIS ELEMENTARY; 2817 W. Kentucky Street, 40211; 485-8214 • 778-7354 <!-- Red, White and Blue Red White Blue RWB -->
+BRANDEIS ELEMENTARY; 2817 W. Kentucky Street, 40211; 485-8214 • 778-7354 <!-- Red White Blue RWB -->
 Beisler, Tammy; Plant Operator; 485-8214 • 778-7354; Brandeis Elementary; tammy.beisler@jefferson.kyschools.us <!-- Tammy Beisler -->
 Bryant, Lydia; School Clerk; 485-8214 • 778-7354; Brandeis Elementary; lydia.bryant@jefferson.kyschools.us <!-- Lydia Bryant -->
 Hillerich, Lisa; Bookkeeper; 485-8214 • 778-7354; Brandeis Elementary; lisa.hillerich@jefferson.kyschools.us <!-- Lisa Hillerich -->
@@ -149,7 +149,7 @@ Randolph, Pam; Assistant Principal; 485-8214 • 778-7354; Brandeis Elementary; 
 Stauble, Theresa; Secretary; 485-8214 • 778-7354; Brandeis Elementary; theresa.stauble@jefferson.kyschools.us <!-- Theresa Stauble BOLD ITALIC -->
 Teague, Christy; Secondary Counselor; 485-8214 • 485-7354; Brandeis Elementary; christy.teague@jefferson.kyschools.us <!-- Christy Teague -->
 West, Shervita; Principal; 485-8214 • 778-7354; Brandeis Elementary; shervita.west-jordan@jefferson.kyschools.us <!-- Shervita West BOLD -->
-BRECKINRIDGE METROPOLITAN HIGH; 1128 E. Broadway, 40204; 485-6678 • 485-6680 <!-- Red, White and Blue Red White Blue RWB -->
+BRECKINRIDGE METROPOLITAN HIGH; 1128 E. Broadway, 40204; 485-6678 • 485-6680 <!-- Red White Blue RWB -->
 Chilko, Zoraida; Counselor; 485-6682 • 582-0157; Breckinridge Metropolitan High; zoraida.chilko@jefferson.kyschools.us <!-- Zoraida Chilko -->
 Cripe, Stuart "Butch"; Principal; 485-6678 • 485-6680; Breckinridge Metropolitan High; butch.cripe@jefferson.kyschools.us <!-- Stuart "Butch" Cripe Stuart Cripe Butch Cripe BOLD -->
 Deskins, Roger; Assistant Principal; 485-6678 • 485-6680; Breckinridge Metropolitan High; roger.deskins@jefferson.kyschools.us <!-- Roger Deskins -->
@@ -157,7 +157,7 @@ Lawson, Katie; Assistant Principal; 485-6678 • 485-6680; Breckinridge Metropol
 Malambri, Janine; Secretary/Bookkeeper; 485-6678 • 485-6680; Breckinridge Metropolitan High; janine.malambri@jefferson.kyschools.us <!-- Janine Malambri BOLD ITALIC -->
 Moss, Tommy; Assistant Principal; 485-6678 • 485-6680; Breckinridge Metropolitan High; tommy.moss@jefferson.kyschools.us <!-- Tommy Moss -->
 Scoggins, Johnny; Plant Operator; 485-6678 • 485-6680; Breckinridge Metropolitan High; johnny.scoggins@jefferson.kyschools.us <!-- Johnny Scoggins -->
-BRECKINRIDGE-FRANKLIN ELEMENTARY; 1351 Payne Street, 40206; 485-8215 • 485-8628 <!-- Red, White and Blue Red White Blue RWB -->
+BRECKINRIDGE-FRANKLIN ELEMENTARY; 1351 Payne Street, 40206; 485-8215 • 485-8628 <!-- Red White Blue RWB -->
 Boone, Angela; FRC Coordinator; 485-8215 • 568-4818/485-8628; Breckinridge-Franklin Elementary; angela.boone-pillow@jefferson.kyschools.us <!-- Angela Boone -->
 Dobbins, Gina; School Bookkeeper I; 485-8215 • 485-8628; Breckinridge-Franklin Elementary; regina.dobbins@jefferson.kyschools.us <!-- Gina Dobbins Regina Dobbins -->
 Doyle, Angela; Assistant Principal; 485-8215 • 485-8628; Breckinridge-Franklin Elementary; angela.doyle2@jefferson.kyschools.us <!-- Angela Doyle -->
@@ -174,13 +174,13 @@ Ackerman, Lori; Clerk II; 814-3722 • 426-0163; Brook-KMI; lori.ackerman@jeffer
 Allen, Lisa; Clerk I; 814-3771 • 426-0163; Brook-KMI; lisa.allen@jefferson.kyschools.us <!-- Lisa Allen -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Brook-KMI; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Johnson, Denille; Associate Principal; 814-3722 • 426-0163; Brook-KMI; denille.johnson@jefferson.kyschools.us <!-- Denille Johnson -->
-BROOKLAWN YOUTH SERVICES; 2125 Goldsmith Lane, 40218; 515-0460 • 451-9651 <!-- Red, White and Blue Red White Blue RWB -->
+BROOKLAWN YOUTH SERVICES; 2125 Goldsmith Lane, 40218; 515-0460 • 451-9651 <!-- Red White Blue RWB -->
 Blevins, Angela; Clerk I; 515-0462 • 451-9651; Brooklawn Youth Services; angela.blevins@jefferson.kyschools.us <!-- Angela Blevins -->
 Casper, Sam; Associate Principal; 515-0460 • 425-8513; Brooklawn Youth Services; sam.casper@jefferson.kyschools.us <!-- Sam Casper -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Brooklawn Youth Services; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Garrison, Dorothy; Clerk I; 515-0460 • 451-9651; Brooklawn Youth Services; dorothy.garrison@jefferson.kyschools.us <!-- Dorothy Garrison -->
 Steinmetz, Kari; Clerk II; 515-0460 • 451-9651; Brooklawn Youth Services; kari.steinmetz@jefferson.kyschools.us <!-- Kari Steinmetz -->
-BROWN SCHOOL; 546 S. First Street, 40202; 485-8216 • 485-8741 <!-- Red, White and Blue Red White Blue RWB -->
+BROWN SCHOOL; 546 S. First Street, 40202; 485-8216 • 485-8741 <!-- Red White Blue RWB -->
 Escobar, Melissa; Secretary II; 485-8216 • 485-8741; Brown School; melissa.escobar@jefferson.kyschools.us <!-- Melissa Escobar BOLD ITALIC -->
 Healy, Timothy; Principal; 485-8216 • 485-8741; Brown School; tim.healy@jefferson.kyschools.us <!-- Timothy Healy BOLD -->
 Landenwich, Mary Frances; Goal Clarity; 485-8216 • 485-8741; Brown School; mary.landenwich@jefferson.kyschools.us <!-- Mary Frances Landenwich  Mary Landenwich -->
@@ -190,7 +190,7 @@ Vacant; Assistant Principal (Grades 7-12); 485-8216 • 485-8741; Brown School; 
 Williams, Rhonda; Bookkeeper/Order Receiving; 485-8216 • 485-8741; Brown School; rhonda.williams2@jefferson.kyschools.us <!-- Rhonda Williams -->
 Willison, Pam; Counselor (Grades 7-12), 7th Grade-12th Grade; 485-8216 • 485-8741; Brown School; pam.willison@jefferson.kyschools.us <!-- Pamela Willison Pam Willison -->
 Wilson, Shawn; Assistant Principal (Grades K-6); 485-8216 • 485-8741; Brown School; shawn.wilson@jefferson.kyschools.us <!-- Shawn Wilson -->
-BUECHEL METROPOLITAN HIGH; 1960 Bashford Manor Lane, 40218; 485-8316 • 485-8791 <!-- Red, White and Blue Red White Blue RWB -->
+BUECHEL METROPOLITAN HIGH; 1960 Bashford Manor Lane, 40218; 485-8316 • 485-8791 <!-- Red White Blue RWB -->
 Hodge, Lisa; Counselor; 485-8316 • 485-8791; Buechel Metropolitan High; lisa.hodge@jefferson.kyschools.us <!-- Lisa Hodge -->
 Hudson, Donald; Assistant Principal; 485-8316 • 485-8791; Buechel Metropolitan High; donny.hudson@jefferson.kyschools.us <!-- Donald Hudson -->
 Knowsley, Tiffany; Assistant Principal; 485-8316 • 485-8791; Buechel Metropolitan High; tiffany.knowsley@jefferson.kyschools.us <!-- Tiffany Knowsley -->
@@ -200,7 +200,7 @@ Sivori, David; Assistant Principal; 485-8316 • 485-8791; Buechel Metropolitan 
 Vacant; Secretary; 485-8316 • 485-8791; Buechel Metropolitan High; unknown@jefferson.kyschools.us <!-- vacant BOLD ITALIC -->
 Walters, Eddie; Assistant Principal; 485-8316 • 485-8791; Buechel Metropolitan High; eddie.walters@jefferson.kyschools.us <!-- Eddie Walters -->
 Young, Deanna; Plant Operator; 485-8316 • 485-8791; Buechel Metropolitan High; deedee.young@jefferson.kyschools.us <!-- Deanna Young -->
-BUTLER TRADITIONAL HIGH; 2222 Crums Lane, 40216; 485-8220 • 485-8517 <!-- Red, White and Blue Red White Blue RWB -->
+BUTLER TRADITIONAL HIGH; 2222 Crums Lane, 40216; 485-8220 • 485-8517 <!-- Red White Blue RWB -->
 Allen, William; Principal; 485-8220 • 485-8517; Butler Traditional High; william.allen2@jefferson.kyschools.us <!-- William Allen BOLD -->
 Cannon, Cathy; Bookkeeper; 485-8220 • 485-8517; Butler Traditional High; cathy.cannon@jefferson.kyschools.us <!-- Cathy Cannon -->
 Davis, Julianne; Counselor; 485-8510 • 485-6359; Butler Traditional High; julianne.davis@jefferson.kyschools.us <!-- Julianne Davis -->
@@ -213,7 +213,7 @@ Reedy, Robert; Assistant Principal; 485-8220 • 485-8517; Butler Traditional Hi
 Stites, Michael; Counselor; 485-8510 • 485-6359; Butler Traditional High; michael.stites@jefferson.kyschools.us <!-- Michael Stites -->
 Walker, Kathy; Assistant Principal; 485-8220 • 485-8517; Butler Traditional High; kathy.walker@jefferson.kyschools.us <!-- Kathy Walker -->
 Ziegler, Travis; Career Planner; 485-8220 • 485-8517; Butler Traditional High; travis.ziegler@jefferson.kyschools.us <!-- Travis Ziegler -->
-BYCK ELEMENTARY; 2328 Cedar Street, 40212; 485-8221 • 485-8805 <!-- Red, White and Blue Red White Blue RWB -->
+BYCK ELEMENTARY; 2328 Cedar Street, 40212; 485-8221 • 485-8805 <!-- Red White Blue RWB -->
 Ashby, Benita; Secretary; 485-8221 * 485-8805; Byck Elementary; benita.ashby@jefferson.kyschools.us <!-- Benita Ashby -->
 Bendson, Brenda; Counselor; 485-8221 • 485-8805; Byck Elementary; brenda.bendson@jefferson.kyschools.us <!-- Brenda Bendson -->
 Darden, Tamara; Principal; 485-8221 • 485-8805; Byck Elementary; tammy.darden@jefferson.kyschools.us <!-- Tamara Darden BOLD -->
@@ -221,7 +221,7 @@ Davis, Jeanette; Bookkeeper; 485-8221 • 485-8805; Byck Elementary; jeanette.da
 Everett, Sky; FRC Coordinator; 485-8061 • 485-8862; Byck Elementary; sky.everett@jefferson.kyschools.us <!-- Sky Everett -->
 Renn, Candace; Resource Teacher; 485-8221 • 485-8805; Byck Elementary; candace.renn@jefferson.kyschools.us <!-- Candace Renn -->
 Shelby, Synthia; Assistant Principal; 485-8221 * 485-8805; Byck Elementary; synthia.shelby@jefferson.kyschools.us <!--Synthia Shelby -->
-CAMP TAYLOR ELEMENTARY; 1446 Belmar Drive, 40213; 485-8222 • 485-8812 <!-- Red, White and Blue Red White Blue RWB -->
+CAMP TAYLOR ELEMENTARY; 1446 Belmar Drive, 40213; 485-8222 • 485-8812 <!-- Red White Blue RWB -->
 Chester, Pam; Secretary; 485-8222 • 485-8812; Camp Taylor Elementary; pamela.chester@jefferson.kyschools.us <!-- Pam Chester Pamela Chester BOLD ITALIC -->
 Hooper, Stephanie; FRC Coordinator; 485-8222 • 485-8812; Camp Taylor Elementary; stephanie.hooper@jefferson.kyschools.us <!-- Stephanie Hooper -->
 Matthews, Jackie; Plant Operator; 485-8222 • 485-8812; Camp Taylor Elementary; jackie.matthews@jefferson.kyschools.us <!-- Jackie Matthews -->
@@ -230,7 +230,7 @@ Roddy, Diane; Attendance Clerk; 485-8222 • 485-8812; Camp Taylor Elementary; d
 Shanton, John; Assistant Principal; 485-8222 • 485-8812; Camp Taylor Elementary; john.shanton@jefferson.kyschools.us <!-- John Shanton -->
 Stolte, Becky; Bookkeeper; 485-8222 • 485-8812; Camp Taylor Elementary; becky.stolte@jefferson.kyschools.us <!-- Becky Stolte -->
 Whitely, LaRae; Principal; 485-8222 • 485-8812; Camp Taylor Elementary; larae.whitely@jefferson.kyschools.us <!-- LaRae Whitely BOLD -->
-CANE RUN ELEMENTARY; 3951 Cane Run Road, 40211; 485-8223 • 485-8659 <!-- Red, White and Blue Red White Blue RWB -->
+CANE RUN ELEMENTARY; 3951 Cane Run Road, 40211; 485-8223 • 485-8659 <!-- Red White Blue RWB -->
 Barnes, Susie; Secretary; 485-8223 • 485-8659; Cane Run Elementary; susanna.barnes@jefferson.kyschools.us <!-- Susie Barnes Susanna Barnes BOLD ITALIC -->
 Booth, Ramono; Plant Operator; 485-8223 • 485-8659; Cane Run Elementary; ramono.booth@jefferson.kyschools.us <!-- Ramono Booth -->
 Claypool, Lauren; FRC Coordinator; 485-8193 • 485-8659; Cane Run Elementary; lauren.claypool@jefferson.kyschools.us <!-- Lauren Claypool -->
@@ -239,7 +239,7 @@ Johnson, Deborah; Goal Clarity; 485-8223 • 485-8659; Cane Run Elementary; debo
 Knabel, Diane; Bookkeeper; 485-8223 • 485-8659; Cane Run Elementary; diane.knabel@jefferson.kyschools.us <!-- Diane Knabel -->
 Lawrence, Erica; Assistant Principal; 485-8223 • 485-8631; Cane Run Elementary; erica.lawrence@jefferson.kyschools.us <!-- Erica Lawrence -->
 Watson, Heather; Counselor; 485-8223 • 485-8659; Cane Run Elementary; heather.watson2@jefferson.kyschools.us <!-- Heather Watson -->
-CARRITHERS MIDDLE; 4320 Billtown Road, 40299; 485-8224 • 485-8394 <!-- Red, White and Blue Red White Blue RWB -->
+CARRITHERS MIDDLE; 4320 Billtown Road, 40299; 485-8224 • 485-8394 <!-- Red White Blue RWB -->
 Ferguson, Janis; Secretary; 485-8224 • 485-8394; Carrithers Middle; janis.ferguson@jefferson.kyschools.us <!-- Janis Ferguson BOLD ITALIC -->
 Franklin-Williams, Marcella Denise; Principal; 485-8224 • 485-8394; Carrithers Middle; marcella.franklin-willi@jefferson.kyschools.us <!-- Marcella Denise Franklin-Williams  Marcella Franklin-Williams BOLD -->
 Gilbert, Cheryl; Coordinator Youth Services Center; 485-6465 • 485-6469; Carrithers Middle; cheryl.gilbert@jefferson.kyschools.us <!-- Cheryl Gilbert -->
@@ -250,7 +250,7 @@ Stettenbenz, Linda; Bookkeeper; 485-8224 • 485-8394; Carrithers Middle; linda.
 Waldridge, Teresa; Plant Operator; 485-8224 • 485-8394; Carrithers Middle; teresa.waldridge@jefferson.kyschools.us <!-- Teresa Waldridge -->
 Watts, Jason; Assistant Principal; 485-8224 • 485-8394; Carrithers Middle; jason.watts@jefferson.kyschools.us <!-- Jason Watts -->
 Williams, Kathy; Resource Teacher; 485-8224 • 485-8394; Carrithers Middle; kathy.williams@jefferson.kyschools.us <!-- Kathy Williams -->
-CARTER TRADITIONAL ELEMENTARY; 3600 Bohne Avenue, 40211; 485-8225 • 485-6584 <!-- Red, White and Blue Red White Blue RWB -->
+CARTER TRADITIONAL ELEMENTARY; 3600 Bohne Avenue, 40211; 485-8225 • 485-6584 <!-- Red White Blue RWB -->
 Bartlett, Patti; Bookkeeper; 485-8225 • 485-6584; Carter Traditional Elementary; patti.bartlett@jefferson.kyschools.us <!-- Patti Bartlett -->
 Butler, Blair; Assistant Principal; 485-8225 • 485-6584; Carter Traditional Elementary; blair.butler@jefferson.kyschools.us <!-- Blair Butler -->
 Daubard, Buffie; FRC Coordinator; 485-8225 • 485-6584; Carter Traditional Elementary; buffie.daubard@jefferson.kyschools.us <!-- Buffie Daubard -->
@@ -258,7 +258,7 @@ Green, Denise; Secretary; 485-8225 • 485-6584; Carter Traditional Elementary; 
 Mann, Holly; Plant Operator; 485-8225 • 485-6584; Carter Traditional Elementary; holly.mann@jefferson.kyschools.us <!-- Holly Mann -->
 Wright, Eric; Counselor; 485-8225 • 485-6584; Carter Traditional Elementary; eric.wright2@jefferson.kyschools.us <!-- Eric Wright -->
 Wyman, Jamie; Principal; 485-8225 • 485-6584; Carter Traditional Elementary; jamie.wyman@jefferson.kyschools.us <!-- Jamie Wyman BOLD -->
-CENTRAL HIGH SCHOOL MCA; 1130 W. Chestnut Street, 40203; 485-8226 • 485-7034 <!-- Red, White and Blue Red White Blue RWB -->
+CENTRAL HIGH SCHOOL MCA; 1130 W. Chestnut Street, 40203; 485-8226 • 485-7034 <!-- Red White Blue RWB -->
 Brown, Julie; Counselor; 485-7693 • 485-7407; Central High School MCA; julie.brown@jefferson.kyschools.us <!-- Julie Brown -->
 Burton, Carla; Counselor; 485-7691 • 485-7407; Central High School MCA; carla.burton@jefferson.kyschools.us <!-- Carla Burton -->
 Byrd, Dave; Plant Operator; 485-8226 • 485-7034; Central High School MCA; david.byrd@jefferson.kyschools.us <!-- Dave Byrd Dave Bird David Byrd David Bird -->
@@ -272,7 +272,7 @@ Mack, Elona; Coordinator, FRYSC; 485-6673 • 485-7034; Central High School MCA;
 May, Richard; Home School Coordinator; 485-8813 • 485-7034; Central High School MCA; richard.may@jefferson.kyschools.us <!-- Richard May -->
 Moody, Jeanne; School Secretary II; 485-6995 • 485-7034; Central High School MCA; jeanne.moody@jefferson.kyschools.us <!-- Jeanne Moody BOLD ITALIC -->
 Schmidt, Brenda; Assistant Principal; 485-8226 • 485-7034; Central High School MCA; brenda.schmidt@jefferson.kyschools.us <!-- Brenda Schmidt -->
-CHANCEY ELEMENTARY; 4301 Murphy Lane, 40241; 485-8387 • 485-8412 <!-- Red, White and Blue Red White Blue RWB -->
+CHANCEY ELEMENTARY; 4301 Murphy Lane, 40241; 485-8387 • 485-8412 <!-- Red White Blue RWB -->
 Cahill, Aaron; Counselor; 485-8387 • 485-8412; Chancey Elementary; aaron.cahill@jefferson.kyschools.us <!-- Aaron Cahill -->
 Cosby, Ronda; Principal; 485-8387 • 485-8412; Chancey Elementary; ronda.cosby@jefferson.kyschools.us <!-- Ronda Cosby BOLD -->
 Dewboys, Lori; Bookkeeper; 485-8387 • 485-8412; Chancey Elementary; lori.dewboys@jefferson.kyschools.us <!-- Lori Dewboys -->
@@ -280,7 +280,7 @@ Ivory, Tioka; Assistant Principal; 485-8387 • 485-8412; Chancey Elementary; ti
 McCarthy, Kim; FRC Coordinator; 423-9829 • 485-8412; Chancey Elementary; kimberly.mccarthy@jefferson.kyschools.us <!-- Kim McCarthy Kimberly McCarthy -->
 Murphy, Mark; Plant Operator; 485-8387 • 485-8412; Chancey Elementary; mark.murphy@jefferson.kyschools.us <!-- Mark Murphy -->
 White, Tina; Secretary; 485-8387 • 485-8412; Chancey Elementary; tina.white@jefferson.kyschools.us <!-- Tina White BOLD ITALIC -->
-CHENOWETH ELEMENTARY; 3622 Brownsboro Road, 40207; 485-8227 • 485-8458 <!-- Red, White and Blue Red White Blue RWB -->
+CHENOWETH ELEMENTARY; 3622 Brownsboro Road, 40207; 485-8227 • 485-8458 <!-- Red White Blue RWB -->
 Barber, Darra; Counselor; 485-8802 • 485-8458; Chenoweth Elementary; darra.barber@jefferson.kyschools.us <!-- Darra Barber -->
 Buschman, Trina; Secretary; 485-8227 • 485-8458; Chenoweth Elementary; trina.buschman@jefferson.kyschools.us <!-- Trina Buschman  BOLD ITALIC -->
 Clay, Laketa; Assistant Principal; 485-8227 • 485-8458; Chenoweth Elementary; laketa.clay@jefferson.kyschools.us <!-- Laketa Clay -->
@@ -288,7 +288,7 @@ Culp, Jayne; Bookkeeper; 485-8227 • 485-8458; Chenoweth Elementary; jayne.culp
 Deatrick, Penny; Principal; 485-8227 • 485-8458; Chenoweth Elementary; penny.deatrick@jefferson.kyschools.us <!-- Penny Deatrick BOLD -->
 Foster, Larry; Plant Operator; 485-8227 • 485-8458; Chenoweth Elementary; larry.foster@jefferson.kyschools.us <!-- Larry Foster -->
 Mudd, Marynan; FRC Coordinator; 485-3831 • 485-8458; Chenoweth Elementary; marynan.mudd@jefferson.kyschools.us <!-- Marynan Mudd -->
-CHURCHILL PARK SCHOOL; 435 Boxley Avenue, 40209; 485-8229 • 485-8982 <!-- Red, White and Blue Red White Blue RWB -->
+CHURCHILL PARK SCHOOL; 435 Boxley Avenue, 40209; 485-8229 • 485-8982 <!-- Red White Blue RWB -->
 Kissel, Barbara; FRC Coordinator; 485-8118 • 361-7398; Churchill Park School; barb.kissel@jefferson.kyschools.us <!-- Barbara Kissel Barb Kissel -->
 Knabel, Tom; Principal; 485-8229 • 485-8982; Churchill Park School; tom.knabel@jefferson.kyschools.us <!-- Tom Knabel BOLD -->
 Laine, Maria; Bookkeeper; 485-8229 • 485-8982; Churchill Park School; maria.laine@jefferson.kyschools.us <!-- Maria Laine -->
@@ -296,7 +296,7 @@ Lee, Krissy; Counselor; 485-8229 • 485-8982; Churchill Park School; kristina.l
 Mullins, Todd; Assistant Principal;485-8229 • 485-8982; Churchill Park School; todd.mullins2@jefferson.kyschools.us <!-- Todd Mullins -->
 Phillips, Randal; Plant Operator; 485-8229 • 485-8982; Churchill Park School; randal.phillips@jefferson.kyschools.us <!-- Randal Phillips -->
 Wihlon, Flora; Secretary; 485-8229 • 485-8982; Churchill Park School; flora.wihlon@jefferson.kyschools.us <!-- Flora Wihlon BOLD ITALIC -->
-COCHRAN ELEMENTARY; 500 W. Gaulbert Avenue, 40208; 485-8230 • 485-8498 <!-- Red, White and Blue Red White Blue RWB -->
+COCHRAN ELEMENTARY; 500 W. Gaulbert Avenue, 40208; 485-8230 • 485-8498 <!-- Red White Blue RWB -->
 Foster, Tim; Principal; 485-8230 • 485-8498; Cochran Elementary; tim.foster@jefferson.kyschools.us <!-- Tim Foster BOLD -->
 Huber, Leigh; Assistant Principal; 485-8230 • 485-8498; Cochran Elementary; leigh.huber@jefferson.kyschools.us <!-- Leigh Huber -->
 Logan, Cathy; Secretary I; 485-8230 • 485-8498; Cochran Elementary; cathy.logan@jefferson.kyschools.us <!-- Cathy Logan BOLD ITALIC -->
@@ -304,7 +304,7 @@ Ludwig, Donna; Bookkeeper; 485-8230 • 485-8498; Cochran Elementary; donna.ludw
 Spencer, Susan; Resource Teacher; 485-8230 • 485-8498; Cochran Elementary; susan.spencer@jefferson.kyschools.us <!-- Susan Spencer -->
 Stevens, Mary Beth; Reading Recovery Teacher Leader; 485-8230 • 485-8498; Cochran Elementary; mary.stevens@jefferson.kyschools.us <!-- Mary Beth Stevens Mary Stevens -->
 Wagner, Sue; FRYSC Coordinator; 485-8844 • 313-1149; Cochran Elementary; sue.wagner@jefferson.kyschools.us <!-- Sue Wagner Susan Wagner -->
-COCHRANE ELEMENTARY; 2511 Tregaron Avenue, 40299; 485-8231 • 485-8392 <!-- Red, White and Blue Red White Blue RWB -->
+COCHRANE ELEMENTARY; 2511 Tregaron Avenue, 40299; 485-8231 • 485-8392 <!-- Red White Blue RWB -->
 Bransford, Sharita; Counselor; 485-8231 • 485-8392; Cochrane Elementary; sharita.bransford@jefferson.kyschools.us <!-- Sharita Bransford -->
 Cordery, James; FRC Coordinator; 485-7291 • 485-8392; Cochrane Elementary; james.cordery@jefferson.kyschools.us <!-- James Cordery -->
 Dermody, Patty; Resource Teacher; 485-8231 • 485-8392; Cochrane Elementary; patricia.dermody@jefferson.kyschools.us <!-- Patty Dermody -->
@@ -313,14 +313,14 @@ Klein, Susie; Bookkeeper; 485-8231 • 485-8392; Cochrane Elementary; karen.klei
 Sutherland, Nancy; Secretary; 485-8231 • 485-8392; Cochrane Elementary; nancy.sutherland@jefferson.kyschools.us <!-- Nancy Sutherland  BOLD ITALIC -->
 Tanzilla, DJ; Plant Operator; 485-8231 • 485-8392; Cochrane Elementary; dominic.tanzilla@jefferson.kyschools.us <!-- DJ Tanzilla -->
 Vacant; Assistant Principal; 485-8231 • 485-8392; Cochrane Elementary; unknown@jefferson.kyschools.us <!-- Vacant -->
-COLERIDGE-TAYLOR MONTESSORI ELEMENTARY; 1115 W. Chestnut Street, 40203; 485-8232 • 485-8629 <!-- Red, White and Blue Red White Blue RWB -->
+COLERIDGE-TAYLOR MONTESSORI ELEMENTARY; 1115 W. Chestnut Street, 40203; 485-8232 • 485-8629 <!-- Red White Blue RWB -->
 Allen, Kimberly; Counselor; 485-8232 • 485-8629; Coleridge-Taylor Montessori Elementary; kimberly.allen@jefferson.kyschools.us <!-- Kimberly Allen -->
 DeLorenzo, Justin; FRC Coordinator; 485-8232 • 485-8629; Coleridge-Taylor Montessori Elementary; justin.delorenzo@jefferson.kyschools.us <!-- Justin DeLorenzo -->
 Downing, Diane; Plant Operator; 485-8232 • 485-8629; Coleridge-Taylor Montessori Elementary; diane.downing@jefferson.kyschools.us <!-- Diane Downing -->
 Kramer, Amy; Secretary; 485-8232 • 485-8629; Coleridge-Taylor Montessori Elementary; amy.kramer@jefferson.kyschools.us <!-- Amy Kramer -->
 Thomas, Meg; Principal; 485-8232 • 485-8629; Coleridge-Taylor Montessori Elementary; meghan.thomas@jefferson.kyschools.us <!-- Meg Thomas BOLD -->
 Wade, Scott; Assistant Principal; 485-8232 • 485-8629; Coleridge-Taylor Montessori Elementary; scott.wade@jefferson.kyschools.us <!-- Scott Wade -->
-CONWAY MIDDLE; 6300 Terry Road, 40258; 485-8233 • 485-8076 <!-- Red, White and Blue Red White Blue RWB -->
+CONWAY MIDDLE; 6300 Terry Road, 40258; 485-8233 • 485-8076 <!-- Red White Blue RWB -->
 Anderson, Steve; Assistant Principal; 485-8233 • 485-8076; Conway Middle; steve.anderson@jefferson.kyschools.us <!-- Steve Anderson -->
 Chandler, Lesli; Bookkeeper; 485-8233 • 485-8076; Conway Middle; lesli.chandler@jefferson.kyschools.us <!-- Lesli Chandler -->
 Fehr, Greg; Principal; 485-8233 • 485-8076; Conway Middle; greg.fehr@jefferson.kyschools.us <!-- Greg Fehr BOLD -->
@@ -332,7 +332,7 @@ Sears, Rhonda; Counselor; 485-8233 • 485-8076; Conway Middle; rhonda.sears@jef
 Smith, Karen; Resource Teacher; 485-8233 • 485-8076; Conway Middle; karen.smith3@jefferson.kyschools.us <!-- Karen Smith -->
 Williams, Reisa; Secretary; 485-8233 • 485-8076; Conway Middle; reisa.williams@jefferson.kyschools.us <!-- Reisa Williams  BOLD ITALIC -->
 Woodward, Angel; Assistant Principal; 485-8233 • 485-8076; Conway Middle; angel.woodward@jefferson.kyschools.us <!-- Angel Woodward -->
-CORAL RIDGE ELEMENTARY; 10608 National Turnpike, 40118; 485-8234 • 485-8369 <!-- Red, White and Blue Red White Blue RWB -->
+CORAL RIDGE ELEMENTARY; 10608 National Turnpike, 40118; 485-8234 • 485-8369 <!-- Red White Blue RWB -->
 Carson, Erin; FRC Coordinator; 485-8195 • 485-8369; Coral Ridge Elementary; erin.carson@jefferson.kyschools.us <!-- Erin Carson -->
 James, Barbara; Principal; 485-8234 • 485-8369; Coral Ridge Elementary; barbara.james@jefferson.kyschools.us <!-- Barbara James BOLD -->
 Poe, Angie; Plant Operator; 485-8234 • 485-8369; Coral Ridge Elementary; angela.poe@jefferson.kyschools.us <!-- Angie Poe Angela Poe -->
@@ -340,7 +340,7 @@ Roadhouse, Michael; Assistant Principal; 485-8234 • 485-8369; Coral Ridge Elem
 Roberts, Tracey; Secretary; 485-8234 • 485-8369; Coral Ridge Elementary; tracey.roberts@jefferson.kyschools.us <!-- Tracey Roberts BOLD ITALIC -->
 Shuck, Nancy; Bookkeeper; 485-8234 • 485-8369; Coral Ridge Elementary; nancy.shuck@jefferson.kyschools.us <!-- Nancy Shuck -->
 Walsh, Rachel; Counselor; 485-8234 • 485-8369; Coral Ridge Elementary; rachel.walsh@jefferson.kyschools.us <!-- Rachel Walsh -->
-CROSBY MIDDLE; 303 Gatehouse Lane, 40243; 485-8235 • 485-8424 <!-- Red, White and Blue Red White Blue RWB -->
+CROSBY MIDDLE; 303 Gatehouse Lane, 40243; 485-8235 • 485-8424 <!-- Red White Blue RWB -->
 Elder, Diane; Counselor; 485-8235 • 485-8424; Crosby Middle; diane.elder@jefferson.kyschools.us <!-- Diane Elder -->
 Estes, Jennifer; Assistant Principal; 485-8235 • 485-8424; Crosby Middle; jennifer.estes@jefferson.kyschools.us <!-- Jennifer Estes -->
 Graham, Adrian; Coordinator YSC; 485-8235 • 485-8424; Crosby Middle; adrian.graham@jefferson.kyschools.us <!-- Adrian Graham -->
@@ -354,7 +354,7 @@ Pappe, Donna; Secretary; 485-8235 • 485-8424; Crosby Middle; donna.pappe2@jeff
 Robards, Dana; Bookkeeper; 485-8235 • 485-8424; Crosby Middle; dana.robards@jefferson.kyschools.us <!-- Dana Robards -->
 Watts, Melissa; Assistant Principal; 485-8235 • 485-8424; Crosby Middle; melissa.watts@jefferson.kyschools.us <!-- Melissa Watts -->
 Webb, Norman; Plant Operator; 485-8235 • 485-8424; Crosby Middle; norman.webb@jefferson.kyschools.us <!-- Norman Webb -->
-CRUMS LANE ELEMENTARY; 3212 S. Crums Lane, 40216; 485-8236 • 485-8536 <!-- Red, White and Blue Red White Blue RWB -->
+CRUMS LANE ELEMENTARY; 3212 S. Crums Lane, 40216; 485-8236 • 485-8536 <!-- Red White Blue RWB -->
 Brown, Rose; Plant Operator; 485-8236 • 485-8536; Crums Lane Elementary; rose.landrum@jefferson.kyschools.us <!-- Rose Brown -->
 Byrd, Anna Mary; Principal; 485-8236 • 485-8536; Crums Lane Elementary; anna.byrd@jefferson.kyschools.us <!-- Anna Mary Byrd  Anna Byrd Anna Bird Ann Bird Ann Byrd BOLD -->
 Childress, Jennifer; Counselor; 485-8236 • 485-8536; Crums Lane Elementary; jennifer.childress@jefferson.kyschools.us <!-- Jennifer Childress -->
@@ -362,7 +362,7 @@ Haskins, Pam; School Bookkeeper; 485-8236 • 485-8536; Crums Lane Elementary; p
 Seadler, Michelle; Assistant Principal; 485-8236 • 485-8536; Crums Lane Elementary; michelle.seadler@jefferson.kyschools.us <!-- Michelle Seadler -->
 Stevenson, Kim; FRC Coordinator; 485-3837 • 485-8536; Crums Lane Elementary; kim.stevenson@jefferson.kyschools.us <!-- Kim Stevenson -->
 Thompson, Jan; Secretary; 485-8236 • 485-8536; Crums Lane Elementary; jan.thompson@jefferson.kyschools.us <!-- Jan Thompson BOLD ITALIC -->
-DIXIE ELEMENTARY; 10201 Casalanda Drive, 40272; 485-8238 • 485-8448 <!-- Red, White and Blue Red White Blue RWB -->
+DIXIE ELEMENTARY; 10201 Casalanda Drive, 40272; 485-8238 • 485-8448 <!-- Red White Blue RWB -->
 Carter, Felicia; Counselor; 485-8238 • 485-8448; Dixie Elementary; felicia.carter@jefferson.kyschools.us <!-- Felicia Carter -->
 Cosby, Carla; FRC Coordinator; 485-3896 • 485-8448; Dixie Elementary; carla.cosby@jefferson.kyschools.us <!-- Carla Cosby -->
 Dalton, Laura; Assistant Principal; 485-8238 • 485-8448; Dixie Elementary; laura.dalton@jefferson.kyschools.us <!-- Laura Dalton -->
@@ -370,7 +370,7 @@ Foushee, Cynthia; Bookkeeper; 485-8238 • 485-8448; Dixie Elementary; cynthia.f
 Houglan, Judy; Secretary; 485-8238 • 485-8448; Dixie Elementary; judith.houglan@jefferson.kyschools.us <!-- Judy Houglan Judith Houglan BOLD ITALIC -->
 Howard, Stephen; Principal; 485-8238 • 485-8448; Dixie Elementary; stephen.howard@jefferson.kyschools.us <!-- Stephen Howard BOLD -->
 Rothel, Darlene; Plant Operator; 485-8238 • 485-8448; Dixie Elementary; darlene.rothel@jefferson.kyschools.us <!-- Darlene Rothel -->
-DOSS HIGH; 7601 St. Andrews Church Road, 40214; 485-8239 • 485-8080 <!-- Red, White and Blue Red White Blue RWB -->
+DOSS HIGH; 7601 St. Andrews Church Road, 40214; 485-8239 • 485-8080 <!-- Red White Blue RWB -->
 Cecil, Gail; Attendance Clerk; 485-8239 • 485-8080; Doss High; gail.cecil@jefferson.kyschools.us <!-- Gail Cecil -->
 Embry, Christy; Counselor; 485-8081 • 485-8084; Doss High; christy.embry@jefferson.kyschools.us <!-- Christy Embry -->
 Fluhr, Leslie; Bookkeeper; 485-8239 • 485-8080; Doss High; leslie.fluhr@jefferson.kyschools.us <!-- Leslie Fluhr -->
@@ -385,14 +385,14 @@ Ryan, Theresa; Coordinator YSC; 485-7120 • 485-7159; Doss High; theresa.ryan@j
 Rye, Rocky; Plant Operator; 485-8239 • 485-8080; Doss High; rocky.rye@jefferson.kyschools.us <!-- Rocky Rye -->
 Salyer, Beth; Counselor; 485-8081 • 485-8084; Doss High; beth.salyer@jefferson.kyschools.us <!-- Beth Salyer -->
 Williams, Meocha; Assistant Principal; 485-8239 • 485-8080; Doss High; meocha.williams@jefferson.kyschools.us <!-- Meocha Williams -->
-DUNN ELEMENTARY; 2010 Rudy Lane, 40207; 485-8240 • 485-8829 <!-- Red, White and Blue Red White Blue RWB -->
+DUNN ELEMENTARY; 2010 Rudy Lane, 40207; 485-8240 • 485-8829 <!-- Red White Blue RWB -->
 Barber, Tracy; Principal; 485-8240 • 485-8829; Dunn Elementary; tracy.barber@jefferson.kyschools.us <!-- Tracy Barber BOLD -->
 Lightcap, Lori; Counselor; 485-8240 • 485-8829; Dunn Elementary; lori.lightcap@jefferson.kyschools.us <!-- Lori Lightcap -->
 Mitchell, Tony; Assistant Principal; 485-8240 • 485-8829; Dunn Elementary; tony.mitchell@jefferson.kyschools.us <!-- Tony Mitchell -->
 Netter, Pamela; Bookkeeper; 485-8240 • 485-8829; Dunn Elementary; pamela.netter@jefferson.kyschools.us <!-- Pamela Netter -->
 Oswald, Beverly; Secretary; 485-8240 • 485-8829; Dunn Elementary; beverly.oswald@jefferson.kyschools.us <!-- Beverly Oswald BOLD ITALIC -->
 Wakefield, Keith; Plant Operator; 485-8240 • 485-8829; Dunn Elementary; keith.wakefield@jefferson.kyschools.us <!-- Keith Wakefield -->
-DUPONT MANUAL HIGH; 120 W. Lee Street, 40208; 485-8241 • 485-8035 <!-- Red, White and Blue Red White Blue RWB -->
+DUPONT MANUAL HIGH; 120 W. Lee Street, 40208; 485-8241 • 485-8035 <!-- Red White Blue RWB -->
 Crady, Jane; Plant Operator; 485-8241 • 485-8035; DuPont Manual High; jane.crady@jefferson.kyschools.us <!-- Jane Crady -->
 Farmer, Darryl; Assistant Principal; 485-8241 • 485-8035; DuPont Manual High; darryl.farmer@jefferson.kyschools.us <!-- Darryl Farmer -->
 Johnston, Marti; Secondary Counselor; 485-8503 • 485-6280; DuPont Manual High; marti.johnston@jefferson.kyschools.us <!-- Marti Johnston -->
@@ -405,12 +405,12 @@ Meng, Beverley; Secretary II; 485-8241 • 485-8035; DuPont Manual High; beverle
 Todd, Mina; Resource Teacher; 485-8241 • 485-8035; DuPont Manual High; mina.todd2@jefferson.kyschools.us <!-- Mina Todd -->
 Wilson, Dana; Secondary School Bookkeeper II; 485-8241 • 485-8035; DuPont Manual High; dana.wilson@jefferson.kyschools.us <!-- Dana Wilson -->
 Zuberer, David; Athletic Director; 485-8489 • 485-8035; DuPont Manual High; david.zuberer@jefferson.kyschools.us <!-- David Zuberer -->
-DUVALLE EDUCATION CENTER; 3610 Bohne Avenue, 40211; 485-3558 • 485-6790 <!-- Red, White and Blue Red White Blue RWB -->
+DUVALLE EDUCATION CENTER; 3610 Bohne Avenue, 40211; 485-3558 • 485-6790 <!-- Red White Blue RWB -->
 Campbell, Allicia; Secretary; 485-3558 • 485-6790; DuValle Education Center; allicia.campbell@jefferson.kyschools.us <!-- Allicia Campbell BOLD ITALIC -->
 Clark, Brian; Site Administrator; 485-3558 • 485-6790; DuValle Education Center; brian.clark@jefferson.kyschools.us <!-- Brian Clark BOLD -->
 Mahoney, Shannon; Bookkeeper; 485-3558 • 485-6790; DuValle Education Center; shannon.mahoney@jefferson.kyschools.us <!-- Shannon Mahoney -->
 Snoddy, Diane; Plant Operator; 485-3558 • 485-6790; DuValle Education Center; diane.snoddy@jefferson.kyschools.us <!-- Diane Snoddy -->
-EASTERN HIGH; 12400 Old Shelbyville Road, 40243; 485-8243 • 485-3883 <!-- Red, White and Blue Red White Blue RWB -->
+EASTERN HIGH; 12400 Old Shelbyville Road, 40243; 485-8243 • 485-3883 <!-- Red White Blue RWB -->
 Dattilo, Danielle; Counselor; 485-8434 • 485-3883; Eastern High; danielle.dattilo@jefferson.kyschools.us <!-- Danielle Dattilo -->
 Ellis, Emily; Assistant Principal; 485-8121 • 485-3883; Eastern High; emily.ellis@jefferson.kyschools.us <!-- Emily Ellis -->
 Gilkey, Christopher; Plant Operator; 485-8243 • 485-3883; Eastern High; christopher.gilkey@jefferson.kyschools.us <!-- Christopher Gilkey -->
@@ -423,14 +423,14 @@ Rickert, Matt; Assistant Principal; 485-8121 • 485-3883; Eastern High; matt.ri
 Sprawls, Rosemarie; Counselor; 485-8434 • 485-3883; Eastern High; rose.sprawls@jefferson.kyschools.us <!-- Rosemarie Sprawls -->
 Stephens, Chris; Assistant Principal; 485-8121 • 485-3883; Eastern High; chris.stephens@jefferson.kyschools.us <!-- Chris Stephens -->
 Weber, Heidi; Counselor; 485-8434 • 485-3883; Eastern High; heidi.weber@jefferson.kyschools.us <!-- Heidi Weber -->
-EISENHOWER ELEMENTARY; 5300 Jessamine Lane, 40258; 485-8244 • 485-8552 <!-- Red, White and Blue Red White Blue RWB -->
+EISENHOWER ELEMENTARY; 5300 Jessamine Lane, 40258; 485-8244 • 485-8552 <!-- Red White Blue RWB -->
 Crayton, Marcella; Counselor; 485-8244 • 485-8552; Eisenhower Elementary; marcella.crayton@jefferson.kyschools.us <!-- Marcella Crayton -->
 Cummings, Julie; Principal; 485-8244 • 485-8552; Eisenhower Elementary; julie.cummings@jefferson.kyschools.us <!-- Julie Cummings BOLD -->
 Kaelin, Lisa; Bookkeeper; 485-8244 • 485-8552; Eisenhower Elementary; lisa.kaelin@jefferson.kyschools.us <!-- Lisa Kaelin -->
 Mackey, Harriett; Assistant Principal; 485-8244 • 485-8552; Eisenhower Elementary; harriett.mackey@jefferson.kyschools.us <!-- Harriett Mackey -->
 Strickland, Karen; Plant Operator; 485-8244 • 485-8552; Eisenhower Elementary; karen.strickland@jefferson.kyschools.us <!-- Karen Strickland -->
 Wilkinson, Crystal; Secretary; 485-8244 • 485-8552; Eisenhower Elementary; crystal.wilkinson@jefferson.kyschools.us <!-- Crystal Wilkinson BOLD ITALIC -->
-ENGELHARD ELEMENTARY; 1004 S. First Street, 40203; 485-8246 • 485-8793 <!-- Red, White and Blue Red White Blue RWB -->
+ENGELHARD ELEMENTARY; 1004 S. First Street, 40203; 485-8246 • 485-8793 <!-- Red White Blue RWB -->
 Bush, Debbie; Bookkeeper; 485-8246 • 485-8793; Engelhard Elementary; debbie.bush@jefferson.kyschools.us <!-- Debbie Bush -->
 Hammond, Kim; Plant Operator; 485-8246 • 485-8793; Engelhard Elementary; kim.hammond@jefferson.kyschools.us <!-- Kim Hammond -->
 Jackson-Willis, Regina; FRC Coordinator; 485-8021 • 587-7267; Engelhard Elementary; regina.jackson-willis@jefferson.kyschools.us <!-- Regina Jackson-Willis -->
@@ -438,13 +438,13 @@ Jones, Martha; Secretary; 485-8246 • 485-8793; Engelhard Elementary; martha.jo
 Knight, Teri; Counselor; 485-8246 • 485-8793; Engelhard Elementary; teri.knight@jefferson.kyschools.us <!-- Teri Knight -->
 McCoy, Ryan; Principal; 485-8246 • 485-8793; Engelhard Elementary; ryan.mccoy@jefferson.kyschools.us <!-- Ryan McCoy BOLD -->
 Staley, Anne; Assistant Principal; 485-8246 • 485-8793; Engelhard Elementary; anne.staley@jefferson.kyschools.us <!-- Anne Staley -->
-ESL NEWCOMER ACADEMY; 4018 W. Market Street, 40212; 485-6324 • 485-7764 <!-- Red, White and Blue Red White Blue RWB -->
+ESL NEWCOMER ACADEMY; 4018 W. Market Street, 40212; 485-6324 • 485-7764 <!-- Red White Blue RWB -->
 Key, Katherine; Secondary Records Clerk; 485-6324 • 485-7764; ESL Newcomer Academy; katherine.key@jefferson.kyschools.us <!-- Katherine Key BOLD ITALIC -->
 Lakhwani, Monica; High School Counselor; 485-6324 • 485-7764; ESL Newcomer Academy; monica.lakhwani@jefferson.kyschools.us <!-- Monica Lakhwani -->
 Mesa, Braulio; Bilingual Associate Instructor (Spanish/Russian), Attendance Clerk; 485-6324 • 485-7764; ESL Newcomer Academy; braulio.mesa@jefferson.kyschools.us <!-- Braulio Mesa -->
 Njuguna, John; Payroll, Purchasing/Receiving, Bilingual Associate Instructor III (Swahili); 485-6324 • 485-7764; ESL Newcomer Academy; john.njuguna@jefferson.kyschools.us <!-- John Njuguna -->
 Snow, Gwen; Principal; 485-6324 • 485-7764; ESL Newcomer Academy; gwen.snow@jefferson.kyschools.us <!-- Gwen Snow BOLD -->
-FAIRDALE ELEMENTARY; 10104 Mitchell Hill Road, 40118; 485-8247 • 485-8371 <!-- Red, White and Blue Red White Blue RWB -->
+FAIRDALE ELEMENTARY; 10104 Mitchell Hill Road, 40118; 485-8247 • 485-8371 <!-- Red White Blue RWB -->
 Coomer, Andrea; Bookkeeper; 485-8247 • 485-8371; Fairdale Elementary; andrea.coomer@jefferson.kyschools.us <!-- Andrea Coomer -->
 Embry, Veeda; Resource Teacher; 485-8247 • 485-8371; Fairdale Elementary; veeda.embry@jefferson.kyschools.us <!-- Veeda Embry -->
 Gooch, Pamela; Principal; 485-8247 • 485-8371; Fairdale Elementary; pam.gooch@jefferson.kyschools.us <!-- Pamela Gooch BOLD -->
@@ -453,7 +453,7 @@ Kaukas, Robin; FRC Coordinator; 485-8376 • 485-8371; Fairdale Elementary; robi
 Manley, Carl; Plant Operator; 485-8247 • 485-8371; Fairdale Elementary; carl.manley@jefferson.kyschools.us <!-- Carl Manley -->
 Sanford, Beckie; Assistant Principal; 485-8247 • 485-8371; Fairdale Elementary; beckie.sanford@jefferson.kyschools.us <!-- Beckie Sanford Rebecca Sanford -->
 Warren, Cheri; Counselor; 485-8247 • 485-8371; Fairdale Elementary; cheri.warren@jefferson.kyschools.us <!-- Cheri Warren -->
-FAIRDALE HIGH; 1001 Fairdale Road, 40118; 485-8248 • 485-8761 <!-- Red, White and Blue Red White Blue RWB -->
+FAIRDALE HIGH; 1001 Fairdale Road, 40118; 485-8248 • 485-8761 <!-- Red White Blue RWB -->
 Alvey, Joan; Counselor; 485-6665 • 485-7598; Fairdale High; joan.alvey@jefferson.kyschools.us <!-- Joan Alvey -->
 Bell, Marissa; Assistant Principal; 485-8248 • 485-8761; Fairdale High; marissa.bell@jefferson.kyschools.us <!-- Marissa Bell -->
 Coomer, Pamela; Librarian; 485-8248 • 485-8761; Fairdale High; pam.coomer@jefferson.kyschools.us <!-- Pamela Coomer -->
@@ -467,7 +467,7 @@ Schneider, Scott; Resource Teacher; 485-8248 • 485-8761; Fairdale High; scott.
 Smith, Dotti; Counselor; 485-6665 • 485-7598; Fairdale High; dotti.smith@jefferson.kyschools.us <!-- Dotti Smith -->
 Spencer, Amber; Coordinator YSC; 485-8866 • 485-7667; Fairdale High; amber.rowan@jefferson.kyschools.us <!-- Amber Spencer -->
 Weston, Brad; Principal; 485-8248 • 485-8761; Fairdale High; brad.weston@jefferson.kyschools.us <!-- Brad Weston BOLD -->
-FARMER ELEMENTARY; 6405 Gellhaus Lane, 40299; 485-8625 • 485-8970 <!-- Red, White and Blue Red White Blue RWB -->
+FARMER ELEMENTARY; 6405 Gellhaus Lane, 40299; 485-8625 • 485-8970 <!-- Red White Blue RWB -->
 Bradley, Kris; Secretary; 485-8625 • 485-8970; Farmer Elementary; kris.bradley@jefferson.kyschools.us <!-- Kris Bradley BOLD ITALIC -->
 Conlon, Shannon; Principal; 485-8625 • 485-8970; Farmer Elementary; shannon.conlon@jefferson.kyschools.us <!-- Shannon Conlon BOLD -->
 Hays, Beth; School Clerk; 485-8625 • 485-8970; Farmer Elementary; beth.hays@jefferson.kyschools.us <!-- Beth Hays -->
@@ -476,7 +476,7 @@ Lovelace, Shereika; Counselor; 485-8625 • 485-8970; Farmer Elementary; shereik
 Robinson, Julie; School Clerk; 485-8625 • 485-8970; Farmer Elementary; julie.robinson@jefferson.kyschools.us <!-- Julie Robinson -->
 Toole, Nick; Assistant Principal; 485-8625 • 485-8970; Farmer Elementary; nick.toole@jefferson.kyschools.us <!-- Nick Toole -->
 Weaver, Jennifer; Counselor; 485-8625 • 485-8970; Farmer Elementary; jennifer.weaver@jefferson.kyschools.us <!-- Jennifer Weaver -->
-FARNSLEY MIDDLE; 3400 Lees Lane, 40216; 485-8242 • 485-8663 <!-- Red, White and Blue Red White Blue RWB -->
+FARNSLEY MIDDLE; 3400 Lees Lane, 40216; 485-8242 • 485-8663 <!-- Red White Blue RWB -->
 Adkins, Debbie; School Bookkeeper; 485-8242 • 485-8663; Farnsley Middle; deborah.adkins@jefferson.kyschools.us <!-- Debbie Adkins -->
 Dillard, Donald; Assistant Principal; 485-8242 • 485-8663; Farnsley Middle; donald.dillard@jefferson.kyschools.us <!-- Donald Dillard -->
 Goff, Debbie; Secretary; 485-8242 • 485-8663; Farnsley Middle; debbie.goff@jefferson.kyschools.us <!-- Debbie Goff BOLD ITALIC -->
@@ -489,7 +489,7 @@ McDonogh, Sharon; Assistant Principal; 485-8242 • 485-8663; Farnsley Middle; s
 Nethery, Sara; Assistant Principal; 485-8242 • 485-8663; Farnsley Middle; sara.nethery@jefferson.kyschools.us <!-- Sara Nethery -->
 Skwara, Anna; School Clerk; 485-8242 • 485-8663; Farnsley Middle; anna.skwara@jefferson.kyschools.us <!-- Anna Skwara -->
 Williams, Natalie; Plant Operator; 485-8242 • 485-8663; Farnsley Middle; natalie.williams@jefferson.kyschools.us <!-- Natalie Williams -->
-FERN CREEK ELEMENTARY; 8815 Ferndale Road, 40291; 485-8250 • 485-8377 <!-- Red, White and Blue Red White Blue RWB -->
+FERN CREEK ELEMENTARY; 8815 Ferndale Road, 40291; 485-8250 • 485-8377 <!-- Red White Blue RWB -->
 Bradley, Regina; Bookkeeper; 485-8250 • 485-8377; Fern Creek Elementary; regina.bradley@jefferson.kyschools.us <!-- Regina Bradley -->
 Bridges, Jasmine; FRC Coordinator; 485-7003 • 485-8049; Fern Creek Elementary; jasmine.bridges@jefferson.kyschools.us <!-- Jasmine Bridges -->
 Hammond, Tim; Plant Operator; 485-8250 • 485-8377; Fern Creek Elementary; tim.hammond@jefferson.kyschools.us <!-- Tim Hammond -->
@@ -498,7 +498,7 @@ Jones, Hancy; Student/Community Liaison; 485-8250 • 485-8377; Fern Creek Eleme
 Muscar, Wayne; Assistant Principal; 485-8250 • 485-8377; Fern Creek Elementary; wayne.muscar@jefferson.kyschools.us <!-- Wayne Muscar -->
 Peden, Debbie; Resource Teacher; 485-8250 • 485-8377; Fern Creek Elementary; deborah.peden@jefferson.kyschools.us <!-- Debbie Peden Deborah Peden -->
 Rigsby, Cheryl; Principal; 485-8250 • 485-8377; Fern Creek Elementary; cheryl.rigsby@jefferson.kyschools.us <!-- Cheryl Rigsby BOLD -->
-FERN CREEK HIGH; 9115 Fern Creek Road, 40291; 485-8251 • 485-8032 <!-- Red, White and Blue Red White Blue RWB -->
+FERN CREEK HIGH; 9115 Fern Creek Road, 40291; 485-8251 • 485-8032 <!-- Red White Blue RWB -->
 Clark, Donna; Secretary; 485-8251 • 485-8032; Fern Creek High; donna.clark@jefferson.kyschools.us <!-- Donna Clark BOLD ITALIC -->
 Conklin, Kerry; 11th-Grade Counselor; 485-8438 • 485-8032; Fern Creek High; kerry.conklin@jefferson.kyschools.us <!-- Kerry Conklin -->
 Durham, Jarrad; Assistant Principal; 485-8251 • 485-8032; Fern Creek High; jarrad.durham@jefferson.kyschools.us <!-- Jarrad Durham -->
@@ -512,7 +512,7 @@ Smith-Johnson, Jovanna; 9th-Grade Counselor; 485-8438 • 485-8032; Fern Creek H
 Stout, Jennie; Bookkeeper; 485-8251 • 485-8032; Fern Creek High; jennie.stout@jefferson.kyschools.us <!-- Jennie Stout -->
 Wade, Camille; 10th-Grade Counselor; 485-8438 • 485-8032; Fern Creek High; camille.wade@jefferson.kyschools.us <!-- Camille Wade -->
 Wilson, Jai; Assistant Principal; 485-8435 • 485-8032; Fern Creek High; jai.wilson@jefferson.kyschools.us <!-- Jai Wilson -->
-FIELD ELEMENTARY; 120 Sacred Heart Lane, 40206; 485-8252 • 485-8576 <!-- Red, White and Blue Red White Blue RWB -->
+FIELD ELEMENTARY; 120 Sacred Heart Lane, 40206; 485-8252 • 485-8576 <!-- Red White Blue RWB -->
 Bisig, Leslie; Nutrition Manager; 485-8252 • 485-8576; Field Elementary; leslie.bisig@jefferson.kyschools.us <!-- Leslie Bisig -->
 Knochenmus, Kevin; FRC Coordinator; 485-8252 • 485-8576; Field Elementary; kevin.knochenmus@jefferson.kyschools.us <!-- Kevin Knochenmus -->
 Martin, Juanita; Bookkeeper; 485-8252 • 485-8576; Field Elementary; juanita.martin@jefferson.kyschools.us <!-- Juanita Martin -->
@@ -521,7 +521,7 @@ Rivera, Deb; Principal; 485-8252 • 485-8576; Field Elementary; deborah.rivera@
 Sandlin, Doug; Plant Operator; 485-8252 • 485-8576; Field Elementary; doug.sandlin@Jefferson.kyschools.us <!-- Doug Sandlin -->
 Stark, Steven; Assistant Principal; 485-8252 • 485-8576; Field Elementary; steven.stark@jefferson.kyschools.us <!-- Steven Stark -->
 Vest, Tammie; Secretary; 485-8252 • 485-8576; Field Elementary; tammie.vest@jefferson.kyschools.us <!-- Tammie Vest BOLD ITALIC -->
-FOSTER TRADITIONAL ACADEMY; 1401 S. 41st Street, 40211; 485-8253 • 485-8665 <!-- Red, White and Blue Red White Blue RWB -->
+FOSTER TRADITIONAL ACADEMY; 1401 S. 41st Street, 40211; 485-8253 • 485-8665 <!-- Red White Blue RWB -->
 Barlow, Herbie; Secretary; 485-8253 • 485-8665; Foster Traditional Academy; herbie.barlow@jefferson.kyschools.us <!-- Herbie Barlow BOLD ITALIC -->
 Bennett, Tammy; Bookkeeper; 485-8253 • 485-8665; Foster Traditional Academy; tammy.bennett@jefferson.kyschools.us <!-- Tammy Bennett -->
 Craig, Latascha; FRC Coordinator; 485-8104 • 485-8665; Foster Traditional Academy; latascha.craig@jefferson.kyschools.us <!-- Latascha  Craig -->
@@ -529,7 +529,7 @@ Gunn, Robert; Principal; 485-8253 • 485-8665; Foster Traditional Academy; robe
 Lindy, Sarawit; Counselor; 485-8253 • 485-8665; Foster Traditional Academy; sarawit.lindy@jefferson.kyschools.us <!-- Sarawit Lindy -->
 Pitts, Dywan; Plant Operator; 485-8253 • 485-8665; Foster Traditional Academy; dywane.pitts@jefferson.kyschools.us <!-- Dywan Pitts -->
 Young, Letisha; Assistant Principal; 485-8253 • 485-8665; Foster Traditional Academy; letisha.young@jefferson.kyschools.us <!-- Letisha Young -->
-FRAYSER ELEMENTARY; 1230 Larchmont Avenue, 40215; 485-8255 • 485-8530 <!-- Red, White and Blue Red White Blue RWB -->
+FRAYSER ELEMENTARY; 1230 Larchmont Avenue, 40215; 485-8255 • 485-8530 <!-- Red White Blue RWB -->
 Durbin, Traci; Assistant Principal; 485-8255 • 485-8530; Frayser Elementary; traci.durbin@jefferson.kyschools.us <!-- Traci Durbin -->
 Durham, Terri; Principal; 485-8255 • 485-8530; Frayser Elementary; terri.durham@jefferson.kyschools.us <!-- Terri Durham BOLD -->
 Holbrook, Nedra; Secretary; 485-8255 • 485-8530; Frayser Elementary; nedra.holbrook@jefferson.kyschools.us <!-- Nedra Holbrook BOLD ITALIC -->
@@ -537,7 +537,7 @@ Howell, Donald; Plant Operator; 485-8255 • 485-8530; Frayser Elementary; donal
 Hudson, Teresa; Bookkeeper; 485-8255 • 485-8530; Frayser Elementary; teresa.hudson@jefferson.kyschools.us <!-- Teresa Hudson -->
 Hutchison, Debra; FRC Coordinator; 485-8845 • 485-8530; Frayser Elementary; debra.hutchison@jefferson.kyschools.us <!-- Debra Hutchison -->
 Richards, Adrienne; Counselor; 485-8255 • 485-8530; Frayser Elementary; adrienne.richards@jefferson.kyschools.us <!-- Adrienne Richards -->
-FROST SIXTH-GRADE ACADEMY; 13700 Sandray Boulevard, 40272; 485-8256 • 485-8453 <!-- Red, White and Blue Red White Blue RWB -->
+FROST SIXTH-GRADE ACADEMY; 13700 Sandray Boulevard, 40272; 485-8256 • 485-8453 <!-- Red White Blue RWB -->
 Beyer, Christy; Bookkeeper; 485-8256 • 485-8453; Frost Sixth-Grade Academy; christa.beyer@mccracken.kyschools.us <!-- Christy Beyer Christa Beyer -->
 Buntyn, Charles; Assistant Principal; 485-8256 • 485-8453; Frost Sixth-Grade Academy; charles.buntyn@jefferson.kyschools.us <!-- Charles Buntyn -->
 Jackey, Jerry; Plant Operator; 485-8256 • 485-8453; Frost Sixth-Grade Academy; gerald.jackey@jefferson.kyschools.us <!-- Jerry Jackey Gerald Jackey Robert Frost 6th-Grade Academy Robert Frost 6th Grade Academy Frost Middle -->
@@ -546,14 +546,14 @@ Smith, Brenda; Nutrition Services Manager; 485-8449 • 485-8453; Frost Sixth-Gr
 Stroud, Faith; Principal; 485-8256 • 485-8453; Frost Sixth-Grade Academy; faith.stroud@jefferson.kyschools.us <!-- Faith Stroud Robert Frost 6th-Grade Academy Robert Frost 6th Grade Academy Frost Middle BOLD -->
 Taylor, Traci; Counselor; 485-8256 • 485-8453; Frost Sixth-Grade Academy; traci.taylor@jefferson.kyschools.us <!-- Traci Taylor Robert Frost 6th-Grade Academy Robert Frost 6th Grade Academy Frost Middle -->
 Voelker, Chris; Secretary; 485-8256 • 485-8453; Frost Sixth-Grade Academy; chris.voelker@jefferson.kyschools.us <!-- Chris Voelker Robert Frost 6th-Grade Academy Robert Frost 6th Grade Academy Frost Middle  BOLD ITALIC -->
-GILMORE LANE ELEMENTARY; 1281 Gilmore Lane, 40213; 485-8257 • 485-8989 <!-- Red, White and Blue Red White Blue RWB -->
+GILMORE LANE ELEMENTARY; 1281 Gilmore Lane, 40213; 485-8257 • 485-8989 <!-- Red White Blue RWB -->
 Atkins, Justin; Assistant Principal; 485-8257 • 485-8989; Gilmore Lane Elementary; justin.atkins@jefferson.kyschools.us <!-- Justin Atkins -->
 Butler, Rhea; Counselor; 485-8257 • 485-8989; Gilmore Lane Elementary; rhea.butler@jefferson.kyschools.us <!-- Rhea Butler -->
 Cowan, Sam; Principal; 485-8257 • 485-8989; Gilmore Lane Elementary; samuel.cowan@jefferson.kyschools.us <!-- Sam Cowan Samuel Cowan BOLD -->
 Duncan, Larese; Plant Operator; 485-8257 • 485-8989; Gilmore Lane Elementary; larese.duncan@jefferson.kyschools.us <!-- Larese Duncan -->
 Randol, Sheila; Secretary; 485-8257 • 485-8989; Gilmore Lane Elementary; sheila.randol@jefferson.kyschools.us <!-- Sheila Randol BOLD ITALIC -->
 Weber, Theresa; School Bookkeeper; 485-8257 • 485-8989; Gilmore Lane Elementary; theresa.weber@jefferson.kyschools.us <!-- Theresa Weber -->
-GOLDSMITH ELEMENTARY; 3520 Goldsmith Lane, 40220; 485-8258 • 485-8977 <!-- Red, White and Blue Red White Blue RWB -->
+GOLDSMITH ELEMENTARY; 3520 Goldsmith Lane, 40220; 485-8258 • 485-8977 <!-- Red White Blue RWB -->
 Aubry, Sabrina; Success Coach; 485-8258 • 485-8977; Goldsmith Elementary; sabrina.jackson@jefferson.kyschools.us <!-- Sabrina Aubry Sabrina Jackson -->
 Blair, Larry; Plant Operator; 485-8258 • 485-8977; Goldsmith Elementary; lawrence.blair@Jefferson.kyschools.us <!-- Larry Blair Lawrence Blair -->
 Crady, Jerri; Bookkeeper; 485-8258 • 485-8977; Goldsmith Elementary; jerri.crady@jefferson.kyschools.us <!-- Jerri Crady -->
@@ -564,14 +564,14 @@ Raisor, Renita; Counselor; 485-8258 • 485-8977; Goldsmith Elementary; renita.r
 Renner, Jeremy; Principal; 485-8258 • 485-8977; Goldsmith Elementary; jeremy.renner@jefferson.kyschools.us <!-- Jeremy Renner BOLD -->
 Ress, Maureen; Goal Clarity Coach; 485-8258 • 485-8977; Goldsmith Elementary; maureen.ress@jefferson.kyschools.us <!-- Maureen Ress -->
 Smith, Ronzell; SRT/PBIS; 485-8258 • 485-8977; Goldsmith Elementary; ronzell.smith@jefferson.kyschools.us <!-- Ronzell Smith -->
-GREATHOUSE/SHRYOCK TRADITIONAL ELEMENTARY; 2700 Browns Lane, 40220; 485-8259 • 485-8768 <!-- Red, White and Blue Red White Blue RWB -->
+GREATHOUSE/SHRYOCK TRADITIONAL ELEMENTARY; 2700 Browns Lane, 40220; 485-8259 • 485-8768 <!-- Red White Blue RWB -->
 Clark, John; Plant Operator; 485-8259 • 485-8768; Greathouse/Shryock Traditional Elementary; john.clark@jefferson.kyschools.us <!-- John Clark -->
 Copas, Janet; Secretary; 485-8259 • 485-8768; Greathouse/Shryock Traditional Elementary; janet.copas@jefferson.kyschools.us <!-- Janet Copas BOLD ITALIC -->
 Davis, Karla; Principal; 485-8259 • 485-8768; Greathouse/Shryock Traditional Elementary; karla.davis@jefferson.kyschools.us <!-- Karla Davis BOLD -->
 Odom, Margie; Counselor; 485-8259 • 485-8768; Greathouse/Shryock Traditional Elementary; margie.odom@jefferson.kyschools.us <!-- Margie Odom -->
 Porter, Susan; School Bookkeeper I; 485-8259 • 485-8768; Greathouse/Shryock Traditional Elementary; susan.porter@jefferson.kyschools.us <!-- Susan Porter -->
 Walker, Erika; Assistant Principal; 485-8259 • 485-8768; Greathouse/Shryock Traditional Elementary; erika.walker@jefferson.kyschools.us <!-- Erika Walker -->
-GREENWOOD ELEMENTARY; 5801 Greenwood Road, 40258; 485-8260 • 485-8046 <!-- Red, White and Blue Red White Blue RWB -->
+GREENWOOD ELEMENTARY; 5801 Greenwood Road, 40258; 485-8260 • 485-8046 <!-- Red White Blue RWB -->
 Caffey, Charles; Counselor; 485-8260 • 485-8046; Greenwood Elementary; charles.caffey@jefferson.kyschools.us <!-- Charles Caffey -->
 Coslow, Kim; Assistant Principal; 485-8260 • 485-8046; Greenwood Elementary; kimberly.coslow@jefferson.kyschools.us <!-- Kim Coslow Kimberly Coslow -->
 Gasaway, Susan; Librarian; 485-8260 • 485-8046; Greenwood Elementary; susan.gasaway@jefferson.kyschools.us <!-- Susan Gasaway -->
@@ -582,7 +582,7 @@ Schwaniger, Laura; Secretary; 485-8260 • 485-8046; Greenwood Elementary; laura
 Stewart, Amy; Coordinator, FRYSC; 485-6883 • 485-6885; Greenwood Elementary; amy.stewart@jefferson.kyschools.us <!-- Amy Stewart -->
 Stewart, Mark; Plant Operator; 485-8260 • 485-8046; Greenwood Elementary; mark.stewart@jefferson.kyschools.us <!-- Mark Stewart -->
 Vacant; Bookkeeper; 485-8260 • 485-8046; Greenwood Elementary; unknown@jefferson.kyschools.us <!-- Vacant -->
-GUTERMUTH ELEMENTARY; 1500 Sanders Lane, 40216; 485-8261 • 485-8379 <!-- Red, White and Blue Red White Blue RWB -->
+GUTERMUTH ELEMENTARY; 1500 Sanders Lane, 40216; 485-8261 • 485-8379 <!-- Red White Blue RWB -->
 Burd, Brooke; FRC Coordinator; 485-8261 • 485-8379; Gutermuth Elementary; brooke.burd@jefferson.kyschools.us <!-- Brooke Burd -->
 Davis, Phyllis; Secretary; 485-8261 • 485-8379; Gutermuth Elementary; phyllis.davis@jefferson.kyschools.us <!-- Phyllis Davis BOLD ITALIC -->
 Hankins, Brenda; Counselor; 485-8261 • 485-8379; Gutermuth Elementary; brenda.hankins@jefferson.kyschools.us <!-- Brenda Hankins -->
@@ -590,27 +590,27 @@ Kidwell, Sommer; Assistant Principal; 485-8261 • 485-8379; Gutermuth Elementar
 Kininmonth, Linda; Plant Operator; 485-8261 • 485-8379; Gutermuth Elementary; linda.kininmonth@jefferson.kyschools.us <!-- Linda Kininmonth -->
 Mullaney, Laura; Principal; 485-8261 • 485-8379; Gutermuth Elementary; laura.mullaney@jefferson.kyschools.us <!-- Laura Mullaney BOLD -->
 Satterly, Marian; Bookkeeper; 485-8261 • 485-8379; Gutermuth Elementary; marian.satterly@jefferson.kyschools.us <!-- Marian Satterly -->
-HARTSTERN ELEMENTARY; 5200 Morningside Way, 40219; 485-8262 • 485-8470 <!-- Red, White and Blue Red White Blue RWB -->
+HARTSTERN ELEMENTARY; 5200 Morningside Way, 40219; 485-8262 • 485-8470 <!-- Red White Blue RWB -->
 Douglas-Peoples, Trish; Plant Operator; 485-8262 • 485-8470; Hartstern Elementary; patricia.douglas-peo@jefferson.kyschools.us <!-- Trish Douglas-Peoples Patricia Douglas -->
 Nasim, Sabeen; Assistant Principal; 485-8262 • 485-8470; Hartstern Elementary; sabeen.nasim@jefferson.kyschools.us <!-- Sabeen Nasim -->
 Toll, Stephanie; Bookkeeper; 485-8262 • 485-8470; Hartstern Elementary; stephanie.toll@jefferson.kyschools.us <!-- Stephanie Toll -->
 Watts, Chris; FRC Coordinator; 485-8262 • 485-8470; Hartstern Elementary; chris.watts@jefferson.kyschools.us <!-- Chris Watts -->
 White, Janet; Resource Teacher; 485-8262 • 485-8470; Hartstern Elementary; janet.white@jefferson.kyschools.us <!-- Janet White -->
 Wright, Duan; Principal; 485-8262 • 485-8470; Hartstern Elementary; duan.wright@jefferson.kyschools.us <!-- Duan Wright BOLD -->
-HAWTHORNE ELEMENTARY; 2301 Clarendon Avenue, 40205; 485-8263 • 485-8358 <!-- Red, White and Blue Red White Blue RWB -->
+HAWTHORNE ELEMENTARY; 2301 Clarendon Avenue, 40205; 485-8263 • 485-8358 <!-- Red White Blue RWB -->
 Alfaro, Jose; Assistant Principal; 485-8263 • 485-8358; Hawthorne Elementary; jose.alfaro@jefferson.kyschools.us <!-- Jose Alfaro -->
 Bullock, Beth; Counselor; 485-8263 • 485-8358; Hawthorne Elementary; beth.bullock1@jefferson.kyschools.us <!-- Beth Bullock -->
 Crawford, Lynetta; FRC Coordinator; 451-3066 • 451-3066; Hawthorne Elementary; lynetta.crawford@jefferson.kyschools.us <!-- Lynetta Crawford -->
 Richey, Debbie; Bookkeeper; 485-8263 • 485-8358; Hawthorne Elementary; debbie.richey@jefferson.kyschools.us <!-- Debbie Richey -->
 Rosenthal, Jessica; Principal; 485-8263 • 485-8358; Hawthorne Elementary; jessica.rosenthal@jefferson.kyschools.us <!-- Jessica Rosenthal BOLD -->
 Schubert, Linda; Secretary; 485-8263 • 485-8358; Hawthorne Elementary; linda.schubert@jefferson.kyschools.us <!-- Linda Schubert BOLD ITALIC -->
-HAZELWOOD ELEMENTARY; 1325 Bluegrass Avenue, 40215; 485-8264 • 485-8965 <!-- Red, White and Blue Red White Blue RWB -->
+HAZELWOOD ELEMENTARY; 1325 Bluegrass Avenue, 40215; 485-8264 • 485-8965 <!-- Red White Blue RWB -->
 Darnell, Annette; FRC Coordinator; 485-8192 • 485-8145; Hazelwood Elementary; annette.darnell@jefferson.kyschools.us <!-- Annette Darnell -->
 Humphrey, Nicole; Secretary; 485-8264 • 485-8965; Hazelwood Elementary; nicole.humphrey@jefferson.kyschools.us <!-- Nicole Humphrey BOLD ITALIC -->
 Jones, Vanessa; Bookkeeper; 485-8264 • 485-8965; Hazelwood Elementary; vanessa.jones@jefferson.kyschools.us <!-- Vanessa Jones -->
 Peterson, Tom; Principal; 485-8264 • 485-8965; Hazelwood Elementary; tom.peterson@jefferson.kyschools.us <!-- Tom Peterson BOLD -->
 Waggoner, Karen; Assistant Principal; 485-8264 • 485-8965; Hazelwood Elementary; karen.waggoner@jefferson.kyschools.us <!-- Karen Waggoner -->
-HIGHLAND MIDDLE; 1700 Norris Place, 40205; 485-8266 • 485-8831 <!-- Red, White and Blue Red White Blue RWB -->
+HIGHLAND MIDDLE; 1700 Norris Place, 40205; 485-8266 • 485-8831 <!-- Red White Blue RWB -->
 Blackmon, Cristi; Assistant Principal; 485-8266 • 485-8831; Highland Middle; cristi.blackmon@jefferson.kyschools.us <!-- Cristi Blackmon -->
 Bolton, Wilma; Bookkeeper; 485-8266 • 485-8831; Highland Middle; wilma.bolton@jefferson.kyschools.us <!-- Wilma Bolton -->
 Brooks, Calvin; Counselor; 485-8266 • 485-8831; Highland Middle; calvin.brooks@jefferson.kyschools.us <!-- Calvin Brooks -->
@@ -623,7 +623,7 @@ Mercer, Gina; Secretary; 485-8266 • 485-8831; Highland Middle; gina.mercer@jef
 Meyer, Tim; Coordinator, FRYSC; 485-8266 • 485-8831; Highland Middle; tim.meyer@jefferson.kyschools.us <!-- Tim Meyer -->
 Todd, Christel; Assistant Principal; 485-8266 • 485-8831; Highland Middle; christel.todd@jefferson.kyschools.us <!-- Christel Todd -->
 Washington, Lisa; Counselor; 485-8266 • 485-8831; Highland Middle; lisa.washington@jefferson.kyschools.us <!-- Lisa Washington -->
-HITE ELEMENTARY; 12408 Old Shelbyville Road, 40243; 485-8267 • 485-7006 <!-- Red, White and Blue Red White Blue RWB -->
+HITE ELEMENTARY; 12408 Old Shelbyville Road, 40243; 485-8267 • 485-7006 <!-- Red White Blue RWB -->
 Ballard, Nancy; Clerk I; 596-1291 • 596-1418; Hite Elementary; nancy.ballard@jefferson.kyschools.us <!-- Nancy Ballard -->
 Brown, Anthony; Plant Operator; 485-8267 • 485-7006; Hite Elementary; tony.brown@jefferson.kyschools.us <!-- Anthony Brown -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Home of the Innocents; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
@@ -632,14 +632,14 @@ Hall, Shannon; Counselor; 485-8267 • 485-7006; Hite Elementary; shannon.hall2@
 Matter, Sheridan; Principal; 485-8267 • 485-7006; Hite Elementary; sheridan.matter@jefferson.kyschools.us <!-- Sheridan Matter BOLD -->
 Schmidt, Melodie; Secretary; 485-8267 • 485-7006; Hite Elementary; melodie.schmidt@jefferson.kyschools.us <!-- Melodie Schmidt BOLD ITALIC -->
 Vacant; Assistant Principal; 485-8267 • 485-7006; Hite Elementary; unknown@jefferson.kyschools.us <!-- Vacant -->
-INDIAN TRAIL ELEMENTARY; 3709 E. Indian Trail, 40213; 485-8268 • 485-8477 <!-- Red, White and Blue Red White Blue RWB -->
+INDIAN TRAIL ELEMENTARY; 3709 E. Indian Trail, 40213; 485-8268 • 485-8477 <!-- Red White Blue RWB -->
 Campisano, Krista; FRC Coordinator; 485-8592 • 485-8592; Indian Trail Elementary; krista.campisano@jefferson.kyschools.us <!-- Krista Campisano -->
 Covington, Tiffany; Goal Clarity Coach; 485-8268 • 485-8477; Indian Trail Elementary; tiffany.covington@jefferson.kyschools.us <!-- Tiffany Covington -->
 Isen, Judy; Bookkeeper; 485-8268 • 485-8477; Indian Trail Elementary; judy.isen@jefferson.kyschools.us <!-- Judy Isen -->
 Luckett, Gwendy; Secretary; 485-8268 • 485-8477; Indian Trail Elementary; gwendy.luckett@jefferson.kyschools.us <!-- Gwendy Luckett BOLD ITALIC -->
 Robinson, Tina; Plant Operator; 485-8268 • 485-8477; Indian Trail Elementary; tina.robinson@jefferson.kyschools.us <!-- Tina Robinson -->
 Wood, Joseph; Principal; 485-8268 • 485-8477; Indian Trail Elementary; joseph.wood@jefferson.kyschools.us <!-- Joseph Wood BOLD -->
-IROQUOIS HIGH; 4615 Taylor Boulevard, 40215; 485-8269 • 485-8033 <!-- Red, White and Blue Red White Blue RWB -->
+IROQUOIS HIGH; 4615 Taylor Boulevard, 40215; 485-8269 • 485-8033 <!-- Red White Blue RWB -->
 Austin, Robert; Plant Operator; 485-8269 • 485-8033; Iroquois High; robert.austin@jefferson.kyschools.us <!-- Robert Austin -->
 Courtney, Kimberly; ESL Resource Teacher; 485-6388 • 485-6014; Iroquois High; kim.courtney@jefferson.kyschools.us <!-- Kimberly Courtney -->
 Foster, Matthew; Assistant Principal; 485-8269 • 485-8033; Iroquois High; matthew.foster@jefferson.kyschools.us <!-- Matthew Foster -->
@@ -651,7 +651,7 @@ Johnson, Shamika; Assistant Principal; 485-8269 • 485-8033; Iroquois High; sha
 Lawrence, Karen; Bookkeeper; 485-8269 • 485-8033; Iroquois High; karen.lawrence@jefferson.kyschools.us <!-- Karen Lawrence -->
 Perkins, Christopher; Principal; 485-8269 • 485-8033; Iroquois High; chris.perkins@jefferson.kyschools.us <!-- Christopher Perkins BOLD -->
 Reece, Autumn; Counselor; 485-8269 • 485-8033; Iroquois High; autumn.reece@jefferson.kyschools.us <!-- Autumn Reece -->
-JACOB ELEMENTARY; 3701 E. Wheatmore Drive, 40215; 485-8271 • 485-7157 <!-- Red, White and Blue Red White Blue RWB -->
+JACOB ELEMENTARY; 3701 E. Wheatmore Drive, 40215; 485-8271 • 485-7157 <!-- Red White Blue RWB -->
 Canary, Gail; Bookkeeper; 485-8271 • 485-7157; Jacob Elementary; gail.canary@jefferson.kyschools.us <!-- Gail Canary -->
 Hasberry, Donna; Resource Teacher; 485-8271 • 485-7157; Jacob Elementary; donna.hasberry@jefferson.kyschools.us <!-- Donna Hasberry -->
 Martin, Brent; Plant Operator; 485-8271 • 485-7157; Jacob Elementary; brent.martin@jefferson.kyschools.us <!-- Brent Martin -->
@@ -660,10 +660,10 @@ Overall, A'Nita; Assistant Principal; 485-8271 • 485-7157; Jacob Elementary; a
 Spradlin, Shannon; Counselor; 485-8271 • 485-7157; Jacob Elementary; shannon.spradlin@jefferson.kyschools.us <!-- Shannon Spradlin -->
 Stoner, Tiffany; FRC Coordinator; 485-8843 • 485-7157; Jacob Elementary; tiffany.stoner@jefferson.kyschools.us <!-- Tiffany Stoner -->
 Terry, Michael; Principal; 485-8271 • 485-7157; Jacob Elementary; michael.terry@jefferson.kyschools.us <!-- Michael Terry BOLD -->
-JCPS/SAC PROGRAMS; 8711 LaGrange Road, 40242; 425-9322 • 425-8513 <!-- Red, White and Blue Red White Blue RWB -->
+JCPS/SAC PROGRAMS; 8711 LaGrange Road, 40242; 425-9322 • 425-8513 <!-- Red White Blue RWB -->
 Eckels, Michele; Principal; 425-9322 • 425-8513; JCPS/SAC Programs; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Lanman, Rhoda; Assistant Principal; 425-9322 • 425-8513; JCPS/SAC Programs; rhoda.lanman@jefferson.kyschools.us <!-- Rhoda Lanman -->
-JEFFERSON COUNTY HIGH; 900 S. Floyd Street, 40203; 485-3173 • 485-3671 <!-- Red, White and Blue Red White Blue RWB -->
+JEFFERSON COUNTY HIGH; 900 S. Floyd Street, 40203; 485-3173 • 485-3671 <!-- Red White Blue RWB -->
 Brown, Arlisa; Program Specialist IV; 485-3173 • 485-3671; Jefferson County High; arlisa.brown@jefferson.kyschools.us <!-- Arlisa Brown -->
 Ciresi, Carrie; Counselor; 485-3173 • 485-3671; Jefferson County High; carrie.ciresi@jefferson.kyschools.us <!-- Carrie Ciresi -->
 Despain, Tony; Counselor; 485-3173 • 485-3671; Jefferson County High; tony.despain@jefferson.kyschools.us <!-- Tony Despain -->
@@ -680,7 +680,7 @@ Puccetti, Lisa; Assistant Principal; 485-3173 • 485-3671; Jefferson County Hig
 Robinson, Bianca; Secretary/Bookkeeper II; 485-8201 • 485-8851; Jefferson County High; bianca.robinson@jefferson.kyschools.us <!-- Bianca Robinson -->
 Snyder, Jeffery; Assistant Principal; 485-8201 • 485-8851; Jefferson County High; jeffrey.snyder1@jefferson.kyschools.us <!-- Jeffery Snyder -->
 Steen, Cecil; Counselor; 485-3173 • 485-3671; Jefferson County High; cecil.steen@jefferson.kyschools.us <!-- Cecil Steen -->
-JEFFERSON COUNTY TRADITIONAL MIDDLE; 1418 Morton Avenue, 40204; 485-8272 • 485-8635 <!-- Red, White and Blue Red White Blue RWB -->
+JEFFERSON COUNTY TRADITIONAL MIDDLE; 1418 Morton Avenue, 40204; 485-8272 • 485-8635 <!-- Red White Blue RWB -->
 Coleman, Kim; Assistant Principal; 485-8272 • 485-8635; Jefferson County Traditional Middle; kim.coleman@jefferson.kyschools.us <!-- Kim Coleman -->
 Fluhr, Stephanie; Assistant Principal; 485-8272 • 485-8635; Jefferson County Traditional Middle; stephanie.fluhr@jefferson.kyschools.us <!-- Stephanie Fluhr -->
 Hammel, Karen; Bookkeeper; 485-8272 • 485-8635; Jefferson County Traditional Middle; karen.hammel@jefferson.kyschools.us <!-- Karen Hammel -->
@@ -690,7 +690,7 @@ Reed, Teri; Principal; 485-8272 • 485-8635; Jefferson County Traditional Middl
 Spencer, Aliene; Secretary; 485-8272 • 485-8635; Jefferson County Traditional Middle; aliene.spencer@jefferson.kyschools.us <!-- Aliene Spencer BOLD ITALIC -->
 Vacant; Counselor; 485-8272 • 485-8635; Jefferson County Traditional Middle; unknown@jefferson.kyschools.us <!-- Vacant -->
 Wagner, Sue; FRYSC Coordinator; 485-8844 • 313-1149; Jefferson County Traditional Middle; sue.wagner@jefferson.kyschools.us <!-- Sue Wagner Susan Wagner -->
-JEFFERSON, THOMAS, MIDDLE; 1501 Rangeland Road, 40219; 485-8273 • 485-8045 <!-- Red, White and Blue Red White Blue RWB -->
+JEFFERSON, THOMAS, MIDDLE; 1501 Rangeland Road, 40219; 485-8273 • 485-8045 <!-- Red White Blue RWB -->
 Bickett, Lea Ann; Secretary; 485-8273 • 485-8045; Jefferson, Thomas, Middle; lea.bickett@jefferson.kyschools.us <!-- Lea Ann Bickett Lea Bickett Lea Bickett Thomas Jefferson Middle TJM BOLD ITALIC -->
 Bourgeois, Josh; Assistant Principal; 485-8975 • 485-8696; Jefferson, Thomas, Middle; joshua.bourgeois@jefferson.kyschools.us <!-- Josh Bourgeois Joshua Bourgeois Thomas Jefferson Middle TJM -->
 Torra, Leandra; Counselor; 485-8273 • 485-8045; Jefferson, Thomas, Middle; leandra.torra@jefferson.kyschools.us <!-- Leandra Torra Thomas Jefferson Middle TJM -->
@@ -702,7 +702,7 @@ Reichmuth, Kimberly; School Bookkeeper I; 485-8273 • 485-8045; Jefferson, Thom
 Rock, John; Assistant Principal; 485-8273 • 485-8045; Jefferson, Thomas, Middle; john.rock@jefferson.kyschools.us <!-- John Rock Thomas Jefferson Middle TJM -->
 Torra, LeAndre; Counselor; 485-8975 • 485-8696; Jefferson, Thomas, Middle; leandra.torra@jefferson.kyschools.us <!-- LeAndre Torra LeAndra Torra Thomas Jefferson Middle TJM -->
 Vogt, Cindy; Assistant Principal; 485-8975 • 485-8696; Jefferson, Thomas, Middle; cindy.vogt@jefferson.kyschools.us <!-- Cindy Vogt Thomas Jefferson Middle TJM -->
-JEFFERSONTOWN ELEMENTARY; 3610 Cedarwood Way, 40299; 485-8274 • 485-8408 <!-- Red, White and Blue Red White Blue RWB -->
+JEFFERSONTOWN ELEMENTARY; 3610 Cedarwood Way, 40299; 485-8274 • 485-8408 <!-- Red White Blue RWB -->
 Cederdahl, Chelsea; Secretary; 485-8274 • 485-8408; Jeffersontown Elementary; chelsea.cederdahl@jefferson.kyschools.us <!-- Chelsea Cederdahl BOLD ITALIC -->
 Cordery, James; FRC Coordinator; 485-8274 • 485-8408; Jeffersontown Elementary; james.cordery@jefferson.kyschools.us <!-- James Cordery -->
 Dickerson, Bryan; Student Community Liaison; 485-8274 • 485-8408; Jeffersontown Elementary; bryan.dickerson@jefferson.kyschools.us <!-- Bryan Dickerson -->
@@ -711,7 +711,7 @@ Hawkins, Patti; Bookkeeper; 485-8274 • 485-8408; Jeffersontown Elementary; pat
 Quaack, Mel; Plant Operator; 485-8274 • 485-8408; Jeffersontown Elementary; melvin.quaack@jefferson.kyschools.us <!-- Mel Quaack Melvin Quaack -->
 Schilling, Brooke; Assistant Principal; 485-8274 • 485-8408; Jeffersontown Elementary; brooke.schilling@jefferson.kyschools.us <!-- Brooke Schilling -->
 Walker, Keary; Principal; 485-8274 • 485-8408; Jeffersontown Elementary; keary.walker@jefferson.kyschools.us <!-- Keary Walker BOLD -->
-JEFFERSONTOWN HIGH; 9600 Old Six Mile Lane, 40299; 485-8275 • 485-8832 <!-- Red, White and Blue Red White Blue RWB -->
+JEFFERSONTOWN HIGH; 9600 Old Six Mile Lane, 40299; 485-8275 • 485-8832 <!-- Red White Blue RWB -->
 Gambert, Paul; Assistant Principal; 485-8275 • 485-8832; Jeffersontown High; paul.gambert@jefferson.kyschools.us <!-- Paul Gambert -->
 Griffin, Dixie; Coordinator Youth Services Center; 485-8275 • 485-8832; Jeffersontown High; dixie.griffin@jefferson.kyschools.us <!-- Dixie Griffin -->
 Howard, Wendy; Bookkeeper; 485-8275 • 485-8832; Jeffersontown High; wendy.howard@jefferson.kyschools.us <!-- Wendy Howard -->
@@ -723,7 +723,7 @@ Smith, Mary Beth; Counselor; 485-8275 • 485-8832; Jeffersontown High; marybeth
 Stockwell, Todd; Assistant Principal; 485-8275 • 485-8832; Jeffersontown High; todd.stockwell@jefferson.kyschools.us <!-- Todd Stockwell -->
 Wallace, Jimmy; Counselor; 485-8275 • 485-8832; Jeffersontown High; jimmy.wallace@jefferson.kyschools.us <!-- Jimmy Wallace -->
 Vacant; Principal; 485-8275 • 485-8832; Jeffersontown High; unknown@jefferson.kyschools.us <!-- Vacant BOLD -->
-JOHNSON TRADITIONAL MIDDLE; 2509 Wilson Avenue, 40210; 485-8277 • 485-8679 <!-- Red, White and Blue Red White Blue RWB -->
+JOHNSON TRADITIONAL MIDDLE; 2509 Wilson Avenue, 40210; 485-8277 • 485-8679 <!-- Red White Blue RWB -->
 Black, Kenneth; Assistant Principal; 485-8277 • 485-8679; Johnson Traditional Middle; kenneth.black@jefferson.kyschools.us <!-- Kenneth Black -->
 Curl, Stephanie; Counselor; 485-8277 • 485-8679; Johnson Traditional Middle; stephanie.curl@jefferson.kyschools.us <!-- Stephanie Curl -->
 Johnson, Beverly; Principal; 485-8277 • 485-8679; Johnson Traditional Middle; beverly.johnson@jefferson.kyschools.us <!-- Beverly Johnson BOLD -->
@@ -733,7 +733,7 @@ Malik, William; Plant Operator; 485-8277 • 485-8679; Johnson Traditional Middl
 Phillips, Crystal; Counselor; 485-8277 • 485-8679; Johnson Traditional Middle; crystal.phillips@jefferson.kyschools.us <!-- Crystal Phillips -->
 Richardson, Renee; Bookkeeper; 485-8277 • 485-8679; Johnson Traditional Middle; renee.richardson@jefferson.kyschools.us <!-- Renee Richardson -->
 Webb, Susan; Assistant Principal; 485-8277 • 485-8679; Johnson Traditional Middle; susan.webb@jefferson.kyschools.us <!-- Susan Webb -->
-JOHNSONTOWN ROAD ELEMENTARY; 7201 Johnsontown Road, 40272; 485-8278 • 485-8156 <!-- Red, White and Blue Red White Blue RWB -->
+JOHNSONTOWN ROAD ELEMENTARY; 7201 Johnsontown Road, 40272; 485-8278 • 485-8156 <!-- Red White Blue RWB -->
 Cosby, Carla; FRC Coordinator; 485-8278 • 485-8156; Johnsontown Road Elementary; carla.cosby@jefferson.kyschools.us <!-- Carla Cosby -->
 Dutkowski, Malinda; Principal; 485-8278 • 485-8156; Johnsontown Road Elementary; malinda.dutkowski@jefferson.kyschools.us <!-- Malinda Dutkowski BOLD -->
 Jackson, Jackie; Resource Teacher; 485-8278 • 485-8156; Johnsontown Road Elementary; jackie.jackson@jefferson.kyschools.us <!-- Jackie Jackson -->
@@ -741,7 +741,7 @@ Keesee, Melissa; Bookkeeper; 485-8278 • 485-8156; Johnsontown Road Elementary;
 Linker, Sara; Secretary; 485-8278 • 485-8156; Johnsontown Road Elementary; sara.linker@jefferson.kyschools.us <!-- Sara Linker BOLD ITALIC -->
 Newby, Maxann; Counselor; 485-8278 • 485-8156; Johnsontown Road Elementary; maxann.newby@jefferson.kyschools.us <!-- Maxann Newby -->
 Wheatley, Jack; Assistant Principal; 485-8278 • 485-8156; Johnsontown Road Elementary; jack.wheatley@jefferson.kyschools.us <!-- Jack Wheatley -->
-KAMMERER MIDDLE; 7315 Wesboro Road, 40222; 485-8279 • 485-8618 <!-- Red, White and Blue Red White Blue RWB -->
+KAMMERER MIDDLE; 7315 Wesboro Road, 40222; 485-8279 • 485-8618 <!-- Red White Blue RWB -->
 Armour, David; Principal; 485-8279 • 485-8618; Kammerer Middle; david.armour@jefferson.kyschools.us <!-- David Armour BOLD -->
 Bowman, Erica; Assistant Principal; 485-8279 • 485-8618; Kammerer Middle; erica.bowman@jefferson.kyschools.us <!-- Erica Bowman -->
 Dench, Lori; Bookkeeper; 485-8279 • 485-8618; Kammerer Middle; lori.dench@jefferson.kyschools.us <!-- Lori Dench -->
@@ -754,14 +754,14 @@ Serotte, Steven; Assistant Principal; 485-8279 • 485-8618; Kammerer Middle; st
 Smith, Carolyn; Assistant Principal; 485-8279 • 485-8618; Kammerer Middle; carolyn.smith2@jefferson.kyschools.us <!-- Carolyn Smith -->
 Smyzer, Anthony; Plant Operator; 485-8279 • 485-8618; Kammerer Middle; tony.smyzer@jefferson.kyschools.us <!-- Anthony Smyzer -->
 Wethern, Carole; Counselor; 485-8279 • 485-8618; Kammerer Middle; carole.wethern@jefferson.kyschools.us <!-- Carole Wethern -->
-KENNEDY METRO MIDDLE; 4515 Taylorsville Road, 40220; 485-6950 • 491-7290 <!-- Red, White and Blue Red White Blue RWB -->
+KENNEDY METRO MIDDLE; 4515 Taylorsville Road, 40220; 485-6950 • 491-7290 <!-- Red White Blue RWB -->
 Downey, Patrick; Counselor; 485-8304 • 485-8168; Kennedy Metro Middle; patrick.downey@jefferson.kyschools.us <!-- Patrick Downey -->
 Johnson, Anthony J.; Assistant Principal; 485-6950 • 491-7290; Kennedy Metro Middle; anthony.johnson@jefferson.kyschools.us <!-- Anthony J. Johnson  Anthony Johnson -->
 Pierce, Bruce; Counselor; 485-6950 • 491-7290; Kennedy Metro Middle; unknown@jefferson.kyschools.us <!-- Bruce Pierce -->
 Reid, Donald; Principal; 485-6950 • 491-7290; Kennedy Metro Middle; don.reid@jefferson.kyschools.us <!-- Donald Reid BOLD -->
 Saling, Mary; Plant Operator; 485-6950 • 491-7290; Kennedy Metro Middle; mary.saling@jefferson.kyschools.us <!-- Mary Saling -->
 Vittitow, Donna; Secretary; 485-6950 • 491-7290; Kennedy Metro Middle; donna.vittitow@jefferson.kyschools.us <!-- Donna Vittitow BOLD ITALIC -->
-KENNEDY MONTESSORI ELEMENTARY; 3800 Gibson Lane, 40211; 485-8280 • 485-8709 <!-- Red, White and Blue Red White Blue RWB -->
+KENNEDY MONTESSORI ELEMENTARY; 3800 Gibson Lane, 40211; 485-8280 • 485-8709 <!-- Red White Blue RWB -->
 Amchin, Deb; Counselor; 485-8280 • 485-8709; Kennedy Montessori Elementary; deborah.amchin@jefferson.kyschools.us <!-- Deb Amchin Deborah Amchin -->
 Bailey, Kimberly; Assistant Principal; 485-8280 • 485-8709; Kennedy Montessori Elementary; kimberly.jones-ross@jefferson.kyschools.us <!-- Kimberly Bailey -->
 Dawson, Opal; Principal; 485-8280 • 485-8709; Kennedy Montessori Elementary; opal.dawson@jefferson.kyschools.us <!-- Opal Dawson BOLD -->
@@ -770,7 +770,7 @@ Hogue, Sandra; Goal Clarity Coach; 485-8280 • 485-8709; Kennedy Montessori Ele
 Schweinhart, Tiffanie; Secretary; 485-8280 • 485-8709; Kennedy Montessori Elementary; tiffanie.schweinhart@jefferson.kyschools.us <!-- Tiffanie Schweinhart BOLD ITALIC -->
 Shipley, Lynetta; FRC Coordinator; 485-8280 • 485-8709; Kennedy Montessori Elementary; lynetta.shipley@jefferson.kyschools.us <!-- Lynetta Shipley -->
 Thompson, Monica; Bookkeeper; 485-8280 • 485-8709; Kennedy Montessori Elementary; monica.thompson2@jefferson.kyschools.us <!-- Monica Thompson -->
-KENWOOD ELEMENTARY; 7420 Justan Avenue, 40214; 485-8283 • 485-8535 <!-- Red, White and Blue Red White Blue RWB -->
+KENWOOD ELEMENTARY; 7420 Justan Avenue, 40214; 485-8283 • 485-8535 <!-- Red White Blue RWB -->
 Bell, Sharron; Secretary; 485-8283 • 485-8535; Kenwood Elementary; sharron.bell@jefferson.kyschools.us <!-- Sharron Bell BOLD ITALIC -->
 Donnelly, Lara; Counselor; 485-8283 • 485-8535; Kenwood Elementary; lara.donnelly@jefferson.kyschools.us <!-- Lara Donnelly -->
 Handley, Jill; Principal; 485-8283 • 485-8535; Kenwood Elementary; jill.handley@jefferson.kyschools.us <!-- Jill Handley BOLD -->
@@ -778,14 +778,14 @@ Pence, Sallye; FRC Coordinator; 367-9344 • 485-8535; Kenwood Elementary; sally
 Schultz, Amy; Bookkeeper; 485-8283 • 485-8535; Kenwood Elementary; amy.schultz@jefferson.kyschools.us <!-- Amy Schultz -->
 Webster, Kelly; Plant Operator; 485-8283 • 485-8535; Kenwood Elementary; kelly.webster@jefferson.kyschools.us <!-- Kelly Webster -->
 Williams, Katie; Assistant Principal; 485-8283 • 485-8535; Kenwood Elementary; katie.williams1@jefferson.kyschools.us <!-- Katie Williams -->
-KERRICK ELEMENTARY; 2210 Upper Hunters Trace, 40216; 485-8284 • 448-0598 <!-- Red, White and Blue Red White Blue RWB -->
+KERRICK ELEMENTARY; 2210 Upper Hunters Trace, 40216; 485-8284 • 448-0598 <!-- Red White Blue RWB -->
 Allgood, Charlene; Secretary; 485-8284 • 448-0598; Kerrick Elementary; charlene.allgood@jefferson.kyschools.us <!-- Charlene Allgood BOLD ITALIC -->
 Carroll, Marie; Bookkeeper; 485-8284 • 448-0598; Kerrick Elementary; marie.carroll2@jefferson.kyschools.us <!-- Marie Carroll -->
 Guenther, Bridgette; Plant Operator; 485-8284 • 448-0598; Kerrick Elementary; bridgette.guenther@jefferson.kyschools.us <!-- Bridgette Guenther -->
 Hazard-Irvin, LaWanda; Principal; 485-8284 • 448-0598; Kerrick Elementary; lawanda.irvin@jefferson.kyschools.us <!-- Lawanda Hazard-Irvin Lawanda Irvin BOLD -->
 Smith, Sean; Coord. Family Resource Center; 485-5373 • 448-0598; Kerrick Elementary; sean.smith2@jefferson.kyschools.us <!-- Sean Smith -->
 Wade, Lauri; Counselor; 485-8284 • 448-0598; Kerrick Elementary; lauri.wade@jefferson.kyschools.us <!-- Lauri Wade -->
-KING ELEMENTARY; 4325 Vermont Avenue, 40211; 485-8285 • 485-8668 <!-- Red, White and Blue Red White Blue RWB -->
+KING ELEMENTARY; 4325 Vermont Avenue, 40211; 485-8285 • 485-8668 <!-- Red White Blue RWB -->
 Alcon, Takeya; Bookkeeper; 485-8285 • 485-8668; King Elementary; takeya.alcon@jefferson.kyschools.us <!-- Takeya Alcon -->
 Brown, Michael; Plant Operator; 485-8285 • 485-8668; King Elementary; michael.brown3@jefferson.kyschools.us <!-- Michael Brown -->
 Eicher, Berita; Resource Teacher; 485-8285 • 485-8668; King Elementary; berita.eicher@jefferson.kyschools.us <!-- Berita Eicher -->
@@ -794,7 +794,7 @@ Jones, LaKeasha; Assistant Principal; 485-8285 • 485-8668; King Elementary; la
 Juvrud, Kendra; Secretary; 485-8285 • 485-8668; King Elementary; kendra.juvrud@jefferson.kyschools.us <!-- Kendra Juvrud BOLD ITALIC -->
 Mays, Frank; FRC Coordinator; 485-8106 • 485-8668; King Elementary; frank.mays@jefferson.kyschools.us <!-- Frank Mays -->
 White, Stephanie; Principal; 485-8285 • 485-8668; King Elementary; stephanie.white3@jefferson.kyschools.us <!-- Stephanie White BOLD -->
-KLONDIKE LANE ELEMENTARY; 3807 Klondike Lane, 40218; 485-8286 • 485-8146 <!-- Red, White and Blue Red White Blue RWB -->
+KLONDIKE LANE ELEMENTARY; 3807 Klondike Lane, 40218; 485-8286 • 485-8146 <!-- Red White Blue RWB -->
 Boyer, Mark; Principal; 485-8286 • 485-8146; Klondike Lane Elementary; mark.boyer@jefferson.kyschools.us <!-- Mark Boyer BOLD -->
 Harris, Kristi; Counselor; 485-8286 • 485-8146; Klondike Lane Elementary; kristi.harris@jefferson.kyschools.us <!-- Kristi Harris -->
 Hawthorne, Vicki; Bookkeeper; 485-8286 • 485-8146; Klondike Lane Elementary; vicki.hawthorne@jefferson.kyschools.us <!-- Vicki Hawthorne -->
@@ -802,7 +802,7 @@ Haynes, Rebecca; Resource Teacher; 485-8286 • 485-8146; Klondike Lane Elementa
 Masters, Jeanie; Secretary; 485-8286 • 485-8146; Klondike Lane Elementary; jeanie.masters@jefferson.kyschools.us <!-- Jeanie Masters BOLD ITALIC -->
 Taylor, John; Plant Operator; 485-8286 • 485-8146; Klondike Lane Elementary; john.taylor@jefferson.kyschools.us <!-- John Taylor -->
 White, Trevor; Assistant Principal; 485-8286 • 485-8146; Klondike Lane Elementary; trevor.white@jefferson.kyschools.us <!-- Trevor White -->
-KNIGHT MIDDLE; 9803 Blue Lick Road, 40229; 485-8287 • 485-8073 <!-- Red, White and Blue Red White Blue RWB -->
+KNIGHT MIDDLE; 9803 Blue Lick Road, 40229; 485-8287 • 485-8073 <!-- Red White Blue RWB -->
 Day, CoTrina; Counselor, 6th-Grade and 7th-Grade (A-M); 485-8287 • 485-8073; Knight Middle; cotrina.day@jefferson.kyschools.us <!-- CoTrina Day -->
 Bale, Tracy; Assistant Principal, 6th-Grade and 7th-Grade (A-M); 485-8287 • 485-8073; Knight Middle; tracy.bale@jefferson.kyschools.us <!-- Tracy Bale -->
 Bowman, Cathy; Front Office Clerk; 485-8287 • 485-8073; Knight Middle; cathy.bowman@jefferson.kyschools.us <!-- Cathy Bowman -->
@@ -817,7 +817,7 @@ Petters, Amanda; Assistant Principal, 7th-Grade (N-Z) and 8th-Grade; 485-8287 �
 Puckett, Laura; Records/Attendance; 485-8287 • 485-8073; Knight Middle; laura.puckett@jefferson.kyschools.us <!-- Laura Puckett -->
 Sayre, Kathleen; Middle School Priority Manager; 485-8287 • 485-8073; Knight Middle; kathleen.sayre@jefferson.kyschools.us <!-- Kathleen Sayre -->
 Weaver, Tosha; Secretary; 485-8287 • 485-8073; Knight Middle; tosha.weaver@jefferson.kyschools.us <!-- Tosha Weaver BOLD ITALIC -->
-LASSITER MIDDLE; 8200 Candleworth Drive, 40214; 485-8288 • 485-8373 <!-- Red, White and Blue Red White Blue RWB -->
+LASSITER MIDDLE; 8200 Candleworth Drive, 40214; 485-8288 • 485-8373 <!-- Red White Blue RWB -->
 Cesler, Jon; Principal; 485-8288 • 485-8373; Lassiter Middle; jon.cesler@jefferson.kyschools.us <!-- Jon Cesler BOLD -->
 Claycomb, Cathy; Secretary; 485-8288 • 485-8373; Lassiter Middle; cathy.claycomb@jefferson.kyschools.us <!-- Cathy Claycomb BOLD ITALIC -->
 Crady, Amy; Assistant Principal; 485-8288 • 485-8373; Lassiter Middle; amy.crady@jefferson.kyschools.us <!-- Amy Crady -->
@@ -827,7 +827,7 @@ Nelson, Larry; Plant Operator; 485-8288 • 485-8373; Lassiter Middle; larry.nel
 Newbern, Cheryl; Counselor; 485-8288 • 485-8373; Lassiter Middle; cheryl.newbern@jefferson.kyschools.us <!-- Cheryl Newbern -->
 Peak, Kevin; Assistant Principal; 485-8288 • 485-8373; Lassiter Middle; kevin.peak@jefferson.kyschools.us <!-- Kevin Peak -->
 Ruble, Barry; Counselor; 485-8228 • 485-8375; Lassiter Middle; barry.ruble@jefferson.kyschools.us <!-- Barry Ruble -->
-LAUKHUF ELEMENTARY; 5100 Capewood Drive, 40229; 485-8289 • 485-8478 <!-- Red, White and Blue Red White Blue RWB -->
+LAUKHUF ELEMENTARY; 5100 Capewood Drive, 40229; 485-8289 • 485-8478 <!-- Red White Blue RWB -->
 Baechle, Tamela; Bookkeeper; 485-8289 • 485-8478; Laukhuf Elementary; tammy.baechle@jefferson.kyschools.us <!-- Tamela Baechle -->
 Fields, Nicole; FRC Coordinator; 968-7342 • 485-8478; Laukhuf Elementary; nicole.fields@jefferson.kyschools.us <!-- Nicole Fields -->
 Oldham-Rhodes, Adrian; Principal; 485-8289 • 485-8478; Laukhuf Elementary; adrian.oldham-rhodes@jefferson.kyschools.us <!-- Adrian Oldham-Rhodes BOLD -->
@@ -835,14 +835,14 @@ Sullivan, Pamela; Counselor; 485-8289 • 485-8478; Laukhuf Elementary; pam.sull
 Wingfeld, Terri; Secretary; 485-8289 • 485-8478; Laukhuf Elementary; terri.wingfeld@jefferson.kyschools.us <!-- Terri Wingfeld BOLD ITALIC -->
 Yarber, Eddie; Plant Operator; 485-8289 • 485-8478; Laukhuf Elementary; eddie.yarber@jefferson.kyschools.us <!-- Eddie Yarber -->
 Vacant; Assistant Principal; 485-8289 • 485-8478; Laukhuf Elementary; unknown@jefferson.kyschools.us <!-- Vacant -->
-LAYNE ELEMENTARY; 9831 East Avenue, 40272; 485-8290 • 485-8557 <!-- Red, White and Blue Red White Blue RWB -->
+LAYNE ELEMENTARY; 9831 East Avenue, 40272; 485-8290 • 485-8557 <!-- Red White Blue RWB -->
 Burkhead, Lisa; Bookkeeper; 485-8290 • 485-8557; Layne Elementary; lisa.burkhead@jefferson.kyschools.us <!-- Lisa Burkhead -->
 Marshall, Ronald; Principal; 485-8290 • 485-8557; Layne Elementary; ron.marshall@jefferson.kyschools.us <!-- Ronald Marshall BOLD -->
 O'Bryan, Jodi; Counselor; 485-8290 • 485-8557; Layne Elementary; jodi.obryan@jefferson.kyschools.usus <!-- Jodi O'Bryan Jodi OBryan Jody OBryan -->
 Scott, Karen; Plant Operator; 485-8290 • 485-8557; Layne Elementary; karen.scott1@jefferson.kyschools.us <!-- Karen Scott -->
 Smith, Brian; Assistant Principal; 485-8290 • 485-8557; Layne Elementary; brian.smith2@jefferson.kyschools.us <!-- Brian Smith -->
 Williams, Lisa; Secretary; 485-8290 • 485-8557; Layne Elementary; lisa.williams1@jefferson.kyschools.us <!-- Lisa Williams BOLD ITALIC -->
-LIBERTY HIGH; 3307 E. Indian Trail, 40213; 485-7100 • 485-7102 <!-- Red, White and Blue Red White Blue RWB -->
+LIBERTY HIGH; 3307 E. Indian Trail, 40213; 485-7100 • 485-7102 <!-- Red White Blue RWB -->
 Bedford, Nina; Assistant Principal; 485-7100 • 485-7102; Liberty High; nina.bedford@jefferson.kyschools.us <!-- Nina Bedford -->
 Burton, Roderick; Plant Operator; 485-7100 • 485-7102; Liberty High; roderick.burton@jefferson.kyschools.us <!-- Roderick Burton -->
 Duffy, Jessica; Assistant Principal; 485-7100 • 485-7102; Liberty High; jessica.duffy@jefferson.kyschools.us <!-- Jessica Duffy -->
@@ -851,7 +851,7 @@ Robinson, Pam; Secretary/Bookkeeper; 485-7100 • 485-7102; Liberty High; pam.ro
 Talaat, Iman; Principal; 485-7100 • 485-7102; Liberty High; iman.talaat@jefferson.kyschools.us <!-- Iman Talaat BOLD -->
 Victor, Alethea; Coordinator YSC; 485-7100 • 485-7102; Liberty High; alethea.victor@jefferson.kyschools.us <!-- Alethea Victor -->
 Watson, Jennifer; Assistant Principal; 485-7100 • 485-7102; Liberty High; jennifer.watson@jefferson.kyschools.us <!-- Jennifer Watson -->
-LINCOLN ELEMENTARY PERFORMING ARTS SCHOOL; 930 E. Main Street, 40206; 485-8291 • 485-8142 <!-- Red, White and Blue Red White Blue RWB -->
+LINCOLN ELEMENTARY PERFORMING ARTS SCHOOL; 930 E. Main Street, 40206; 485-8291 • 485-8142 <!-- Red White Blue RWB -->
 Cain, Lindsey; FRC Coordinator; 485-8114 • 485-8142; Lincoln Elementary Performing Arts School; lindsey.cain@jefferson.kyschools.us <!-- Lindsey Cain -->
 Elmes, Tanya; Attendance Clerk; 485-8291 • 485-8142; Lincoln Elementary Performing Arts School; tanya.elmes@jefferson.kyschools.us <!-- Tanya Elmes -->
 England, Deanna; Secretary; 485-8291 • 485-8142; Lincoln Elementary Performing Arts School; deanna.england@jefferson.kyschools.us <!-- Deanna England BOLD ITALIC -->
@@ -861,12 +861,12 @@ Jones, Nannette; Counselor; 485-8291 • 485-8142; Lincoln Elementary Performing
 Robinson, Phineas; Plant Operator; 485-8291 • 485-8142; Lincoln Elementary Performing Arts School; phineas.robinson@jefferson.kyschools.us <!-- Phineas Robinson -->
 Shannon, Debbie; Arts Magnet Coordinator; 485-8291 • 485-8142; Lincoln Elementary Performing Arts School; deborah.shannon@jefferson.kyschools.us <!-- Debbie Shannon -->
 Tilford, Arethia; Records Clerk; 485-8291 • 485-8142; Lincoln Elementary Performing Arts School; arethia.tilford@jefferson.kyschools.us <!-- Arethia Tilford -->
-LOUISVILLE DAY TREATMENT CENTER; 8711 LaGrange Road, 40242; 429-7217 • 429-7216 <!-- Red, White and Blue Red White Blue RWB -->
+LOUISVILLE DAY TREATMENT CENTER; 8711 LaGrange Road, 40242; 429-7217 • 429-7216 <!-- Red White Blue RWB -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Louisville Day Treatment Center; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Fox, Melissa; Clerk I; 429-7217 • 429-7216; Louisville Day Treatment Center; melissa.fox@jefferson.kyschools.us <!-- Melissa Fox BOLD ITALIC -->
 Rapp, Joseph; Part-Time Counselor; 429-7217 • 429-7216; Louisville Day Treatment Center; joe.rapp@jefferson.kyschools.us <!-- Joseph Rapp -->
 Risner, Maurice; Part-Time Associate Principal; 429-7217 • 429-7216; Louisville Day Treatment Center; maurice.risner@jefferson.kyschools.us <!-- Maurice Risner -->
-LOUISVILLE MALE HIGH; 4409 Preston Highway, 40213; 485-8292 • 485-8770 <!-- Red, White and Blue Red White Blue RWB -->
+LOUISVILLE MALE HIGH; 4409 Preston Highway, 40213; 485-8292 • 485-8770 <!-- Red White Blue RWB -->
 Barber, Todd; Assistant Principal; 485-8823 • 485-8770; Louisville Male High; todd.barber@jefferson.kyschools.us <!-- Todd Barber William Barber -->
 Crutcher, Jill; Counselor; 485-8822 • 485-8770; Louisville Male High; jill.crutcher@jefferson.kyschools.us <!-- Jill Crutcher -->
 Drinkard, Jasmine; Counselor; 485-8822 • 485-8770; Louisville Male High; jasmine.drinkard@jefferson.kyschools.us <!-- Jasmine Drinkard -->
@@ -877,7 +877,7 @@ Peak, Carol; Bookkeeper; 485-8292 • 485-8770; Louisville Male High; carolyn.pe
 Raisor, Renita; Counselor; 485-8822 • 485-8770; Louisville Male High; renita.raisor@jefferson.kyschools.us <!-- Renita Raisor -->
 Sullivan, Cynthia; Counselor; 485-8822 • 485-8770; Louisville Male High; cynthia.sullivan@jefferson.kyschools.us <!-- Cynthia Sullivan -->
 Wise, Jeff; Assistant Principal; 485-8823 • 485-8770; Louisville Male High; jeffery.wise@jefferson.kyschools.us <!-- Jeff Wise ﻿﻿﻿Jeffery Wise -->
-LOWE ELEMENTARY; 210 Oxfordshire Lane, 40222; 485-8293 • 485-8594 <!-- Red, White and Blue Red White Blue RWB -->
+LOWE ELEMENTARY; 210 Oxfordshire Lane, 40222; 485-8293 • 485-8594 <!-- Red White Blue RWB -->
 Allain, Austin; Principal; 485-8293 • 485-8594; Lowe Elementary; austin.allain@jefferson.kyschools.us <!-- Austin Allain BOLD -->
 Johnstone, Dustin; Assistant Principal; 485-8293 • 485-8594; Lowe Elementary; dustin.johnstone@jefferson.kyschools.us <!-- Dustin Johnstone -->
 Kyriacou, Kristen; School Psychologist; 327-2851 • 485-8594; Lowe Elementary; kristen.kyriacou@jefferson.kyschools.us <!-- Kristen Kyriacou -->
@@ -886,7 +886,7 @@ McCarthy, Kim; FRC Coordinator; 485-8293 • 485-8594; Lowe Elementary; kimberly
 Piscitelli, Terri; Counselor; 485-8293 • 485-8594; Lowe Elementary; terri.piscitelli@jefferson.kyschools.us <!-- Terri Piscitelli -->
 Robertson, Kathy; Bookkeeper; 485-8293 • 485-8594; Lowe Elementary; kathy.robertson@jefferson.kyschools.us <!-- Kathy Robertson -->
 Welsh, Ronda; Plant Operator; 485-8293 • 485-8594; Lowe Elementary; ronda.welsh@jefferson.kyschools.us <!-- Ronda Welsh -->
-LUHR ELEMENTARY; 6900 Fegenbush Lane, 40228; 485-8295 • 485-8426 <!-- Red, White and Blue Red White Blue RWB -->
+LUHR ELEMENTARY; 6900 Fegenbush Lane, 40228; 485-8295 • 485-8426 <!-- Red White Blue RWB -->
 Blood, Jennifer; Resource Teacher; 485-8295 • 485-8426; Luhr Elementary; jennifer.blood@jefferson.kyschools.us <!-- Jennifer Blood -->
 Braxton, Celeste; FRC Coordinator; 485-8295 • 485-8426; Luhr Elementary; celeste.braxton@jefferson.kyschools.us <!-- Celeste Braxton -->
 Conder, Debbie; Bookkeeper; 485-8295 • 485-8426; Luhr Elementary; debora.conder@jefferson.kyschools.us <!-- Debbie Conder Debora Conder -->
@@ -895,16 +895,16 @@ Heller, Tom; Plant Operator; 485-8295 • 485-8426; Luhr Elementary; tom.heller@
 Martin, Barbara; Counselor; 485-8295 • 485-8426; Luhr Elementary; barbara.martin3@jefferson.kyschools.us <!-- Barbara Martin -->
 Schroering, Lynley; Principal; 485-8295 • 485-8426; Luhr Elementary; lynley.schroering@jefferson.kyschools.us <!-- Lynley Schroering BOLD -->
 Williams, Sarah; Assistant Principal; 485-8295 • 485-8426; Luhr Elementary; sarah.williams@jefferson.kyschools.us <!-- Sarah Williams -->
-MARYHURST; 1015 Dorsey Lane, 40223; 245-1576 • 245-7470 <!-- Red, White and Blue Red White Blue RWB -->
+MARYHURST; 1015 Dorsey Lane, 40223; 245-1576 • 245-7470 <!-- Red White Blue RWB -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Maryhurst; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Pike, Dan; Specialist, Low Incidence/Alternate Portfolios; 485-3280 • 485-3776; Maryhurst; dan.pike@jefferson.kyschools.us <!-- Dan Pike -->
 Tabor, Jill; Associate Principal; 271-4531 • 245-7470; Maryhurst; jill.tabor@jefferson.kyschools.us <!-- Jill Tabor -->
-MAUPIN ELEMENTARY; 1312 Catalpa Street, 40211; 485-8310 • 485-8752 <!-- Red, White and Blue Red White Blue RWB -->
+MAUPIN ELEMENTARY; 1312 Catalpa Street, 40211; 485-8310 • 485-8752 <!-- Red White Blue RWB -->
 Carmouche, Sue; FRC Coordinator; 485-8869 • 485-8752; Maupin Elementary; sue.carmouche@jefferson.kyschools.us <!-- Sue Carmouche -->
 Dennis, Cheryl; Secretary; 485-8310 • 485-8752; Maupin Elementary; cheryl.dennis@jefferson.kyschools.us <!-- Cheryl Dennis BOLD ITALIC -->0
 McClain, Katrice; Counselor; 485-8310 • 485-8752; Maupin Elementary; helena.mcclain@jefferson.kyschools.us <!-- Katrice McClain Helena McClain -->
 Wade, June; Principal, Interim; 485-8310 • 485-8752; Maupin Elementary; june.wade@jefferson.kyschools.us <!-- June Wade BOLD -->
-MCFERRAN PREPARATORY ACADEMY; 1900 S. Seventh Street, 40208; 485-8297 • 485-8362 <!-- Red, White and Blue Red White Blue RWB -->
+MCFERRAN PREPARATORY ACADEMY; 1900 S. Seventh Street, 40208; 485-8297 • 485-8362 <!-- Red White Blue RWB -->
 Aberli, Walter; FRC Coordinator; 634-8960 • 485-8362; McFerran Preparatory Academy; walt.aberli@jefferson.kyschools.us <!-- Walter Aberli -->
 Bush, Desiree; Assistant Principal; 485-8297 • 485-8362; McFerran Preparatory Academy; desiree.bush@jefferson.kyschools.us <!-- Desiree Bush -->
 Ellis, Shenoha; School Bookkeeper I; 485-8297 • 485-8362; McFerran Preparatory Academy; shenoha.ellis@jefferson.kyschools.us <!-- Shenoha Ellis -->
@@ -912,14 +912,14 @@ Hayes, Norita; Secretary; 485-8297 • 485-8362; McFerran Preparatory Academy; n
 Marks-Johns, LaMesa; Principal; 485-8297 • 485-8362; McFerran Preparatory Academy; lamesa.marks-johns@jefferson.kyschools.us <!-- LaMesa Marks-Johns BOLD -->
 Shackelford, June; Counselor; 485-8297 • 485-8362; McFerran Preparatory Academy; june.shackelford@jefferson.kyschools.us <!-- June Shackelford -->
 Zakem, Lauren; Counselor; 485-8297 • 485-8362; McFerran Preparatory Academy; lauren.zakem@jefferson.kyschools.us <!-- Lauren Zakem -->
-MEDORA ELEMENTARY; 11801 Deering Road, 40272; 485-8298 • 485-8572 <!-- Red, White and Blue Red White Blue RWB -->
+MEDORA ELEMENTARY; 11801 Deering Road, 40272; 485-8298 • 485-8572 <!-- Red White Blue RWB -->
 Barnes, Kim; Plant Operator; 485-8298 • 485-8572; Medora Elementary; kim.barnes@jefferson.kyschools.us <!-- Kim Barnes Kimberly Barnes -->
 Gott, Donna; Secretary; 485-8298 • 485-8572; Medora Elementary; donna.gott@jefferson.kyschools.us <!-- Donna Gott BOLD ITALIC -->
 Pickup, Betsy; Principal; 485-8298 • 485-8572; Medora Elementary; betsy.pickup@jefferson.kyschools.us <!-- Betsy Pickup BOLD -->
 Stinson, Monica; Counselor; 485-8298 • 485-8572; Medora Elementary; monica.stinson@jefferson.kyschools.us <!-- Monica Stinson -->
 White, Beth; Assistant Principal; 485-8298 • 485-8572; Medora Elementary; beth.white@jefferson.kyschools.us <!-- Beth White -->
 Zinninger, Diane; Bookkeeper; 485-8298 • 485-8572; Medora Elementary; diane.zinninger@jefferson.kyschools.us <!-- Diane Zinninger -->
-MEYZEEK MIDDLE; 828 S. Jackson Street, 40203; 485-8299 • 485-8641 <!-- Red, White and Blue Red White Blue RWB -->
+MEYZEEK MIDDLE; 828 S. Jackson Street, 40203; 485-8299 • 485-8641 <!-- Red White Blue RWB -->
 Bailey, James; Assistant Principal; 485-8299 • 485-8641; Meyzeek Middle; james.bailey2@jefferson.kyschools.us <!-- James Bailey -->
 Baker, Sarah; Proj. Paces Mental Health Counselor; 585-5239/485-3260 • 485-8319/485-7090; Meyzeek Middle; sarah.baker@jefferson.kyschools.us <!-- Sarah Baker Proj. Paces Mental Health Counselor -->
 Burba, Chris; Principal; 485-8299 • 485-8641; Meyzeek Middle; chris.burba@jefferson.kyschools.us <!-- Chris Burba BOLD -->
@@ -930,7 +930,7 @@ Green, Raymond; Assistant Principal; 485-8239 • 485-8080; Meyzeek Middle; raym
 Newton, Johnetta; School Bookkeeper I; 485-8299 • 485-8641; Meyzeek Middle; johnetta.newton@jefferson.kyschools.us <!-- Johnetta Newton -->
 Roberts, Stephanie; Plant Operator; 485-8299 • 485-8641; Meyzeek Middle; stephanie.roberts@jefferson.kyschools.us <!-- Stephanie Roberts -->
 Siracusa, Kathie; Secretary; 485-8299 • 485-8641; Meyzeek Middle; kathleen.siracusa@jefferson.kyschools.us <!-- Kathie Siracusa Kathleen Siracusa BOLD ITALIC -->
-MIDDLETOWN ELEMENTARY; 218 N. Madison Avenue, 40243; 485-8300 • 485-8465 <!-- Red, White and Blue Red White Blue RWB -->
+MIDDLETOWN ELEMENTARY; 218 N. Madison Avenue, 40243; 485-8300 • 485-8465 <!-- Red White Blue RWB -->
 Coffey, Mike; Resource Teacher; 485-8300 • 485-8465; Middletown Elementary; mike.coffey@jefferson.kyschools.us <!-- Mike Coffey -->
 Holt, Tonya; Assistant Principal; 485-8300 • 485-8465; Middletown Elementary; tonya.holt@jefferson.kyschools.us <!-- Tonya Holt -->
 Jumper, Ramona; Plant Operator; 485-8300 • 485-8465; Middletown Elementary; ramona.jumper@jefferson.kyschools.us <!-- Ramona Jumper -->
@@ -938,7 +938,7 @@ Matson, Justin; Principal; 485-8300 • 485-8465; Middletown Elementary; justin.
 Meinecke, Chas; Counselor; 485-8300 • 485-8465; Middletown Elementary; chas.meinecke@jefferson.kyschools.us <!-- Chas Meinecke -->
 Pollard-Nelson, Sandra; Secretary; 485-8300 • 485-8465; Middletown Elementary; sandra.nelson2@jefferson.kyschools.us <!-- Sandra Pollard-Nelson Sandra Nelson BOLD ITALIC -->
 Swift Crowe, Casandra; FRC Coordinator; 253-9043 • 485-8465; Middletown Elementary; casandra.swiftcrowe@jefferson.kyschools.us <!-- Casandra Swift Crowe -->
-MILL CREEK ELEMENTARY; 3816 Dixie Highway, 40216; 485-8301 • 485-8524 <!-- Red, White and Blue Red White Blue RWB -->
+MILL CREEK ELEMENTARY; 3816 Dixie Highway, 40216; 485-8301 • 485-8524 <!-- Red White Blue RWB -->
 Bonds, LaQueisha; Assistant Principal; 485-8301 • 485-8524; Mill Creek Elementary; laqueisha.bonds@jefferson.kyschools.us <!-- LaQueisha Bonds -->
 Clark, Wendi; Behavior Teacher; 485-8301 • 485-8524; Mill Creek Elementary; wendi.clark@jefferson.kyschools.us <!-- Wendi Clark -->
 Gilbert, Brienne; FRC Coordinator; 485-8116 • 485-8524; Mill Creek Elementary; brienne.gilbert@jefferson.kyschools.us <!-- Brienne Gilbert -->
@@ -947,7 +947,7 @@ Pennix, Michelle; Principal; 485-8301 • 485-8524; Mill Creek Elementary; miche
 Slayton, Debbie; Secretary; 485-8301 • 485-8524; Mill Creek Elementary; debbie.slayton@jefferson.kyschools.us <!-- Debbie Slayton BOLD ITALIC -->
 Thomas, Amy; Resource Teacher; 485-8301 • 485-8524; Mill Creek Elementary; amy.thomas@jefferson.kyschools.us <!-- Amy Thomas -->
 Woodford, Wendy; Counselor; 485-8301 • 485-8524; Mill Creek Elementary; anitra.woodford@jefferson.kyschools.us <!-- Wendy Woodford Anitra Woodford -->
-MINORS LANE ELEMENTARY; 8510 Minors Lane, 40219; 485-8303 • 485-8480 <!-- Red, White and Blue Red White Blue RWB -->
+MINORS LANE ELEMENTARY; 8510 Minors Lane, 40219; 485-8303 • 485-8480 <!-- Red White Blue RWB -->
 Campbell, Debbie; FRC Coordinator; 485-8303 • 485-8480; Minors Lane Elementary; deborah.campbell@jefferson.kyschools.us <!-- Debbie Campbell -->
 Eckels, Zachary; Principal; 485-8303 • 485-8480; Minors Lane Elementary; zachary.eckels@jefferson.kyschools.us <!-- Zachary Eckels BOLD -->
 Fleming, Ashley; Counselor; 485-8303 • 485-8480; Minors Lane Elementary; ashley.fleming2@jefferson.kyschools.us <!-- Ashley Fleming -->
@@ -955,7 +955,7 @@ Mucker, Marian; Plant Operator; 485-8303 • 485-8480; Minors Lane Elementary; m
 Paulin, Donna; Assistant Principal; 485-8303 • 485-8480; Minors Lane Elementary; donna.paulin@jefferson.kyschools.us <!-- Donna Paulin -->
 Roehrig, Brenda; Bookkeeper; 485-8303 • 485-8480; Minors Lane Elementary; brenda.roehrig@jefferson.kyschools.us <!-- Brenda Roehrig -->
 Strange, Susan; Secretary; 485-8303 • 485-8480; Minors Lane Elementary; susan.strange@jefferson.kyschools.us <!-- Susan Strange BOLD ITALIC -->
-MOORE TRADITIONAL SCHOOL; 6415 Outer Loop, 40228; 485-8304 • 485-8168 <!-- Red, White and Blue Red White Blue RWB -->
+MOORE TRADITIONAL SCHOOL; 6415 Outer Loop, 40228; 485-8304 • 485-8168 <!-- Red White Blue RWB -->
 Atkinson, Charles; Assistant Principal Middle School; 485-8304 • 485-8168; Moore Traditional School; charles.atkinson2@jefferson.kyschools.us <!-- Charles Atkinson -->
 Belcher, Kristin; Counselor High School; 485-8304 • 485-8168; Moore Traditional School; kristen.belcher@jefferson.kyschools.us <!-- Kristin Belcher -->
 Benboe, Venita; Assistant Principal High School; 485-8304 • 485-8168; Moore Traditional School; venita.benboe@jefferson.kyschools.us <!-- Venita Benboe -->
@@ -970,7 +970,7 @@ Mitchell, Scott; Counselor Middle School; 485-8304 • 485-8168; Moore Tradition
 Neuss, Jason; Assistant Principal High School; 485-8304 • 485-8168; Moore Traditional School; jason.neuss@jefferson.kyschools.us <!-- Jason Neuss -->
 Shoulders, Michael; Coordinator Youth Services Center; 485-3925 • 485-8168; Moore Traditional School; michael.shoulders@jefferson.kyschools.us <!-- Michael Shoulders -->
 Vincent, Dena; Secretary II; 485-8304 • 485-8169/485-8168; Moore Traditional School; dena.vincent@jefferson.kyschools.us <!-- Dena Vincent BOLD ITALIC -->
-MYERS MIDDLE AT WAGGENER HIGH; 330 S. Hubbards Lane, 40207; 485-8305 • 485-8157 <!-- Red, White and Blue Red White Blue RWB -->
+MYERS MIDDLE AT WAGGENER HIGH; 330 S. Hubbards Lane, 40207; 485-8305 • 485-8157 <!-- Red White Blue RWB -->
 Ammerman, Kara; Assistant Principal; 485-8305 • 485-8168; Myers Middle at Waggener High; kara.ammerman@jefferson.kyschools.us <!-- Kara Ammerman -->
 Harris, Linda; Community School Liaison; 458-2316 • 485-8157; Myers Middle at Waggener High; linda.harris2@jefferson.kyschools.us <!-- Linda Harris -->
 Marshall, Jeff; Assistant Principal; 485-8305 • 485-8168; Myers Middle at Waggener High; jeffrey.marshall@jefferson.kyschools.us <!-- Jeff Marshall Jeffrey Marshall -->
@@ -978,7 +978,7 @@ Mercer, Gina; Secretary; 485-8305 • 485-8157; Myers Middle at Waggener High; g
 Reid, Robin; Bookkeeper; 485-8305 • 485-8157; Myers Middle at Waggener High; robin.reid@jefferson.kyschools.us <!-- Robin Reid -->
 Roberts, Devon; Assistant Principal; 485-8305 • 485-8168; Myers Middle at Waggener High; devon.roberts@jefferson.kyschools.us <!-- Devon Roberts -->
 Zeitz, Kathryn; Principal; 485-8305 • 485-8168; Myers Middle at Waggener High; katy.zeitz@jefferson.kyschools.us <!-- Kathryn Zeitz BOLD -->
-NEWBURG MIDDLE; 4901 Exeter Avenue, 40218; 485-8306 • 485-8883 <!-- Red, White and Blue Red White Blue RWB -->
+NEWBURG MIDDLE; 4901 Exeter Avenue, 40218; 485-8306 • 485-8883 <!-- Red White Blue RWB -->
 Adell, Nicole; Principal; 485-8306 • 485-8883; Newburg Middle; nicole.adell@jefferson.kyschools.us <!-- Nicole Adell BOLD -->
 Brown, Larnell; Plant Operator; 485-8306 • 485-8883; Newburg Middle; larnell.brown@jefferson.kyschools.us <!-- Larnell Brown -->
 Clark, Michele; Bookkeeper I; 485-8306 • 485-8883; Newburg Middle; michele.clark@jefferson.kyschools.us <!-- Michele Clark -->
@@ -990,7 +990,7 @@ Garr, Kelli; Assistant Principal; 485-8306 • 485-8883; Newburg Middle; kelli.g
 Irvin, Stacey; Assistant Principal; 485-8306 • 485-8883; Newburg Middle; stacey.irvin@jefferson.kyschools.us <!-- Stacey Irvin -->
 Lyles-Yance, Denise; Counselor; 485-8306 • 485-8883; Newburg Middle; denise.lyles-yancey@jefferson.kyschools.us <!-- Denise Lyles-Yance -->
 Tabert, Kristen; Counselor; 485-8306 • 485-8883; Newburg Middle; kristen.tabert@jefferson.kyschools.us <!-- Kristen Tabert -->
-NOE MIDDLE; 121 W. Lee Street, 40208; 485-8307 • 485-8056 <!-- Red, White and Blue Red White Blue RWB -->
+NOE MIDDLE; 121 W. Lee Street, 40208; 485-8307 • 485-8056 <!-- Red White Blue RWB -->
 Cave, Jennifer; Principal; 485-8307 • 485-8056; Noe Middle; jennifer.cave@jefferson.kyschools.us <!-- Jennifer Cave BOLD -->
 Compton, Tamela; ECE Assistant Principal; 485-8015 • 485-7009; Noe Middle; tamela.compton@jefferson.kyschools.us <!-- Tamela Compton -->
 Conner, Brent; 8th-Grade Assistant Principal; 485-8015 • 485-7009; Noe Middle; brent.conner@jefferson.kyschools.us <!-- Brent Conner -->
@@ -1003,14 +1003,14 @@ Gribbins, John; Coordinator Youth Services Center; 485-8055 • 485-8056; Noe Mi
 Shemwell, Regina; 7th-Grade Assistant Principal; 485-8015 • 485-7009; Noe Middle; regina.shemwell@jefferson.kyschools.us <!-- Regina Shemwell -->
 Stivers, Yolanda; Plant Operator; 485-8307 • 485-8056; Noe Middle; yolanda.stivers@jefferson.kyschools.us <!-- Yolanda Stivers -->
 Walker, Layton; 6th-Grade Counselor; 485-8015 • 485-7009; Noe Middle; layton.walker@jefferson.kyschools.us <!-- Layton Walker -->
-NORTON ELEMENTARY; 8101 Brownsboro Road, 40241; 485-8308 • 485-8600 <!-- Red, White and Blue Red White Blue RWB -->
+NORTON ELEMENTARY; 8101 Brownsboro Road, 40241; 485-8308 • 485-8600 <!-- Red White Blue RWB -->
 Charleston, Jay; Plant Operator; 485-8308 • 485-8600; Norton Elementary; james.charleston2@jefferson.kyschools.us <!-- Jay Charleston James Charleston -->
 Cotton, Tammy; Bookkeeper; 485-8308 • 485-8600; Norton Elementary; tammy.cotton@jefferson.kyschools.us <!-- Tammy Cotton -->
 Iliff, Emily; Assistant Principal; 485-8308 • 485-8600; Norton Elementary; emily.iliff@jefferson.kyschools.us <!-- Emily Iliff -->
 Smothers, Rob; Counselor; 485-8308 • 485-8600; Norton Elementary; rob.smothers@jefferson.kyschools.us <!-- Rob Smothers -->
 Stites, Ken; Principal; 485-8308 • 485-8600; Norton Elementary; ken.stites@jefferson.kyschools.us <!-- Ken Stites BOLD -->
 Tillett, Terri; Secretary; 485-8308 • 485-8600; Norton Elementary; terri.tillett@jefferson.kyschools.us <!-- Terri Tillett BOLD ITALIC -->
-OKOLONA ELEMENTARY; 7606 Preston Highway, 40219; 485-8309 • 485-8482 <!-- Red, White and Blue Red White Blue RWB -->
+OKOLONA ELEMENTARY; 7606 Preston Highway, 40219; 485-8309 • 485-8482 <!-- Red White Blue RWB -->
 Ayers, Vince; Plant Operator; 485-8309 • 485-8482; Okolona Elementary; vincent.ayers@jefferson.kyschools.us <!-- Vince Ayers -->
 Bischoff, Stacey; Assistant Principal; 485-8309 • 485-8482; Okolona Elementary; stacey.bischoff@jefferson.kyschools.us <!-- Stacey Bischoff -->
 Corus, Mike; FRC Coordinator; 485-8194 • 485-8482; Okolona Elementary; mike.corus@jefferson.kyschools.us <!-- Mike Corus -->
@@ -1018,7 +1018,7 @@ McGee, Angie; Bookkeeper; 485-8309 • 485-8482; Okolona Elementary; angela.mcge
 Reuther, Betsy; Counselor; 485-8309 • 485-8482; Okolona Elementary; betsy.reuther@jefferson.kyschools.us <!-- Betsy Reuther -->
 Stearman, Karen; Principal; 485-8309 • 485-8482; Okolona Elementary; karen.stearman@jefferson.kyschools.us <!-- Karen Stearman BOLD -->
 Weakley, Carmelita; Secretary; 485-8309 • 485-8482; Okolona Elementary; carmelita.weakley@jefferson.kyschools.us <!-- Carmelita Weakley BOLD ITALIC -->
-OLMSTED ACADEMY NORTH; 4530 Bellevue Avenue, 40215; 485-8331 • 485-8381 <!-- Red, White and Blue Red White Blue RWB -->
+OLMSTED ACADEMY NORTH; 4530 Bellevue Avenue, 40215; 485-8331 • 485-8381 <!-- Red White Blue RWB -->
 Cheeks, Ron; Assistant Principal; 485-8331 • 485-8381; Olmsted Academy North; ronald.cheeks@jefferson.kyschools.us <!-- Ron Cheeks Ronald Cheeks -->
 Lucas, Doug; Coordinator YSC; 425-8841 • 485-8381; Olmsted Academy North; douglas.lucas@jefferson.kyschools.us <!-- Doug Lucas -->
 Gilbert, Shonda; Assistant Principal; 485-8331 • 485-8381; Olmsted Academy North; shonda.gilbert@jefferson.kyschools.us <!-- Shonda Gilbert -->
@@ -1028,7 +1028,7 @@ Namay, Alexandra; Assistant Principal; 485-8331 • 485-8381; Olmsted Academy No
 Nava-Payton, Barbara; Bookkeeper; 485-8331 • 485-8381; Olmsted Academy North; barbara.nava-payton@jefferson.kyschools.us <!-- Barbara Nava-Payton -->
 Niemi, Rhonda; Lead Resource Teacher; 485-3054 • 485-6542; Olmsted Academy North; rhonda.niemi@jefferson.kyschools.us <!-- Rhonda Niemi -->
 Rodosky, Ryan; Principal; 485-8331 • 485-8381; Olmsted Academy North; ryan.rodosky@jefferson.kyschools.us <!-- Ryan Rodosky BOLD -->
-OLMSTED ACADEMY SOUTH; 5650 Southern Parkway, 40214; 485-8270 • 485-8380 <!-- Red, White and Blue Red White Blue RWB -->
+OLMSTED ACADEMY SOUTH; 5650 Southern Parkway, 40214; 485-8270 • 485-8380 <!-- Red White Blue RWB -->
 Allen, Angela; Principal; 485-8270 • 485-8380; Olmsted Academy South; angela.allen@jefferson.kyschools.us <!-- Angela Allen BOLD -->
 Blair, Brook; Counselor; 485-8270 • 485-8380; Olmsted Academy South; brook.blair@jefferson.kyschools.us <!-- Brook Blair -->
 Blandford, Bethany; Secretary; 485-8270 • 485-8380; Olmsted Academy South; bethany.blandford@jefferson.kyschools.us <!-- Bethany Blandford BOLD ITALIC -->
@@ -1040,12 +1040,12 @@ Olden, Dee Dee; Assistant Principal; 485-8270 • 485-8380; Olmsted Academy Sout
 Sanford, Angel; SRT/PBIS Coach; 485-8270 • 485-8380; Olmsted Academy South; angel.sanford@jefferson.kyschools.us <!-- Angel Sanford --> 
 Stoner, Jackie; Plant Operator; 485-8270 • 485-8380; Olmsted Academy South; jacquelyn.stoner@jefferson.kyschools.us <!-- Jackie Stoner Jacquelyn Stoner -->
 Wade, Ursula; Assistant Principal; 485-8270 • 485-8380; Olmsted Academy South; ursula.wade@jefferson.kyschools.us <!-- Ursula Wade -->
-PEACE ACADEMY; 2020 Newburg Road, 40205; 479-4180 • 479-4143 <!-- Red, White and Blue Red White Blue RWB -->
+PEACE ACADEMY; 2020 Newburg Road, 40205; 479-4180 • 479-4143 <!-- Red White Blue RWB -->
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; Peace Academy; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Irving, Janet; Clerk II; 479-4180 • 479-4143; Peace Academy; janet.irving@jefferson.kyschools.us <!-- Janet Irving BOLD ITALIC -->
 Robbins, Pamela; Counselor; 479-4465 • 479-4143; Peace Academy; pam.robbins@jefferson.kyschools.us <!-- Pamela Robbins -->
 Spears, Bob; Associate Principal; 479-4180 • 479-4143; Peace Academy; robert.spears@jefferson.kyschools.us <!-- Bob Spears Robert Spears -->
-PHOENIX SCHOOL OF DISCOVERY; 3741 Pulliam Drive, 40218; 485-7700 • 485-7701 <!-- Red, White and Blue Red White Blue RWB -->
+PHOENIX SCHOOL OF DISCOVERY; 3741 Pulliam Drive, 40218; 485-7700 • 485-7701 <!-- Red White Blue RWB -->
 Breitenstein, Nancy; Counselor High School; 485-7700 • 485-7701; Phoenix School of Discovery; nancy.breitenstein@jefferson.kyschools.us <!-- Nancy Breitenstein -->
 Dollar, Lucy; Secretary; 485-7700 • 485-7701; Phoenix School of Discovery; lucy.dollar@jefferson.kyschools.us <!-- Lucy Dollar BOLD ITALIC -->
 Dozier, Melinda; Bookkeeper; 485-7700 • 485-7701; Phoenix School of Discovery; melinda.dozier@jefferson.kyschools.us <!-- Melinda Dozier -->
@@ -1058,7 +1058,7 @@ Mills, Carol; Assistant Principal; 485-7700 • 485-7701; Phoenix School of Disc
 Moeller, Ken; Principal; 485-7700 • 485-7701; Phoenix School of Discovery; ken.moeller@jefferson.kyschools.us <!-- Ken Moller BOLD -->
 Rickner, Steve; FRYSC Coordinator; 485-7700 • 485-7701; Phoenix School of Discovery; steve.rickner@jefferson.kyschools.us <!-- Steve Rickner -->
 Wilburn-Brock, Cynthia; Assistant Principal; 485-7700 • 485-7701; Phoenix School of Discovery; cynthia.wilburn-brock@jefferson.kyschools.us <!-- Cynthia Wilburn-Brock -->
-PLEASURE RIDGE PARK HIGH; 5901 Greenwood Road, 40258; 485-8311 • 485-8093 <!-- Red, White and Blue Red White Blue RWB -->
+PLEASURE RIDGE PARK HIGH; 5901 Greenwood Road, 40258; 485-8311 • 485-8093 <!-- Red White Blue RWB -->
 Cook, Jason; Counselor; 485-8311 • 485-8093; Pleasure Ridge Park High; jason.cook@jefferson.kyschools.us <!-- Jason Cook -->
 Dawson, James; Counselor; 485-8311 • 485-8093; Pleasure Ridge Park High; jim.dawson@jefferson.kyschools.us <!-- James Dawson -->
 Hudson, Beth; Assistant Principal; 485-8311 • 485-8093; Pleasure Ridge Park High; beth.hudson@jefferson.kyschools.us <!-- Beth Hudson -->
@@ -1071,7 +1071,7 @@ Stinson, Jason; Assistant Principal; 485-8311 • 485-8093; Pleasure Ridge Park 
 Williams, Tiffani; Counselor; 485-8311 • 485-8093; Pleasure Ridge Park High; tiffani.williams@jefferson.kyschools.us <!-- Tiffani Williams -->
 Willman, Karen; Secretary II; 485-8311 • 485-8093; Pleasure Ridge Park High; karen.willman@jefferson.kyschools.us <!-- Karen Willman BOLD ITALIC -->
 Wilson, Tonya; Counselor; 485-8311 • 485-8093; Pleasure Ridge Park High; tonya.wilson@jefferson.kyschools.us <!-- Tonya Wilson -->
-PORTLAND ELEMENTARY; 3410 Northwestern Parkway, 40212; 485-8313 • 485-8631 <!-- Red, White and Blue Red White Blue RWB -->
+PORTLAND ELEMENTARY; 3410 Northwestern Parkway, 40212; 485-8313 • 485-8631 <!-- Red White Blue RWB -->
 Bennett, Tanya; Secretary; 485-8313 • 485-8631; Portland Elementary; tanya.bennett@jefferson.kyschools.us <!-- Tanya Bennett BOLD ITALIC -->
 Butler, Candi; Plant Operator; 485-8313 • 485-8631; Portland Elementary; candi.butler@jefferson.kyschools.us <!-- Candi Butler -->
 Dotson, Michelle; Assistant Principal; 485-8313 • 485-8631; Portland Elementary; michelle.dotson@jefferson.kyschools.us <!-- Michelle Dotson -->
@@ -1080,14 +1080,14 @@ Jenkins, Natalee; Counselor; 485-8313 • 485-8631; Portland Elementary; natalee
 Lutz, Susan; Bookkeeper; 485-8313 • 485-8631; Portland Elementary; susan.lutz@jefferson.kyschools.us <!-- Susan Lutz -->
 Orr, Lisa; FRC Coordinator; 485-8107 • 776-5588; Portland Elementary; lisa.orr@jefferson.kyschools.us <!-- Lisa Orr -->
 Stokes, Brenda; Environmental Magnet Coordinator; 485-8313 • 485-8631; Portland Elementary; brenda.stokes@jefferson.kyschools.us <!-- Brenda Stokes -->
-PRICE ELEMENTARY; 5001 Garden Green Way, 40218; 485-8315 • 485-8485 <!-- Red, White and Blue Red White Blue RWB -->
+PRICE ELEMENTARY; 5001 Garden Green Way, 40218; 485-8315 • 485-8485 <!-- Red White Blue RWB -->
 Bailey, Tanya; Counselor; 485-8315 • 485-8485; Price Elementary; tanya.bailey@jefferson.kyschools.us <!-- Tanya Bailey -->
 Handy, Robin; Secretary I; 485-8315 • 485-8485; Price Elementary; robin.handy@jefferson.kyschools.us <!-- Robin Handy BOLD ITALIC -->
 Kimble, Val; Plant Operator; 485-8315 • 485-8485; Price Elementary; val.kimble@jefferson.kyschools.us <!-- Val Kimble -->
 Niles, Deborah; Principal; 485-8315 • 485-8485; Price Elementary; deborah.niles@jefferson.kyschools.us <!-- Deborah Niles BOLD -->
 Scott, Cathy; Bookkeeper; 485-8315 • 485-8485; Price Elementary; catherine.scott@jefferson.kyschools.us <!-- Cathy Scott Catherine Scott -->
 Smith, Casaundra; Assistant Principal; 485-8315 • 485-8485; Price Elementary; casaundra.smith@jefferson.kyschools.us <!-- Casaundra Smith -->
-RAMSEY MIDDLE; 6409 Gellhaus Lane, 40299; 485-8391 • 485-8973 <!-- Red, White and Blue Red White Blue RWB -->
+RAMSEY MIDDLE; 6409 Gellhaus Lane, 40299; 485-8391 • 485-8973 <!-- Red White Blue RWB -->
 Biggs, Maureen; Assistant Principal; 485-8391 • 485-8973; Ramsey Middle; maureen.biggs@jefferson.kyschools.us <!-- Maureen Biggs -->
 Brooks, April; Assistant Principal; 485-8391 • 485-8973; Ramsey Middle; april.brooks@jefferson.kyschools.us <!-- April Brooks -->
 Colley, Jennifer; Principal; 485-8391 • 485-8973; Ramsey Middle; jennifer.colley@jefferson.kyschools.us <!-- Jennifer Colley BOLD -->
@@ -1097,19 +1097,19 @@ Moeller, Jennifer; Counselor; 485-8391 • 485-8973; Ramsey Middle; jennifer.moe
 Neel, Patrick; Counselor; 485-8391 • 485-8973; Ramsey Middle; patrick.neel@jefferson.kyschools.us <!-- Patrick Neel -->
 Weihe, Ruth; Secretary; 485-8391 • 485-8973; Ramsey Middle; ruth.weihe@jefferson.kyschools.us <!-- Ruth Weihe BOLD ITALIC -->
 West, Mary; Bookkeeper; 485-8391 • 485-8973; Ramsey Middle; mary.west@jefferson.kyschools.us <!-- Mary West -->
-RANGELAND ELEMENTARY; 1701 Rangeland Road, 40219; 485-8317 • 485-8874 <!-- Red, White and Blue Red White Blue RWB -->
+RANGELAND ELEMENTARY; 1701 Rangeland Road, 40219; 485-8317 • 485-8874 <!-- Red White Blue RWB -->
 Barnes, Milessa; FRC Coordinator; 485-8113 • 485-8874; Rangeland Elementary; milessa.barnes@jefferson.kyschools.us <!-- Milessa Barnes -->
 Kiggins, Mashelle; Principal; 485-8317 • 485-8874; Rangeland Elementary; mashelle.kiggins@jefferson.kyschools.us <!-- Mashelle Kiggins BOLD -->
 Stivers, Linda; Secretary; 485-8317 • 485-8874; Rangeland Elementary; linda.stivers@jefferson.kyschools.us <!-- Linda Stivers BOLD ITALIC -->
 Weiger, Rodney; Assistant Principal; 485-8317 • 485-8874; Rangeland Elementary; rodney.weiger@jefferson.kyschools.us <!-- Rodney Weiger -->
-ROOSEVELT-PERRY ELEMENTARY; 1615 W. Broadway, 40203; 485-8319 • 585-5239 <!-- Red, White and Blue Red White Blue RWB -->
+ROOSEVELT-PERRY ELEMENTARY; 1615 W. Broadway, 40203; 485-8319 • 585-5239 <!-- Red White Blue RWB -->
 Bowman, Staci; Counselor; 485-8319 • 585-5239; Roosevelt-Perry Elementary; staci.bowman@jefferson.kyschools.us <!-- Staci Bowman -->
 Davis, Brian; Assistant Principal; 485-8319 • 585-5239; Roosevelt-Perry Elementary; brian.davis@jefferson.kyschools.us <!-- Brian Davis -->
 Marshall, Nichole; Principal; 485-8319 • 585-5239; Roosevelt-Perry Elementary; kimberly.marshall2@jefferson.kyschools.us <!-- Nichole Marshall Kimberly Marshall BOLD -->
 Napper, Stephanie; Secretary; 485-8319 • 585-5239; Roosevelt-Perry Elementary; stephanie.napper@jefferson.kyschools.us <!-- Stephanie Napper BOLD ITALIC -->
 Pippin, Mark; Plant Operator; 485-8319 • 585-5239; Roosevelt-Perry Elementary; mark.pippin@jefferson.kyschools.us <!-- Mark Pippin -->
 Pulce, Terry; FRC Coordinator; 485-8189 • 585-5239; Roosevelt-Perry Elementary; terry.pulce@jefferson.kyschools.us <!-- Terry Pulce -->
-RUTHERFORD ELEMENTARY; 301 Southland Boulevard, 40214; 485-8320 • 485-8378 <!-- Red, White and Blue Red White Blue RWB -->
+RUTHERFORD ELEMENTARY; 301 Southland Boulevard, 40214; 485-8320 • 485-8378 <!-- Red White Blue RWB -->
 Eddings-King, Carol; Counselor; 485-8320 • 485-8378; Rutherford Elementary; carol.eddings-king@jefferson.kyschools.us <!-- Carol Eddings-King -->
 Flener, Carolyn; Instructional Coach; 485-8320 • 485-8378; Rutherford Elementary; carolyn.flener@jefferson.kyschools.us <!-- Carolyn Flener -->
 Jessie, Carolyn; Assistant Principal; 485-8320 • 4858378; Rutherford Elementary; carolyn.jessie@jefferson.kyschools.us <!-- Carolyn Jessie -->
@@ -1118,10 +1118,10 @@ Mason, Theresa; Counselor; 485-8250 • 485-8377; Rutherford Elementary; theresa
 Moore, Deborah; FRC Coordinator; 485-8320 • 485-3879; Rutherford Elementary; deborah.moore@jefferson.kyschools.us <!-- Deborah Moore -->
 Natsis, Kenya; Principal; 485-8320 • 485-8378; Rutherford Elementary; kenya.natsis@jefferson.kyschools.us <!-- Kenya Natsis BOLD -->
 Russell, Thomas; Plant Operator; 485-8320 • 485-8378; Rutherford Elementary; thomas.russell2@jefferson.kyschools.us <!-- Thomas Russell -->
-RYAN, MARY, ACADEMY; 3307 E. Indian Trail, 40213; 485-7988 • 485-7098 <!-- Red, White and Blue Red White Blue RWB -->
+RYAN, MARY, ACADEMY; 3307 E. Indian Trail, 40213; 485-7988 • 485-7098 <!-- Red White Blue RWB -->
 Allen, Devon; Clerk; 485-7988 • 485-7098; Ryan, Mary, Academy; devon.allen@jefferson.kyschools.us <!-- Devon Allen BOLD ITALIC -->
 Talaat, Iman; Principal; 485-7988 • 485-7098; Ryan, Mary, Academy; iman.talaat@jefferson.kyschools.us <!-- Iman Talaat Mary Ryan Academy BOLD -->
-SANDERS ELEMENTARY; 8408 Terry Road, 40258; 485-8322 • 485-8555 <!-- Red, White and Blue Red White Blue RWB -->
+SANDERS ELEMENTARY; 8408 Terry Road, 40258; 485-8322 • 485-8555 <!-- Red White Blue RWB -->
 Archie, Joann; Counselor; 485-8322 • 485-8555; Sanders Elementary; joann.archie@jefferson.kyschools.us <!-- Joann Archie -->
 Barbagallo, John; Assistant Principal; 485-8322 • 485-8555; Sanders Elementary; john.barbagallo@jefferson.kyschools.us <!-- John Barbagallo -->
 Cooper, Pam; Principal; 485-8322 • 485-8555; Sanders Elementary; pam.cooper@jefferson.kyschools.us <!-- Pam Cooper BOLD -->
@@ -1129,14 +1129,14 @@ Gunther, Ange; SAM; 485-8322 • 485-8555; Sanders Elementary; ange.gunther@jeff
 Hickey, Cindy; Secretary; 485-8322 • 485-8555; Sanders Elementary; cindy.hickey@Jefferson.kyschools.us <!-- Cindy Hickey BOLD ITALIC -->
 Hodo, Solomon; Lead Custodian; 485-8322 • 485-8555; Sanders Elementary; solomon.hodo@jefferson.kyschools.us <!-- Solomon Hodo -->
 Osoffsky, Debra; FRC Coordinator; 933-0724 • 485-8555; Sanders Elementary; debra.osoffsky@jefferson.kyschools.us <!-- Debra Osoffsky -->
-SCHAFFNER TRADITIONAL ELEMENTARY; 2701 Crums Lane, 40216; 485-8217 • 485-8218 <!-- Red, White and Blue Red White Blue RWB -->
+SCHAFFNER TRADITIONAL ELEMENTARY; 2701 Crums Lane, 40216; 485-8217 • 485-8218 <!-- Red White Blue RWB -->
 Braden, Anglette; Counselor; 485-8217 • 485-8218; Schaffner Traditional Elementary; anglette.braden@jefferson.kyschools.us <!-- Anglette Braden -->
 Bryant, Becky; Secretary; 485-8217 • 485-8218; Schaffner Traditional Elementary; rebecca.bryant@jefferson.kyschools.us <!-- Rebecca Bryant BOLD ITALIC -->
 Burch, Stephen; Assistant Principal; 485-8217 • 485-8218; Schaffner Traditional Elementary; stephen.burch@jefferson.kyschools.us <!-- Stephen Burch -->
 Cooper, Ray; Plant Operator; 485-8217 • 485-8218; Schaffner Traditional Elementary; ray.cooper@jefferson.kyschools.us <!-- Ray Cooper -->
 Poore, Phillip; Principal; 485-8217 • 485-8218; Schaffner Traditional Elementary; phil.poore@jefferson.kyschools.us <!-- Phillip Poore BOLD -->
 Sanford, Jill; Bookkeeper; 485-8217 • 485-8218; Schaffner Traditional Elementary; jill.sanford@jefferson.kyschools.us <!-- Jill Sanford -->
-SEMPLE ELEMENTARY; 724 Denmark Street, 40215; 485-8324 • 485-8144 <!-- Red, White and Blue Red White Blue RWB -->
+SEMPLE ELEMENTARY; 724 Denmark Street, 40215; 485-8324 • 485-8144 <!-- Red White Blue RWB -->
 Anderson, Tracey; Secretary I; 485-8324 • 485-8144; Semple Elementary; tracey.anderson@jefferson.kyschools.us <!-- Tracey Anderson BOLD ITALIC -->
 Belden, Angela; Bookkeeper; 485-8324 • 485-8144; Semple Elementary; angela.belden@jefferson.kyschools.us <!-- Angela Belden -->
 Mozee, Evita; Assistant Principal; 485-8324 • 485-8093; Semple Elementary; evita.mozee@jefferson.kyschools.us <!-- Evita Mozee -->
@@ -1145,7 +1145,7 @@ Oliva, Selena; Counselor; 485-8324 • 485-8144; Semple Elementary; selena.oliva
 Randle, Danielle; Principal; 485-8324 • 485-8144; Semple Elementary; danielle.randle@jefferson.kyschools.us <!-- Danielle Randle BOLD -->
 Richardson, Stephanie; Nurse (LPN); 485-8324 • 485-8144; Semple Elementary; stephanie.richardson@jefferson.kyschools.us <!-- Stephanie Richardson -->
 Wright, Katie; Plant Operator; 485-8324 • 485-8144; Semple Elementary; katie.wright2@jefferson.kyschools.us <!-- Katie Wright -->
-SENECA HIGH; 3510 Goldsmith Lane, 40220; 485-8323 • 485-8174 <!-- Red, White and Blue Red White Blue RWB -->
+SENECA HIGH; 3510 Goldsmith Lane, 40220; 485-8323 • 485-8174 <!-- Red White Blue RWB -->
 Bosemer, Cathy; Assistant Principal; 485-8323 • 485-8174; Seneca High; cathy.bosemer@jefferson.kyschools.us <!-- Cathy Bosemer -->
 Collins, Strauzie; Counselor; 485-8323 • 485-8174; Seneca High; strauzie.collins@jefferson.kyschools.us <!-- Strauzie Collins -->
 Dearmond, Bob; Assistant Principal; 485-8323 • 485-8174; Seneca High; bob.dearmond@jefferson.kyschools.us <!-- Bob Dearmond -->
@@ -1160,7 +1160,7 @@ Pettaway, Elycia; Coordinator YSC; 485-7427 • 485-8174; Seneca High; elycia.pe
 Prozaric, Mary Louise; Counselor; 485-8323 • 485-8174; Seneca High; mary.pozaric@jefferson.kyschools.us <!-- Mary Louise Prozaric  Mary Prozaric -->
 Smith, Maggie; Bookkeeper; 485-8323 • 485-8174; Seneca High; maggie.smith@jefferson.kyschools.us <!-- Maggie Smith -->
 Sweeney, Damien; Counselor; 485-8323 • 485-8174; Seneca High; damien.sweeney@jefferson.kyschools.us <!-- Damien Sweeney -->
-SHACKLETTE ELEMENTARY; 5310 Mercury Drive, 40258; 485-8325 • 485-8526 <!-- Red, White and Blue Red White Blue RWB -->
+SHACKLETTE ELEMENTARY; 5310 Mercury Drive, 40258; 485-8325 • 485-8526 <!-- Red White Blue RWB -->
 Allen, Emily; Assistant Principal; 485-8325 • 485-8526; Shacklette Elementary; emily.allen@jefferson.kyschools.us <!-- Emily Allen -->
 Garner, Kevin; Principal; 485-8325 • 485-8526; Shacklette Elementary; kevin.garner@jefferson.kyschools.us <!-- Kevin Garner BOLD -->
 Gravatte, Amber; Attendance Clerk; 485-8325 • 485-8526; Shacklette Elementary; amber.gravatte@jefferson.kyschools.us <!-- Amber Gravatte -->
@@ -1168,7 +1168,7 @@ Moore, Cynthia; Secretary; 485-8325 • 485-8526; Shacklette Elementary; cynthia
 Nalley, Linda; Bookkeeper; 485-8325 • 485-8526; Shacklette Elementary; linda.nalley2@jefferson.kyschools.us <!-- Linda Nalley -->
 Spencer, Amber; FRC Coordinator; 485-8325 • 485-8526; Shacklette Elementary; amber.spencer@jefferson.kyschools.us <!-- Amber Spencer -->
 White, L'Tanya; Counselor; 485-8325 • 485-8526; Shacklette Elementary; latanya.white@jefferson.kyschools.us <!-- L'Tanya White Latanya White -->
-SHELBY TRADITIONAL ACADEMY; 735 Ziegler Street, 40217; 485-8327 • 485-8507 <!-- Red, White and Blue Red White Blue RWB -->
+SHELBY TRADITIONAL ACADEMY; 735 Ziegler Street, 40217; 485-8327 • 485-8507 <!-- Red White Blue RWB -->
 Bledsaw, Anthony; Plant Operator; 485-8327 • 485-8507; Shelby Traditional Academy; anthony.bledsaw@jefferson.kyschools.us <!-- Anthony Bledsaw -->
 Campion, Paul; Counselor; 485-8327 • 485-8507; Shelby Traditional Academy; paul.campion@jefferson.kyschools.us <!-- Paul Campion -->
 Sargent, Miriam; FRC Coordinator; 485-8191 • 485-8507; Shelby Traditional Academy; Miriam.Sargent@jefferson.kyschools.us <!-- Miriam Sargent -->
@@ -1177,13 +1177,13 @@ Logan, Terri; Counselor; 485-8327 • 485-8507; Shelby Traditional Academy; terr
 McCormick, Alison; Assistant Principal; 485-8327 • 485-8507; Shelby Traditional Academy; alison.mccormick@jefferson.kyschools.us <!-- Alison McCormick -->
 McCutcheon, Tabitha; School Bookkeeper I; 485-8327 • 485-8507; Shelby Traditional Academy; tabitha.mccutcheon@jefferson.kyschools.us <!-- Tabitha McCutcheon -->
 Phillips, Cheryl; Secretary; 485-8327 • 485-8507; Shelby Traditional Academy; cheryl.phillips2@jefferson.kyschools.us <!-- Cheryl Phillips BOLD ITALIC -->
-SLAUGHTER ELEMENTARY; 3805 Fern Valley Road, 40219; 485-8328 • 485-8486 <!-- Red, White and Blue Red White Blue RWB -->
+SLAUGHTER ELEMENTARY; 3805 Fern Valley Road, 40219; 485-8328 • 485-8486 <!-- Red White Blue RWB -->
 Belcher, Stephany; Counselor; 485-8328 • 485-8486; Slaughter Elementary; stephany.belcher@jefferson.kyschools.us <!-- Stephany Belcher -->
 Bernita Arnold; Secretary; 485-8328 • 485-8486; Slaughter Elementary; bernita.arnold@jefferson.kyschools.us <!-- Bernita Arnold BOLD ITALIC -->
 Johnson, Kendrick; Plant Operator; 485-8328 • 485-8486; Slaughter Elementary; kendrick.johnson@jefferson.kyschools.us <!-- Kendrick Johnson -->
 Pendleton, Catherine; Principal; 485-8328 • 485-8486; Slaughter Elementary; cathy.pendleton@jefferson.kyschools.us <!-- Catherine Pendleton BOLD -->
 Rowan, Stacey; Assistant Principal; 485-8328 • 485-8486; Slaughter Elementary; stacey.rowan@jefferson.kyschools.us <!-- Stacey Rowan -->
-SMYRNA TRADITIONAL ELEMENTARY; 6401 Outer Loop, 40228; 485-8329 • 485-8484 <!-- Red, White and Blue Red White Blue RWB -->
+SMYRNA TRADITIONAL ELEMENTARY; 6401 Outer Loop, 40228; 485-8329 • 485-8484 <!-- Red White Blue RWB -->
 Fletcher, Sheri; Bookkeeper; 485-8329 • 485-8484; Smyrna Traditional Elementary; sheri.fletcher@jefferson.kyschools.us <!-- Sheri Fletcher -->
 Manning, Denise; Secretary; 485-8329 • 485-8484; Smyrna Traditional Elementary; denise.manning@jefferson.kyschools.us <!-- Denise Manning BOLD ITALIC -->
 Meadors, Susan; Plant Operator; 485-8329 • 485-8484; Smyrna Traditional Elementary; susan.meadors@jefferson.kyschools.us <!-- Susan Meadors -->
@@ -1191,7 +1191,7 @@ Milligan, Karen; Goal Clarity Coach; 485-8329 • 485-8484; Smyrna Traditional E
 Roby, Rebecca; FRC Coordinator; 485-3874 • 485-8484; Smyrna Traditional Elementary; rebecca.roby@jefferson.kyschools.us <!-- Rebecca Roby -->
 Stith, Tiffany; Principal; 485-8329 • 485-8484; Smyrna Traditional Elementary; tiffany.stith@jefferson.kyschools.us <!-- Tiffany Stith BOLD -->
 Travis, Nicole; Assistant Principal; 485-8329 • 485-8484; Smyrna Traditional Elementary; nicole.travis@jefferson.kyschools.us <!-- Nicole Travis -->
-SOUTH PARK TAPP (TEENAGE PARENT PROGRAM); 1010 Neighborhood Place, 40118; 485-8748 • 485-8132 <!-- Red, White and Blue Red White Blue RWB -->
+SOUTH PARK TAPP (TEENAGE PARENT PROGRAM); 1010 Neighborhood Place, 40118; 485-8748 • 485-8132 <!-- Red White Blue RWB -->
 Alexander, Delena; Principal; 485-8748 • 485-8132; South Park TAPP (Teenage Parent Program); delena.alexander@jefferson.kyschools.us <!-- Delena Alexander DeLena Pritchett Alexander BOLD -->
 Caldwell, Carla; Records/Attendance Clerk; 485-8748 • 485-8132; South Park TAPP (Teenage Parent Program); carla.caldwell@jefferson.kyschools.us <!-- Carla Caldwell -->
 Dearing, Angela; Secretary; 485-8748 • 485-8132; South Park TAPP (Teenage Parent Program); angela.dearing@jefferson.kyschools.us <!-- Angela Dearing BOLD ITALIC -->
@@ -1200,7 +1200,7 @@ Hardin, Shonté; Counselor; 485-8748 • 485-8132; South Park TAPP (Teenage Pare
 Martin, Denise; Lead Custodian; 485-8748 • 485-8132; South Park TAPP (Teenage Parent Program); denise.martin@jefferson.kyschools.us <!-- Denise Martin -->
 Spencer, Amber; Coordinator YSC; 485-8866 • 485-7667; South Park TAPP (Teenage Parent Program); amber.rowan@jefferson.kyschools.us <!-- Amber Spencer Amber Rowan -->
 Wilkerson, Debra; Bookkeeper II; 485-8748 • 485-8132; South Park TAPP (Teenage Parent Program); debra.wilkerson@jefferson.kyschools.us <!-- Debra Wilkerson -->
-SOUTHERN HIGH; 8620 Preston Highway, 40219; 485-8330 • 485-8029 <!-- Red, White and Blue Red White Blue RWB -->
+SOUTHERN HIGH; 8620 Preston Highway, 40219; 485-8330 • 485-8029 <!-- Red White Blue RWB -->
 Crigler, Susie; Secretary; 485-8330 • 485-8029; Southern High; susie.crigler@jefferson.kyschools.us <!-- Susie Crigler BOLD ITALIC -->
 English, Jessika; Counselor; 485-8429 • 485-6049; Southern High; jessika.english@jefferson.kyschools.us <!-- Jessika English -->
 Gleason, Pam; Bookkeeper; 485-8042 • 485-8029; Southern High; pam.gleason@jefferson.kyschools.us <!-- Pam Gleason -->
@@ -1216,7 +1216,7 @@ Buschemeyer, Robin; Associate Principal; 721-2351 • 893-2219; St. Joseph Child
 Eckels, Michele; Principal, State Agency Schools; 425-9322 • 425-8513; St. Joseph Children's Home; michele.eckels@jefferson.kyschools.us <!-- Michele Eckels BOLD -->
 Johnson, Denille; Associate Principal; 814-3722 • 212-1296; St. Joseph Children's Home; denille.johnson@jefferson.kyschools.us <!-- Denille Johnson -->
 Youngblood, Jannan; Clerk I; 893-0241 • 212-1296; St. Joseph Children's Home; jannan.youngblood@jefferson.kyschools.us <!-- Jannan Youngblood -->
-ST. MATTHEWS ELEMENTARY; 601 Browns Lane, 40207; 485-8321 • 485-8582 <!-- Red, White and Blue Red White Blue RWB -->
+ST. MATTHEWS ELEMENTARY; 601 Browns Lane, 40207; 485-8321 • 485-8582 <!-- Red White Blue RWB -->
 Beard, Heather; Counselor; 485-8321 • 485-8582; St. Matthews Elementary; heather.beard@jefferson.kyschools.us <!-- Heather Beard -->
 Collier, Scottie; Principal; 485-8321 • 485-8371; St. Matthews Elementary; scott.collier2@jefferson.kyschools.us <!-- Matthew Collier Scott Collier Scot Collier BOLD -->
 French, Cindy; Assistant Principal; 485-8321 • 485-8371; St. Matthews Elementary; cindy.french@jefferson.kyschools.us <!-- Cindy French -->
@@ -1224,7 +1224,7 @@ Gray, Jennifer; Goal Clarity Coach; 485-8321 • 485-8582; St. Matthews Elementa
 Hill, Kathy; Plant Operator; 485-8321 • 485-8582; St. Matthews Elementary; kathy.hill@jefferson.kyschools.us <!-- Kathy Hill -->
 Johnson, Maegan; Bookkeeper; 485-8321 • 485-8582; St. Matthews Elementary; maegan.johnson@jefferson.kyschools.us <!-- Maegan Johnson -->
 Metry, Stephanie; Secretary; 485-8321 • 485-8582; St. Matthews Elementary; stephanie.metry@jefferson.kyschools.us <!-- Stephanie Metry BOLD ITALIC -->
-STONESTREET ELEMENTARY; 10007 Stonestreet Road, 40272; 485-8333 • 485-8450 <!-- Red, White and Blue Red White Blue RWB -->
+STONESTREET ELEMENTARY; 10007 Stonestreet Road, 40272; 485-8333 • 485-8450 <!-- Red White Blue RWB -->
 Boemker, Donald; Principal; 485-8333 • 485-8450; Stonestreet Elementary; donnie.boemker@jefferson.kyschools.us <!-- Donald Boemker Donnie Boemker BOLD -->
 Dotson, Wendy; Counselor; 485-8333 • 485-8450; Stonestreet Elementary; wendy.dotson@jefferson.kyschools.us <!-- Wendy Dotson -->
 Hawkins, Pam; Secretary; 485-8333 • 485-8450; Stonestreet Elementary; pamela.hawkins@jefferson.kyschools.us <!-- Pam Hawkins Pamela Hawkins BOLD ITALIC -->
@@ -1232,14 +1232,14 @@ Krider, Michelle; Bookkeeper; 485-8333 • 485-8450; Stonestreet Elementary; mic
 Osoffsky, Debra; FRC Coordinator; 485-8333 • 485-8450; Stonestreet Elementary; debra.osoffsky@jefferson.kyschools.us <!-- Debra Osoffsky -->
 Wilson, Jeff; Plant Operator; 485-8333 • 485-8450; Stonestreet Elementary; jeffrey.wilson2@jefferson.kyschools.us <!-- Jeff Wilson Jeffrey Wilson -->
 Vacant; Assistant Principal; 485-8333 • 485-8450; Stonestreet Elementary; unknown@jefferson.kyschools.us <!-- Vacant -->
-STOPHER ELEMENTARY; 14417 Aiken Road, 40245; 485-8281 • 485-8971 <!-- Red, White and Blue Red White Blue RWB -->
+STOPHER ELEMENTARY; 14417 Aiken Road, 40245; 485-8281 • 485-8971 <!-- Red White Blue RWB -->
 Hart, Jane; Assistant Principal; 485-8281 • 485-8971; Stopher Elementary; jane.hart@jefferson.kyschools.us <!-- Jane Hart -->
 Ising, Beverly; Counselor; 485-8281 • 485-8971; Stopher Elementary; beverly.ising@jefferson.kyschools.us <!-- Beverly Ising -->
 Lewis, Susan; Bookkeeper; 485-8281 • 485-8971; Stopher Elementary; susan.lewis@jefferson.kyschools.us <!-- Susan Lewis -->
 Owens, Brigitte; Principal; 485-8281 • 485-8971; Stopher Elementary; brigitte.owens@jefferson.kyschools.us <!-- Brigitte Owens BOLD -->
 Puckett, Connie; Secretary; 485-8281 • 485-8971; Stopher Elementary; connie.puckett@jefferson.kyschools.us <!-- Connie Puckett BOLD ITALIC -->
 Warfield, Anthony; Plant Operator; 485-8281 • 485-8971; Stopher Elementary; anthony.warfield@jefferson.kyschools.us <!-- Anthony Warfield -->
-STUART MIDDLE; 4601 Valley Station Road, 40272; 485-8334 • 485-8713 <!-- Red, White and Blue Red White Blue RWB -->
+STUART MIDDLE; 4601 Valley Station Road, 40272; 485-8334 • 485-8713 <!-- Red White Blue RWB -->
 Bledsoe, Renee; Principal; 485-8334 • 485-8713; Stuart Middle; renee.bledsoe@jefferson.kyschools.us <!-- Renee Bledsoe BOLD -->
 Brock, Tiffany; School Clerk; 485-8715 • 485-8713; Stuart Middle; tiffany.brock@jefferson.kyschools.us <!-- Tiffany Brock -->
 Buck, Sheryle; Assistant Principal; 485-8334 • 485-8713; Stuart Middle; sheryle.buck@jefferson.kyschools.us <!-- Sheryle Buck -->
@@ -1256,7 +1256,7 @@ Roberts, Brent; Assistant Principal; 485-8334 • 485-8713; Stuart Middle; brent
 Schell, Patty; School Clerk; 485-8334 • 485-8713; Stuart Middle; patty.schell@jefferson.kyschools.us <!-- Patty Schell -->
 Schmidt, Robert; Cafeteria Manager; 485-8463 • 485-8713; Stuart Middle; robert.schmidt@jefferson.kyschools.us <!-- Robert Schmidt -->
 Thomas, Runette; Coordinator YSC; 485-3885 • 485-8713; Stuart Middle; runette.thomas@jefferson.kyschools.us <!-- Runette Thomas -->
-TAYLOR, ZACHARY, ELEMENTARY; 9620 Westport Road, 40241; 485-8336 • 485-8584 <!-- Red, White and Blue Red White Blue RWB -->
+TAYLOR, ZACHARY, ELEMENTARY; 9620 Westport Road, 40241; 485-8336 • 485-8584 <!-- Red White Blue RWB -->
 Bishop, Lawrence; Plant Operator; 485-8336 • 485-8584; Taylor, Zachary, Elementary; lawrence.bishop@jefferson.kyschools.us <!-- Lawrence Bishop Zachary Taylor Elementary -->
 Hall, Christy; Counselor; 485-8336 • 485-8584; Taylor, Zachary, Elementary; christy.hall@jefferson.kyschools.us <!-- Christy Hall Zachary Taylor Elementary -->
 Hicks, Kellie; Secretary; 485-8336 • 485-8584; Taylor, Zachary, Elementary; kellie.hicks@jefferson.kyschools.us <!-- Kellie Hicks Zachary Taylor Elementary BOLD ITALIC -->
@@ -1266,7 +1266,7 @@ Pincus, Marilyn; Clerk; 485-8336 • 485-8584; Taylor, Zachary, Elementary;maril
 Roberts, Dwayne; Principal; 485-8336 • 485-8584; Taylor, Zachary, Elementary; dwayne.roberts@jefferson.kyschools.us <!-- Dwayne Roberts Zachary Taylor Elementary BOLD -->
 Smith, Jeffrey; Assistant Principal; 485-8336 • 485-8584; Taylor, Zachary, Elementary; jeffrey.smith@jefferson.kyschools.us <!-- Jeffrey Smith Zachary Taylor Elementary -->
 Voll, Martha; Goal Clarity Coach; 485-8336 • 485-8584; Taylor, Zachary, Elementary; martha.voll@jefferson.kyschools.us <!-- Martha Voll Zachary Taylor Elementary -->
-TRUNNELL ELEMENTARY; 7609 St. Andrews Church Road, 40214; 485-8337 • 485-8627 <!-- Red, White and Blue Red White Blue RWB -->
+TRUNNELL ELEMENTARY; 7609 St. Andrews Church Road, 40214; 485-8337 • 485-8627 <!-- Red White Blue RWB -->
 Adams, Anthony; FRC Coordinator; 485-8597 • 485-8959; Trunnell Elementary; anthony.adams@jefferson.kyschools.us <!-- Anthony Adams -->
 Cathey, Paula; Counselor; 485-8337 • 485-8627; Trunnell Elementary; paula.cathey@jefferson.kyschools.us <!-- Paula Cathey -->
 Heckler, Kevin; Assistant Principal; 485-8337 • 485-8627; Trunnell Elementary; kevin.heckler@jefferson.kyschools.us <!-- Kevin Heckler -->
@@ -1274,7 +1274,7 @@ Hundley, Anita; Plant Operator; 485-8337 • 485-8627; Trunnell Elementary; anit
 Nipper, Sandy; Secretary; 485-8337 • 485-8627; Trunnell Elementary; sandy.nipper@jefferson.kyschools.us <!-- Sandy Nipper BOLD ITALIC -->
 Smith, Stephanie; Principal; 485-8337 • 485-8627; Trunnell Elementary; stephanie.smith3@jefferson.kyschools.us <!-- Stephanie Smith BOLD -->
 Stowers, Robin; Bookkeeper; 485-8337 • 485-8627; Trunnell Elementary; robin.stowers@jefferson.kyschools.us <!-- Robin Stowers -->
-TULLY ELEMENTARY; 3300 College Drive, 40299; 485-8338 • 485-8393 <!-- Red, White and Blue Red White Blue RWB -->
+TULLY ELEMENTARY; 3300 College Drive, 40299; 485-8338 • 485-8393 <!-- Red White Blue RWB -->
 Clark, Nicole; FRC Coordinator; 485-8338 • 485-8393; Tully Elementary; nicole.clark@jefferson.kyschools.us <!-- Nicole Clark -->
 Dauenhauer, Linda; Principal; 485-8338 • 485-8393; Tully Elementary; linda.dauenhauer@jefferson.kyschools.us <!-- Linda Dauenhauer BOLD -->
 Groves, Amy; Bookkeeper; 485-8338 • 485-8393; Tully Elementary; amy.groves@jefferson.kyschools.us <!-- Amy Groves -->
@@ -1283,7 +1283,7 @@ Mulkins, Steven; Counselor; 485-8338 • 485-8393; Tully Elementary; steven.mulk
 Neyhart, Phyllis; Secretary; 485-8338 • 485-8393; Tully Elementary; phyllis.neyhart@jefferson.kyschools.us <!-- Phyllis Neyhart BOLD ITALIC -->
 Whitlock, Michele; Counselor; 485-8338 • 485-8393; Tully Elementary; michele.whitlock@jefferson.kyschools.us <!-- Michele Whitlock -->
 Works, Rachel; Assistant Principal; 485-8338 • 485-8393; Tully Elementary; rachel.works@jefferson.kyschools.us <!-- Rachel Works -->
-VALLEY HIGH; 10200 Dixie Highway, 40272; 485-8339 • 485-8666 <!-- Red, White and Blue Red White Blue RWB -->
+VALLEY HIGH; 10200 Dixie Highway, 40272; 485-8339 • 485-8666 <!-- Red White Blue RWB -->
 Ashcraft, Marsha; Bookkeeper; 485-8339 • 485-8884; Valley High; marsha.ashcraft@jefferson.kyschools.us <!-- Marsha Ashcraft -->
 Bard, Stephanie; Assistant Principal; 485-8339 • 485-8666; Valley High; stephanie.bard@jefferson.kyschools.us <!-- Stephanie Bard -->
 Berger, Cindy; Assistant Principal; 485-8339 • 485-8884; Valley High; cindy.berger@jefferson.kyschools.us <!-- Cindy Berger -->
@@ -1305,7 +1305,7 @@ Proffitt, Jill; Assistant Principal; 485-7340 • 485-7048; Valley Preparatory A
 Snipp, Jackie; Secretary II; 485-7340 • 485-7048; Valley Preparatory Academy; jackie.snipp@jefferson.kyschools.us <!-- Jackie Snipp 7th grade 8th grade Valley Academy  BOLD ITALIC -->
 Stephenson, Rob; Principal; 485-7340 • 485-7048; Valley Preparatory Academy; rob.stephenson@jefferson.kyschools.us <!-- Rob Stephenson 7th grade 8th grade Valley Academy BOLD -->
 Williams, Fonda; Counselor; 485-7340 • 485-7048; Valley Preparatory Academy; fonda.williams@jefferson.kyschools.us <!-- Fonda Williams 7th grade 8th grade Valley Academy -->
-WAGGENER HIGH; 330 S. Hubbards Lane, 40207; 485-8340 • 485-8140 <!-- Red, White and Blue Red White Blue RWB -->
+WAGGENER HIGH; 330 S. Hubbards Lane, 40207; 485-8340 • 485-8140 <!-- Red White Blue RWB -->
 Bates, Trent; Assistant Principal; 485-8751 • 485-8564; Waggener High; trent.bates@jefferson.kyschools.us <!-- Trent Bates -->
 Boutiette, Tammy; Coordinator YSC; 485-6221 • 485-8140; Waggener High; tammy.boutiette@jefferson.kyschools.us <!-- Tammy Boutiette -->
 Brockman, Christy; Counselor; 485-8562 • 485-6276; Waggener High; christina.brockman@jefferson.kyschools.us <!-- Christy Brockman Christina Brockman -->
@@ -1317,7 +1317,7 @@ Tackett, Mary Ann; Counselor; 485-8562 • 485-6276; Waggener High; mary.tackett
 Thomas, Andrew; Counselor; 485-8562 • 485-6276; Waggener High; andrew.thomas@jefferson.kyschools.us <!-- Andrew Thomas -->
 Twomey, Connie; Secretary; 485-8340 • 485-7779; Waggener High; connie.twomey@jefferson.kyschools.us <!-- Connie Twomey BOLD ITALIC -->
 Zeitz, Katy; Principal; 485-8340 • 485-7779; Waggener High; katy.zeitz@jefferson.kyschools.us <!-- Katy Zeitz BOLD -->
-WALLER-WILLIAMS ENVIRONMENTAL; 2415 Rockford Lane, 40216; 485-8314 • 485-8560 <!-- Red, White and Blue Red White Blue RWB -->
+WALLER-WILLIAMS ENVIRONMENTAL; 2415 Rockford Lane, 40216; 485-8314 • 485-8560 <!-- Red White Blue RWB -->
 Baker, Debbie; Secretary; 485-8314 • 485-8560; Waller-Williams Environmental; debbie.baker@jefferson.kyschools.us <!-- Debbie Baker BOLD ITALIC -->
 Bolton, Jeane; Bookkeeper; 485-8314 • 485-8560; Waller-Williams Environmental; jeane.bolton@jefferson.kyschools.us <!-- Jeane Bolton -->
 Mingus, Kurt; Plant Operator; 485-8314 • 485-8560; Waller-Williams Environmental; kurt.mingus@jefferson.kyschools.us <!-- Kurt Mingus -->
@@ -1326,14 +1326,14 @@ Minor, Kristie; Family Liaison; 485-8314 • 485-8560; Waller-Williams Environme
 Moss, Heather; Principal; 485-8314 • 485-8560; Waller-Williams Environmental; heather.moss@jefferson.kyschools.us <!-- Heather Moss BOLD -->
 Rahmel, Jackie; Assistant Principal; 485-8314 • 485-8560; Waller-Williams Environmental; jacquelyn.rahmel@jefferson.kyschools.us <!-- Jackie Rahmel Jacquelyn Rahmel -->
 Watson, Jane; Counselor; 485-8314 • 485-8560; Waller-Williams Environmental; jane.watson@jefferson.kyschools.us <!-- Jane Watson -->
-WATSON LANE ELEMENTARY; 7201 Watson Lane, 40272; 485-8341 • 485-8455 <!-- Red, White and Blue Red White Blue RWB -->
+WATSON LANE ELEMENTARY; 7201 Watson Lane, 40272; 485-8341 • 485-8455 <!-- Red White Blue RWB -->
 Durham, Jill; Assistant Principal; 485-8341 • 485-8455; Watson Lane Elementary; jill.durham@jefferson.kyschools.us <!-- Jill Durham -->
 Howard, Damon; Plant Operator; 485-8341 • 485-8455; Watson Lane Elementary; damon.howard@jefferson.kyschools.us <!-- Damon Howard -->
 Luther, Christy; Counselor; 485-8341 • 485-8455; Watson Lane Elementary; christina.luther@jefferson.kyschools.us <!-- Christy Luther Christina Luther -->
 Rodgers, Christa; Bookkeeper; 485-8341 • 485-8455; Watson Lane Elementary; christa.rodgers@jefferson.kyschools.us <!-- Christa Rodgers -->
 Russell, Wendy; Secretary; 485-8341 • 485-8455; Watson Lane Elementary; wendy.russell@jefferson.kyschools.us <!-- Wendy Russell SECRETARY ITALIC -->
 Williams, Josh; Principal; 485-8341 • 485-8455; Watson Lane Elementary; joshua.williams2@jefferson.kyschools.us <!-- Josh Williams Joshua Williams BOLD -->
-WATTERSON ELEMENTARY; 3900 Breckenridge Lane, 40218; 485-8342 • 485-8999 <!-- Red, White and Blue Red White Blue RWB -->
+WATTERSON ELEMENTARY; 3900 Breckenridge Lane, 40218; 485-8342 • 485-8999 <!-- Red White Blue RWB -->
 Broskey, Lisa; Bookkeeper; 485-8342 • 485-8999; Watterson Elementary; lisa.broskey@jefferson.kyschools.us <!-- Lisa Broskey -->
 Evans, Dwight; Day Lead Custodian; 485-8342 • 485-8999; Watterson Elementary; dwight.evans@jefferson.kyschools.us <!-- Dwight Evans -->
 Gregory, Scott; Assistant Principal; 485-8342 • 485-8999; Watterson Elementary; scott.gregory@jefferson.kyschools.us <!-- Scott Gregory -->
@@ -1345,7 +1345,7 @@ Pierson, Teresa; School Clerk/IA; 485-8342 • 485-8999; Watterson Elementary; t
 Seay, Samantha; Plant Operator; 485-8342 • 485-8999; Watterson Elementary; seay,samantha@ <!-- Samantha Seay -->
 Snyder, Natalie Falcone; Counselor; 485-8342 • 485-8999; Watterson Elementary; natalie.falcone@jefferson.kyschools.us <!-- Natalie Falcone Snyder Natalie Snyder Natalie Snider -->
 Wynn, Sandra; Secretary; 485-8342 • 485-8999; Watterson Elementary; sandra.wynn@jefferson.kyschools.us <!-- Sandra Wynn BOLD ITALIC -->
-WELLINGTON ELEMENTARY; 4800 Kaufman Lane, 40216; 485-8343 • 485-8525 <!-- Red, White and Blue Red White Blue RWB -->
+WELLINGTON ELEMENTARY; 4800 Kaufman Lane, 40216; 485-8343 • 485-8525 <!-- Red White Blue RWB -->
 Carney, Brandi; Principal; 485-8343 • 485-8525; Wellington Elementary; brandi.carney@jefferson.kyschools.us <!-- Brandi Carney BOLD -->
 Causey, Thomas; FRC Coordinator; 485-8343 • 485-8525; Wellington Elementary; tom.causey@jefferson.kyschools.us <!-- Thomas Causey -->
 Dutschke, Mary; Secretary; 485-8343 • 485-8525; Wellington Elementary; mary.dutschke@jefferson.kyschools.us <!-- Mary Dutschke BOLD ITALIC -->
@@ -1354,7 +1354,7 @@ Hazelwood, Frank; Lead Custodian; 485-8343 • 485-8525; Wellington Elementary; 
 Logsdon, Rhonda; Bookkeeper; 485-8343 • 485-8525; Wellington Elementary; rhonda.logsdon2@jefferson.kyschools.us <!-- Rhonda Logsdon -->
 Speaks, De'Nay; Assistant Principal; 485-8343 • 485-8525; Wellington Elementary; denay.speaks@jefferson.kyschools.us <!-- De'Nay Speaks DeNay Speaks -->
 Willis, Sherry; School Clerk; 485-8343 • 485-8525; Wellington Elementary; sherry.willis@jefferson.kyschools.us <!-- Sherry Willis -->
-WESTERN HIGH; 2501 Rockford Lane, 40216; 485-8344 • 485-8969 <!-- Red, White and Blue Red White Blue RWB -->
+WESTERN HIGH; 2501 Rockford Lane, 40216; 485-8344 • 485-8969 <!-- Red White Blue RWB -->
 Brennan, Heather; Secretary; 485-8344 • 485-8969; Western High; heather.brennan@jefferson.kyschools.us <!-- Heather Brennan BOLD ITALIC -->
 Dixon, Nureka; Assistant Principal; 485-8344 • 485-8969; Western High; nureka.dixon@jefferson.kyschools.us <!-- Nureka Dixon -->
 Dizdarevic, Gordana; Counselor; 485-8344 • 485-8969; Western High; gordana.dizdarevic@jefferson.kyschools.us <!-- Gordana Dizdarevic -->
@@ -1366,7 +1366,7 @@ Renee Miesler; Bookkeeper; 485-8344 • 485-8969; Western High; renee.miesler@je
 Serey, Heidi; Counselor; 485-8344 • 485-8969; Western High; heidi.serey@jefferson.kyschools.us <!-- Heidi Serey -->
 Sieg, Anthony; Assistant Principal; 485-8344 • 485-8969; Western High; anthony.sieg@jefferson.kyschools.us <!-- Anthony Sieg -->
 Triplett, Lynn; Counselor; 485-8344 • 485-8969; Western High; lynn.triplett@jefferson.kyschools.us <!-- Lynn Triplett -->
-WESTERN MIDDLE; 2201 W. Main Street, 40212; 485-8345 • 485-8047 <!-- Red, White and Blue Red White Blue RWB -->
+WESTERN MIDDLE; 2201 W. Main Street, 40212; 485-8345 • 485-8047 <!-- Red White Blue RWB -->
 Doss, Willie; Plant Operator; 485-8345 • 485-8047; Western Middle; willie.doss@jefferson.kyschools.us <!-- Willie Doss -->
 Foster, Shalonda; Assistant Principal; 485-8345 • 485-8047; Western Middle; shalonda.foster@jefferson.kyschools.us <!-- Shalonda Foster -->
 Fox, Paula; Secretary; 485-8345 • 485-8047; Western Middle; paula.fox2@jefferson.kyschools.us <!-- Palua Fox BOLD ITALIC -->
@@ -1376,7 +1376,7 @@ Knox, Emily; Counselor; 485-8345 • 485-8047; Western Middle; emily.knox@jeffer
 Rice, Kymberly; Principal; 485-8345 • 485-8047; Western Middle; kym.rice@jefferson.kyschools.us <!-- Kymberly Rice Kimberly Rice BOLD -->
 Venning, Aileen; Bookkeeper; 485-8345 • 485-8047; Western Middle; aileen.venning@jefferson.kyschools.us <!-- Aileen Venning -->
 Wilson, Judith; Counselor; 485-8345 • 485-8047; Western Middle; judith.wilson@jefferson.kyschools.us <!-- Judith Wilson -->
-WESTPORT MIDDLE; 8100 Westport Road, 40222; 485-8346 • 485-8590 <!-- Red, White and Blue Red White Blue RWB -->
+WESTPORT MIDDLE; 8100 Westport Road, 40222; 485-8346 • 485-8590 <!-- Red White Blue RWB -->
 Cardell, Kim; Assistant Principal 8th; 485-8346 • 485-8590; Westport Middle; kim.cardell@jefferson.kyschools.us <!-- Kim Cardell -->
 Carter, Joe; Coordinator YSC; 412-7488 • 485-8590; Westport Middle; joseph.carter@jefferson.kyschools.us <!-- Joe Carter -->
 Corrigan, Shannon; Assistant Principal 6th; 485-8346 • 485-8590; Westport Middle; shannon.corrigan@jefferson.kyschools.us <!-- Shannon Corrigan -->
@@ -1388,7 +1388,7 @@ Koch, Todd; Counselor 6th; 485-6025 • 485-8510; Westport Middle; david.koch@je
 Thomas, Kelli; Bookkeeper; 485-8346 • 485-8590; Westport Middle; kelli.thomas@jefferson.kyschools.us <!-- Kelli Thomas -->
 Yeager, Peggi; Secretary; 485-8346 • 485-8590; Westport Middle; peggi.yeager@jefferson.kyschools.us <!-- Peggi Yeager BOLD ITALIC -->
 Zeller, Jodie; Principal; 485-8346 • 485-8590; Westport Middle; jodie.zeller@jefferson.kyschools.us <!-- Jodie Zeller Joseph Zeller BOLD -->
-WESTPORT TAPP (TEENAGE PARENT PROGRAM); 8800 Westport Road, 40242; 485-8347 • 485-8120 <!-- Red, White and Blue Red White Blue RWB -->
+WESTPORT TAPP (TEENAGE PARENT PROGRAM); 8800 Westport Road, 40242; 485-8347 • 485-8120 <!-- Red White Blue RWB -->
 Alexander, Delena; Principal; 485-8347 • 485-8120; Westport TAPP (Teenage Parent Program); delena.alexander@jefferson.kyschools.us <!-- Delena Alexander DeLena Pritchett Alexander BOLD -->
 Berry, Beckie; Secretary; 485-8347 • 485-8120; Westport TAPP (Teenage Parent Program); beckie.berry@jefferson.kyschools.us <!-- Beckie Berry BOLD ITALIC -->
 Carter, Joe; Coordinator YSC; 485-8347 • 485-8120; Westport TAPP (Teenage Parent Program); joseph.carter@jefferson.kyschools.us <!-- Joe Carter -->
@@ -1397,7 +1397,7 @@ Grimes, Cathy; Attendance Clerk; 485-8347 • 485-8120; Westport TAPP (Teenage P
 Martin, Denise; Lead Custodian; 485-8347 • 485-8120; Westport TAPP (Teenage Parent Program); denise.martin@jefferson.kyschools.us <!-- Denise Martin -->
 Reed, Tracy; Counselor; 485-8120/485-8347 • 485-8120; Westport TAPP (Teenage Parent Program); tracy.reed@jefferson.kyschools.us <!-- Tracy Reed -->
 Wilkerson, Debra; Bookkeeper; 485-8347 • 485-8120; Westport TAPP (Teenage Parent Program); debra.wilkerson@jefferson.kyschools.us <!-- Debra Wilkerson -->
-WHEATLEY ELEMENTARY; 1107 S. 17th Street, 40210; 485-8348 • 485-8998 <!-- Red, White and Blue Red White Blue RWB -->
+WHEATLEY ELEMENTARY; 1107 S. 17th Street, 40210; 485-8348 • 485-8998 <!-- Red White Blue RWB -->
 Bass, Tamara; Counselor; 485-8348 • 485-8998; Wheatley Elementary; tamara.bass@jefferson.kyschools.us <!-- Tamara Bass -->
 Beloskur, Linda; Bookkeeper; 485-8348 • 485-8998; Wheatley Elementary; linda.beloskur@jefferson.kyschools.us <!-- Linda Beloskur -->
 Bunton, B.J.; Principal; 485-8348 • 485-8998; Wheatley Elementary; bruce.bunton@jefferson.kyschools.us <!-- B.J. Bunton Bruce Buton BOLD -->
@@ -1405,7 +1405,7 @@ Dean, Sharon; Plant Operator; 485-8348 • 485-8998; Wheatley Elementary; sharon
 Haigler, Annie; FRC Coordinator; 485-8348 • 485-8998; Wheatley Elementary; annie.haigler@jefferson.kyschools.us <!-- Annie Haigler -->
 Kolodey, Carla; Assistant Principal; 485-8348 • 485-8998; Wheatley Elementary; carla.kolodey@jefferson.kyschools.us <!-- Carla Kolodey -->
 Sharber, Jean; Secretary; 485-8348 • 485-8998; Wheatley Elementary; jean.sharber@jefferson.kyschools.us <!-- Jean Sharber BOLD ITALIC -->
-WHEELER ELEMENTARY; 5700 Cynthia Drive, 40291; 485-8349 • 485-8607 <!-- Red, White and Blue Red White Blue RWB -->
+WHEELER ELEMENTARY; 5700 Cynthia Drive, 40291; 485-8349 • 485-8607 <!-- Red White Blue RWB -->
 Bridges, Jasmine; Coordinator YSC; 485-7005 • 485-8607; Wheeler Elementary; jasmine.bridges@jefferson.kyschools.us <!-- Jasmine Bridges -->
 Creed, Colleen; Resource Teacher; 485-8349 • 485-8607; Wheeler Elementary; colleen.creed@jefferson.kyschools.us <!-- Colleen Creed -->
 Espinosa, Penny; Principal; 485-8349 • 485-8607; Wheeler Elementary; penny.espinosa@jefferson.kyschools.us <!-- Penny Espinosa BOLD -->
@@ -1413,7 +1413,7 @@ Foreman, Jody; Counselor; 485-8349 • 485-8607; Wheeler Elementary; jody.forema
 Johnston, Janet; Bookkeeper; 485-8349 • 485-8607; Wheeler Elementary; janet.johnston@jefferson.kyschools.us <!-- Janet Johnston -->
 Meredith, Joshua; Assistant Principal; 485-8349 • 485-8607; Wheeler Elementary; joshua.meredith@jefferson.kyschools.us <!-- Joshua Meredith -->
 Nevitt, Su; Secretary; 485-8349 • 485-8607; Wheeler Elementary; cretia.nevitt@jefferson.kyschools.us <!-- Su Nevitt Cretia Nevitt Sue Nevitt BOLD ITALIC -->
-WILDER ELEMENTARY; 1913 Herr Lane, 40222; 485-8350 • 485-8591 <!-- Red, White and Blue Red White Blue RWB -->
+WILDER ELEMENTARY; 1913 Herr Lane, 40222; 485-8350 • 485-8591 <!-- Red White Blue RWB -->
 Finnegan, Bill; Counselor; 485-8350 • 485-8591; Wilder Elementary; bill.finnegan@jefferson.kyschools.us <!-- Bill Finnegan -->
 Haydon, Kathy; Secretary; 485-8350 • 485-8591; Wilder Elementary; kathy.haydon@jefferson.kyschools.us <!-- Kathy Haydon BOLD ITALIC -->
 Heil, Stephen; Plant Operator; 485-8350 • 485-8591; Wilder Elementary; stephen.heil@jefferson.kyschools.us <!-- Stephen Heil -->
@@ -1422,7 +1422,7 @@ Logsdon, Karri; Bookkeeper; 485-8350 • 485-8591; Wilder Elementary; karri.logs
 Mahon, Kim; FRC Coordinator; 426-9836 • 485-8591; Wilder Elementary; kim.mahon@jefferson.kyschools.us <!-- Kim Mahon -->
 Malone, Wallis; Assistant Principal; 485-8350 • 485-8591; Wilder Elementary; wallis.malone@jefferson.kyschools.us <!-- Wallis Malone -->
 Perkins, Bill; Principal; 485-8350 • 485-8591; Wilder Elementary; bill.perkins@jefferson.kyschools.us <!-- Bill Perkins BOLD -->
-WILKERSON TRADITIONAL ELEMENTARY; 5601 Johnsontown Road, 40272; 485-8351 • 485-8454 <!-- Red, White and Blue Red White Blue RWB -->
+WILKERSON TRADITIONAL ELEMENTARY; 5601 Johnsontown Road, 40272; 485-8351 • 485-8454 <!-- Red White Blue RWB -->
 Dawson, Kay; Lead Custodian; 485-8351 • 485-8454; Wilkerson Traditional Elementary; alena.dawson@jefferson.kyschools.us <!-- Kay Dawson Alena Dawson -->
 Gettings, Tina; Counselor; 485-8351 • 485-8965; Wilkerson Traditional Elementary; tina.gettings@jefferson.kyschools.us <!-- Tina Gettings -->
 Gratz, Rina; Principal; 485-8351 • 485-8454; Wilkerson Traditional Elementary; rina.gratz@jefferson.kyschools.us <!-- Rina Gratz BOLD -->
@@ -1431,14 +1431,14 @@ McCartin, James; Plant Operator; 485-8351 • 485-8454; Wilkerson Traditional El
 Skinner, Michelle; FRC Coordinator; 485-8103 • 485-8454; Wilkerson Traditional Elementary; michelle.skinner@jefferson.kyschools.us <!-- Michelle Skinner -->
 Topping, Karen; Assistant Principal; 485-8351 • 485-8454; Wilkerson Traditional Elementary; karen.topping@jefferson.kyschools.us <!-- Karen Topping -->
 Whitehouse, Belinda; Bookkeeper; 485-8351 • 485-8454; Wilkerson Traditional Elementary; belinda.whitehouse@jefferson.kyschools.us <!-- Belinda Whitehouse -->
-WILT ELEMENTARY; 6700 Price Lane, 40229; 485-8353 • 485-8493 <!-- Red, White and Blue Red White Blue RWB -->
+WILT ELEMENTARY; 6700 Price Lane, 40229; 485-8353 • 485-8493 <!-- Red White Blue RWB -->
 Beard, Patti; Counselor; 485-8353 • 485-8493; Wilt Elementary; patti.beard@jefferson.kyschools.us <!-- Patti Beard -->
 Clayton, Daniel; Plant Operator; 485-8353 • 485-8493; Wilt Elementary; daniel.clayton@jefferson.kyschools.us <!-- Daniel Clayton -->
 Dehart, Melissa; Secretary; 485-8353 • 485-8493; Wilt Elementary; melissa.dehart@jefferson.kyschools.us <!-- Melissa Dehart BOLD ITALIC -->
 Hall, Julie; Bookkeeper; 485-8353 • 485-8493; Wilt Elementary; julie.hall@jefferson.kyschools.us <!-- Julie Hall -->
 Kent, Kimberly; Principal; 485-8353 • 485-8493; Wilt Elementary; kimberly.kent@jefferson.kyschools.us <!-- Kimberly Kent BOLD -->
 Pinnick, Ben; Assistant Principal; 485-8353 • 485-8493; Wilt Elementary; ben.pinnick@jefferson.kyschools.us <!-- Ben Pinnick -->
-YOUNG ELEMENTARY; 3526 W. Muhammad Ali Boulevard, 40212; 485-8354 • 485-8880 <!-- Red, White and Blue Red White Blue RWB -->
+YOUNG ELEMENTARY; 3526 W. Muhammad Ali Boulevard, 40212; 485-8354 • 485-8880 <!-- Red White Blue RWB -->
 Birch, Kim; FRC Coordinator; 485-8108 • 485-8880; Young Elementary; kim.birch@jefferson.kyschools.us <!-- Kim Birch -->
 Brown, Cissy; Counselor; 485-8354 • 485-8880; Young Elementary; cissy.brown@jefferson.kyschools.us <!-- Cissy Brown -->
 Coyle, Erin; Assistant Principal; 485-8354 • 485-8880; Young Elementary; erin.coyle@jefferson.kyschools.us <!-- Erin Coyle -->
@@ -1446,7 +1446,7 @@ Koff, Rose; Bookkeeper; 485-8354 • 485-8880; Young Elementary; rose.koff@jeffe
 Wilson, Jessica; Bookkeeper; 485-8354 • 485-8880; Young Elementary; jessica.wilson2@jefferson.kyschools.us <!-- Jessica Wilson BOLD ITALIC -->
 Minyard, Mary; Principal; 485-8354 • 485-8880; Young Elementary; mary.minyard@jefferson.kyschools.us <!-- Mary Minyard BOLD -->
 Plappert, Thomas; Plant Operator; 485-8354 • 485-8880; Young Elementary; thomas.plappert@jefferson.kyschools.us <!-- Thomas Plappert -->
-YOUTH PERFORMING ARTS SCHOOL (YPAS); 1517 S. Second Street, 40208; 485-8355 • 485-8808 <!-- Red, White and Blue Red White Blue RWB -->
+YOUTH PERFORMING ARTS SCHOOL (YPAS); 1517 S. Second Street, 40208; 485-8355 • 485-8808 <!-- Red White Blue RWB -->
 Crady, Bryan; Assistant Principal; 485-8355 • 485-8808; Youth Performing Arts School (YPAS); bryan.crady@jefferson.kyschools.us <!-- Bryan Crady YPAS -->
 Dennison, Amie; Bookkeeper; 485-8355 • 485-8808; Youth Performing Arts School (YPAS); amie.dennison@jefferson.kyschools.us <!-- Amie Dennison YPAS -->
 Kronauer, Kathleen; Assistant to the Principal; 485-8355 • 485-8808; Youth Performing Arts School (YPAS); kathleen.kronauer@jefferson.kyschools.us <!-- Kathleen Kronauer YPAS -->
