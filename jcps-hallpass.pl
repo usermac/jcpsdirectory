@@ -30,9 +30,10 @@ print $edited "$date  $credit"; # 目录 150708—Write the date to a file for l
 # _+_+_+_+_+_+_+_+_+_+_ Processing Schools _+_+_+_+_+_+_+_+_+_+_
 # 红白蓝 150728 Begin processing just schools for JSON format. This is for the iPhone app.—Brian
 # 红白蓝 150731 "Louisville, KY" is assumed. The (502) area code is also assumed. They are sorted by school name.—Brian
-open(my $in2, "<", "directory-input.txt") or die "Can't open directory-input.txt:$!"; # 红白蓝 150708—Rename your exported Etherpad text-only export to this name. This is the same file as $in above.—Brian
-open(my $json_people, ">", "directory-people.json") or die "Can't open directory-people.json:$!"; # 目录 150708—This is the results file to be used on the Web for JSON read-only.—Brian
-open(my $json_schools, ">", "directory-schools.json") or die "Can't open directory-schools.json:$!"; # 红白蓝 150726—This is the results file to be used on the Web for JSON read-only.—Brian
+system("sort directory-input.txt > directory-input-sorted.txt"); # 红白蓝 150804—Use shell sort command to sort the file before processing.—Brian
+open(my $in2, "<", "directory-input-sorted.txt") or die "Can't open directory-input-sorted.txt:$!"; # 红白蓝 150708—Rename your exported Etherpad text-only export to this name. This is the same file as $in above.—Brian
+open(my $json_people, ">", "directory-people.js") or die "Can't open directory-people.js:$!"; # 目录 150708—This is the results file to be used on the Web for JSON read-only.—Brian
+open(my $json_schools, ">", "directory-schools.js") or die "Can't open directory-schools.js:$!"; # 红白蓝 150726—This is the results file to be used on the Web for JSON read-only.—Brian
       print $json_schools "{\n    \"school\":\n    [\n    {\n"; # 红白蓝 150730—This is the opening lines to the JSON.—Brian
 my $address = "\",\n        \"address\": \""; # 红白蓝 150803—JSON between code for address text.—Brian
 my $phone = "\",\n        \"phone\": \"(502)"; # 红白蓝 150803—JSON between code for phone text.—Brian
@@ -40,8 +41,9 @@ my $fax = "\",,\n        \"fax\": \"(502)"; # 红白蓝 150803—JSON between co
 my $meta = "\",,\n        \"meta\": \""; # 红白蓝 150803—JSON between code for meta text.—Brian
 while(<$in2>){ # 红白蓝 assigns each line in turn to $_
   s/\n//; # 红白蓝 150709—Remove the line ending as I'll add them back after the html code. This is just for beauty and has no function.—Brian
-  my $mark = /RWB/; # 红白蓝 150708—If within the html comments of the Etherpad text-only export, it finds RWB for Red, White, and Blue for schools or HEADING for department heads mark it.—Brian
-    if ($mark) { # 红白蓝 150708—This will be 1 or blank. See above.—Brian
+  my $rwb = /RWB/; # 红白蓝 150708—If within the html comments of the Etherpad text-only export, it finds RWB for Red, White, and Blue for schools.—Brian
+  my $head = /HEADING/; # 红白蓝 150804—If within the html comments of the Etherpad text-only export, it finds HEADING for department heads mark it.—Brian
+    if ($rwb) { # 红白蓝 150708—This will be 1 or blank. See above.—Brian
       s/, 4/, Louisville KY 4/; # 红白蓝 150803—Fills in the assumed city and state of "Louisville, KY" for each ", 4" which is the end of the address and beginning of the ZIP code.—Brian
       s/;/$address/; # 红白蓝 150803—The in-between code from the var above goes here.—Brian
       s/; /$phone/; # 红白蓝 150803—The in-between code from the var above goes here.—Brian
@@ -53,10 +55,11 @@ while(<$in2>){ # 红白蓝 assigns each line in turn to $_
       s/ ",/"/; # 红白蓝 150803—[Again] Fix more silly formatting error where I don't account for a space properly above.—Brian
       print $json_schools "        \"entity\": \"$_\n    }, {\n"; # 红白蓝 150708—It is a school name or department heading, so print with html trappings of h2.—Brian
 # _+_+_+_+_+_+_+_+_+_+_ Processing People _+_+_+_+_+_+_+_+_+_+_
-# NEEDS TO BE SORTED BEFORE PROCESSING.—Brian
-     } else { # 目录
-      print $json_people "<li><h3 class=\"name\">$_</h3>\n"; # 目录 150803—YET TO BE PROGRAMMED It is not a school name or department heading; it's a person, so print with JSON trappings.—Brian
-    }  
- }
-        print $json_schools "        \"comment\": \"end of file. $credit\"\n    }\n    ]\n}"; # 红白蓝 150730—This is the closing lines to the JSON.—Brian
+     } elsif ($head) { # 目录 150804—It is not a head so it is a person so write the line.—Brian
+      # 150804—Do nothing as I can't get the not-if statment correct so I do it this way. Shesh.—Brian
+     } else  { # 目录 150804—Now, finally, write the person to the file. It needs to be made JSON but it finds the right people now. ^_^ —Brian
+       print $json_people "<li><h3 class=\"name\">$_</h3>\n"; # 目录 150803—YET TO BE PROGRAMMED It is not a school name or department heading; it's a person, so print with JSON trappings.—Brian
+       } 
+     }
+print $json_schools "        \"comment\": \"end of file. $credit\"\n    }\n    ]\n}"; # 红白蓝 150730—This is the closing lines to the JSON.—Brian
 
