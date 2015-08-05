@@ -48,7 +48,7 @@ my $position = "\",\n        \"position\": \""; # 目录 150805—JSON between c
 my $loc_name = "\",\n        \"loc_name\": \""; # 目录 150805—JSON between code for location name text.—Brian
 my $phone = "\",\n        \"phone\": \"(502)"; # 红白蓝 150803—JSON between code for phone text.—Brian
 my $fax = "\",,\n        \"fax\": \"(502)"; # 红白蓝 150803—JSON between code for fax text.—Brian
-my $school_department = "\",\n        \"school/department\": \""; # 目录 150805—JSON between code for school or department name text.—Brian
+my $school_department = "\",\n        \"school_department\": \""; # 目录 150805—JSON between code for school or department name text.—Brian
 my $email = "\",\n        \"email\": \""; # 目录 150805—JSON between code for school or department name text.—Brian
 my $meta = "\",,\n        \"meta\": \""; # 红白蓝 150803—JSON between code for meta text.—Brian
 while(<$in2>){ # 红白蓝 assigns each line in turn to $_
