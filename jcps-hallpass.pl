@@ -8,6 +8,11 @@ use warnings;
 # Do a find for "红白蓝" to find Schools or what we call the "Red, White, and Blue" list. This is per request of Jason C. via Mike for the iOS app of school listings. Should be JSON and put in mpu/data/live web directory.—Brian
 # All code is in the public domain.—Brian
 # _+_+_+_+_+_+_+_+_+_+_ Processing Online Directory _+_+_+_+_+_+_+_+_+_+_
+# 150805—Sample input lines from Etherpad follows:
+# ACADEMY @ SHAWNEE; 4001 Herman Street, 40212; 485-8326 • 485-8738 <!-- Red White Blue RWB -->
+# Smith, Jane; Secretary; 485-8326 • 485-8738; Academy @ Shawnee; jane.smith@jefferson.kyschools.us <!-- Jane Smith BOLD ITALIC -->
+# 150805—Sample output lines from Etherpad follows:
+# *** coming attraction ***
 my $credit = "<!-- See GitHub usermac/jcpsdirectory for more about this project.—Brian. -->"; # 目录 红白蓝 150709—Please do not remove.—Brian
 use DateTime qw(); # 目录 150723—Grab the Date and Time as words only using the qw function.—Brian
 my $date = DateTime->now->strftime('%m/%d/%Y'); #150723—Set to the date variable $date as MM/DD/YYYY.—Brian
@@ -29,6 +34,8 @@ while(<$in>){ # 目录 assigns each line in turn to $_
 print $edited "$date  $credit"; # 目录 150708—Write the date to a file for later linking with the update information.—Brian
 # _+_+_+_+_+_+_+_+_+_+_ Processing Schools _+_+_+_+_+_+_+_+_+_+_
 # 红白蓝 150728 Begin processing just schools for JSON format. This is for the iPhone app.—Brian
+# 150805—Sample input line from Etherpad follows:
+# ACADEMY @ SHAWNEE; 4001 Herman Street, 40212; 485-8326 • 485-8738 <!-- Red White Blue RWB -->
 # 红白蓝 150731 "Louisville, KY" is assumed. The (502) area code is also assumed. They are sorted by school name.—Brian
 system("sort directory-input.txt > directory-input-sorted.txt"); # 红白蓝 150804—Use shell sort command to sort the file before processing.—Brian
 open(my $in2, "<", "directory-input-sorted.txt") or die "Can't open directory-input-sorted.txt:$!"; # 红白蓝 150708—Rename your exported Etherpad text-only export to this name. This is the same file as $in above.—Brian
@@ -54,11 +61,19 @@ while(<$in2>){ # 红白蓝 assigns each line in turn to $_
       s/ ",/"/; # 红白蓝 150803—Fix more silly formatting error where I don't account for a space properly above.—Brian
       s/ ",/"/; # 红白蓝 150803—[Again] Fix more silly formatting error where I don't account for a space properly above.—Brian
       print $json_schools "        \"entity\": \"$_\n    }, {\n"; # 红白蓝 150708—It is a school name or department heading, so print with html trappings of h2.—Brian
+      # 150805—Sample output from this PERL script follows:
+      # { "school": [ { "entity": "ACADEMY @ SHAWNEE", "address": "4001 Herman Street, Louisville KY 40212", "phone": " 485-8326 • 485-8738 ", "search": "Red White Blue RWB" }, ...
 # _+_+_+_+_+_+_+_+_+_+_ Processing People _+_+_+_+_+_+_+_+_+_+_
+# 150805—Sample input line from Etherpad follows:
+# Smith, Jane; Secretary; 485-8326 • 485-8738; Academy @ Shawnee; jane.smith@jefferson.kyschools.us <!-- Jane Smith BOLD ITALIC -->
      } elsif ($head) { # 目录 150804—It is not a head so it is a person so write the line.—Brian
-      # 150804—Do nothing as I can't get the not-if statment correct so I do it this way. Shesh.—Brian
+      # 150804—Do nothing as I can't get the not-if statment correct so I do it this way. Sheesh.—Brian
      } else  { # 目录 150804—Now, finally, write the person to the file. It needs to be made JSON but it finds the right people now. ^_^ —Brian
+       my $count = () = $_ =~ /\;/g; # 目录 150805—Counts number of semicolons. If 5 it's a department otherwise it's 4 and is a school. If it's not either 4 or 5, it's a line item that needs correcting at the Etherpad. This accounts for the building number just before phone in departments only.—Brian
+       print $json_people "$count";
        print $json_people "<li><h3 class=\"name\">$_</h3>\n"; # 目录 150803—YET TO BE PROGRAMMED It is not a school name or department heading; it's a person, so print with JSON trappings.—Brian
+      # 150805—Sample output from this PERL script follows:
+      # *** coming attraction ***
        } 
      }
 print $json_schools "        \"comment\": \"end of file. $credit\"\n    }\n    ]\n}"; # 红白蓝 150730—This is the closing lines to the JSON.—Brian
