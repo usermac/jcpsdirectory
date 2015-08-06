@@ -79,9 +79,12 @@ while(<$in2>){ # 红白蓝 assigns each line in turn to $_
 #       print $json_people "<li><h3 class=\"name\">$_</h3>\n"; # 目录 150803—YET TO BE PROGRAMMED It is not a school name or department heading; it's a person, so print with JSON trappings.—Brian
       # 150805—Sample output from this PERL script follows:
       # *** coming attraction ***
+      s/\"/\\"/; # 目录 150806—Added to fix the nicknames that are already in quotes such as "Butch".—Brian
+      s/\";/\\";/; # 目录 150806—[REPEAT to do the ending quote] Added to fix the nicknames that are already in quotes such as "Butch".—Brian
+      s/ ; /; /; # 目录 150806—Added to fix the spaces that are occurring before semicolons.—Brian
       s/, 4/, Louisville KY 4/; # 红白蓝 150803—Fills in the assumed city and state of "Louisville, KY" for each ", 4" which is the end of the address and beginning of the ZIP code.—Brian
       s/;/$position/; # 红白蓝 150803—The in-between code from the var above goes here.—Brian
-      if ($count == 5) {
+      if ($count == 5) { # 目录 150806—This is to account for the Location Name for departments which have it. Schools have 4 semicolons, departments have 5.—Brian
         s/; /$loc_name/; # 红白蓝 150803—The in-between code from the var above goes here.—Brian
       }
       s/; /$phone/; # 红白蓝 150803—The in-between code from the var above goes here.—Brian
@@ -95,7 +98,9 @@ while(<$in2>){ # 红白蓝 assigns each line in turn to $_
       s/ ",/"/; # 红白蓝 150803—[Again] Fix more silly formatting error where I don't account for a space properly above.—Brian
       s/,,/,/; # 目录 150805—[Again and again] Fix more silly formatting error where I don't account for a space properly above.—Brian
       s/,,/,/; # 目录 150805—[Again and again] Fix more silly formatting error where I don't account for a space properly above.—Brian
-      print $json_people "        \"entity\": \"$_\n    }, {\n"; # 红白蓝 150708—It is a school name or department heading, so print with html trappings of h2.—Brian      
+       if ($count > 1) {
+         print $json_people "        \"entity\": \"$_\n    }, {\n"; # 红白蓝 150708—It is a school name or department heading, so print with html trappings of h2.—Brian      
+        }
        } 
      }
-for my $print ($json_schools, $json_people) { print $print "        \"comment\": \"end of file. $credit\"\n    }\n    ]\n}"}; # 红白蓝 目录 150805—This is the closing lines to the JSON.—Brian;
+for my $print ($json_schools, $json_people) { print $print "        \"comment\": \"$date end of file. $credit\"\n    }\n    ]\n}"}; # 红白蓝 目录 150805—This is the closing lines to the JSON.—Brian;
