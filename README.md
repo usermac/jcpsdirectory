@@ -5,6 +5,8 @@
 
 In the animated gif above, you should see the colored text in an Etherpad document. That is where anyone within the Intranet has made an update or change. As the animation changes, you'll see the green buttons that tell you you're on the web page. Notice how fast the search is. This project documents how I move from Etherpad to live Web. 
 
+![White board workflow](Directory-workflow-v2.png)
+
 Credit should go to Jonny Strömberg for his listjs that makes the search so very fast on the web page.
 
 History
