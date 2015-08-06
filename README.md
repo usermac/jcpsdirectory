@@ -2,6 +2,8 @@
 7/6/2015—Louisville, Kentucky. Process to move data from Etherpad to the website. - Brian
 ![Etherpad to Web](etherpad-to-web.gif)
 
+Immutable Data is in the Etherpad that any JCPS computer can edit.
+
 In the animated gif above, you should see the colored text in an Etherpad document. That is where anyone within the Intranet has made an update or change. Then you'll see the live page with how fast the search is. This project documents how I move from Etherpad to live Web. 
 
 Credit should go to Jonny Strömberg for his listjs that makes the search so very fast on the web page. His work made my work possible.
