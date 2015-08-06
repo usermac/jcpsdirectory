@@ -5,19 +5,11 @@
 
 In the animated gif above, you should see the colored text in an Etherpad document. That is where anyone within the Intranet has made an update or change. As the animation changes, you'll see the green buttons that tell you you're on the web page. Notice how fast the search is. This project documents how I move from Etherpad to live Web. 
 
-![White board workflow](Directory-workflow-v2.png)
-
 Credit should go to Jonny Strömberg for his listjs that makes the search so very fast on the web page.
 
-History
-
-This project began in-house 8/8/2014 by Brian Ginn, the new Systems Coordinator of Materials Production. Why? We needed a way to handle the data behind the printed directory mainly the index generation automatically. Until now, the index was done by hand. 
-
-It was data provided by MIS that was imported into a FileMaker Pro 13 database and processed and even maintained there until 2015 when the core data was moved into an Etherpad text file. Yes, a plain text file is what drives our end-users to modify and update the directory instead of a formal database of any kind. 
-
-That Etherpad list of about 2,300 administrative contacts has the core data such as name, phone, fax, location and department or school. Each line is compared to another database in FileMaker Pro on our server named DepartmentHeadings. The link creates the formal line listing of the physical location. 
-
 Workflow
+
+![White board workflow](Directory-workflow-v2.png)
 
 From Ehterpad I export it as text-only. 
 Currently I process the file in BBEdit using five RegEx's to put the data in order. Grep Patterns.xml is the file that belongs in the OSX > Library > Application Support > BBEdit > Setup. 
@@ -40,5 +32,13 @@ Transition to PERL
 7/7/2015 begins the transition. I am familiarizing myself now with PERL and it is fantastic at regular expression. Just what I need. It also comes native on OSX and easily added to Windows. The file jcps-hallpass.pl is the test file. The text files directory-output.txt and directory-input.txt and directory-log.txt are all in place. More later on these but for now they are testing files. 
 
 As of now I've learned how to create a script, set it up for error checking. I've learned how to stag a file for processing. Now I'll learn how to save the file rather, the line-by-line to the directory-output.txt file which will be the file used for data to be read from the Web page.
+
+History
+
+This project began in-house 8/8/2014 by Brian Ginn, the new Systems Coordinator of Materials Production. Why? We needed a way to handle the data behind the printed directory mainly the index generation automatically. Until now, the index was done by hand. 
+
+It was data provided by MIS that was imported into a FileMaker Pro 13 database and processed and even maintained there until 2015 when the core data was moved into an Etherpad text file. Yes, a plain text file is what drives our end-users to modify and update the directory instead of a formal database of any kind. 
+
+That Etherpad list of about 2,300 administrative contacts has the core data such as name, phone, fax, location and department or school. Each line is compared to another database in FileMaker Pro on our server named DepartmentHeadings. The link creates the formal line listing of the physical location. 
 
 — Brian
