@@ -1,6 +1,5 @@
 # jcpsdirectory
-7/6/2015—Louisville, Kentucky. Process to move data from Etherpad to the website. - Brian
-Immutable Data is in the Etherpad that any JCPS computer can edit. Etherpad is a subdomain only reachable by a JCPS connected computer and a single source for the data. 
+7/6/2015—Louisville, Kentucky. Process to move data from Etherpad to the website. Immutable Data is in the Etherpad that any JCPS computer can edit. Etherpad is a subdomain only reachable by a JCPS connected computer and a single source for the data. 
 
 ![Etherpad to Web](etherpad-to-web.gif)
 
