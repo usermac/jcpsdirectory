@@ -96,6 +96,11 @@
 
   <meta charset="UTF-8">
 
+<!-- 8/10/2015 - Added iPhone and retina iPhone home screen icon code start -->
+<link rel="apple-touch-icon" href="jcpslogo-01-60.png">
+<link rel="apple-touch-icon" sizes="120x120" href="jcpslogo-01-120.png">
+<!-- 8/10/2015 - Added iPhone and retina iPhone home screen icon code end -->
+
 <!-- 8/5/2014 - Prevent indexing start. Privacy. - Brian -->
   <meta name="google" value="notranslate">
   <meta http-equiv="cache-control" content="max-age=0" />
@@ -109,7 +114,7 @@
 <meta http-equiv="refresh" content="604800">
 <!-- 8/8/2014 - Refresh end. -->
   
-  <title>Administrative Directory</title>
+  <title>Admin Contact</title>
 
 <!-- 8/4/2014 Stylesheet start. As found on listjs.com with modification of font size and added h2. - Brian -->
 <style>
@@ -208,58 +213,111 @@ input:focus {
   top:-10px;
   right:-5px;
 }
-/* Smartphones (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 320px)
-and (max-device-width : 480px) {
-/* Styles */
-}
-/* Smartphones (landscape) ----------- */
-@media only screen
-and (min-width : 321px) {
-/* Styles */
-}
-/* Smartphones (portrait) ----------- */
-@media only screen
-and (max-width : 320px) {
-/* Styles */
-}
-/* iPads (portrait and landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px) {
-/* Styles */
-}
-/* iPads (landscape) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : landscape) {
-/* Styles */
-}
-/* iPads (portrait) ----------- */
-@media only screen
-and (min-device-width : 768px)
-and (max-device-width : 1024px)
-and (orientation : portrait) {
-/* Styles */
-}
-/* Desktops and laptops ----------- */
-@media only screen
-and (min-width : 1224px) {
-/* Styles */
-}
-/* Large screens ----------- */
-@media only screen
-and (min-width : 1824px) {
-/* Styles */
-}
-/* iPhone 4 ----------- */
+
+/* ----------- Handhelds CSS start ----------- */
 @media
 only screen and (-webkit-min-device-pixel-ratio : 1.5),
+only screen and (-webkit-min-device-pixel-ratio : 2),
+only screen and (-webkit-min-device-pixel-ratio : 3),
 only screen and (min-device-pixel-ratio : 1.5) {
-/* Styles */
+    .list {
+      font-family:sans-serif;
+      margin:0;
+      padding:20px 0 0;
+    }
+    .list > li {
+      display:block;
+      background-color: #eee;
+      padding:10px;
+      box-shadow: inset 0 1px 0 #fff;
+    }
+    .avatar {
+      max-width: 150px;
+    }
+    img {
+      max-width: 100%;
+    }
+    h2, h3 {
+      font-size: 48px;
+      margin:0 0 0.3rem;
+      font-weight: normal;
+    }
+    h2 {
+      color:#8DC63F; 
+    }
+    p {
+      margin:0;
+      font-size: 42px;
+    }
+    input, search {
+      border:solid 1px;
+      border-radius: 2px;
+      padding:3px 3px;
+      margin-bottom: 0px
+      height:56px;
+      width: 400px;
+      font-size: 48px;
+    }
+    input:focus {
+      outline:solid 2px;
+      border-color:#aaa;
+    }
+    .sort, button {
+      padding:9px 24px;
+      border-radius: 6px;
+      border:none;
+      display:inline-block;
+      color:#fff;
+      text-decoration: none;
+      background-color: #8DC63F;
+      height:68px;
+      font-size: 42px;
+    }
+    .button {
+      padding:9px 24px;
+    }
+    .sort:hover, button:hover {
+      text-decoration: none;
+      background-color:#1b8aba;
+    }
+    .sort:focus {
+      outline:none;
+    }
+    .sort:after {
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-bottom: 5px solid transparent;
+      content:"";
+      position: relative;
+      top:-10px;
+      right:-5px;
+    }
+    .sort.asc:after {
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-top: 5px solid #fff;
+      content:"";
+      position: relative;
+      top:13px;
+      right:-5px;
+    }
+    .sort.desc:after {
+      width: 0;
+      height: 0;
+      border-left: 5px solid transparent;
+      border-right: 5px solid transparent;
+      border-bottom: 5px solid #fff;
+      content:"";
+      position: relative;
+      top:-10px;
+      right:-5px;
+    }
 }
+/* ----------- Handhelds CSS start ----------- */
 </style>
 <!-- 8/4/2014 Stylesheet end. - Brian -->
 
@@ -293,7 +351,7 @@ function help() {
 
 <!-- 8/6/2014 - Core data start. Comes directly from FileMaker Pro server data export. - Brian --> 
   <ul class="list">
-<li><h2 class="head">JEFFERSON COUNTY PUBLIC SCHOOLS as of 7/25/2015 4:13pm<!--  --></h2>
+<li><h2 class="head">+_+_+_+_JEFFERSON COUNTY PUBLIC SCHOOLS as of 7/25/2015 4:13pm<!--  --></h2>
 <!-- See GitHub usermac/jcpsdirectory for more about this project. - Brian. -->
 <li><h2 class="name">ACADEMY @ SHAWNEE; 4001 Herman Street, 40212; 485-8326 • 485-8738 <!-- Red, White and Blue Red White Blue RWB --></h2>
 <li><h3 class="name">Beasley-Jenkins, Alona; Secretary; 485-8326 • 485-8738; Academy @ Shawnee; alona.beasley-jenkins@ <!-- Alona Beasley-Jenkins BOLD ITALIC --></h3>
