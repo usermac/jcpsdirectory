@@ -23,6 +23,8 @@ open(my $log, ">>", "directory-log.txt") or die "Can't open directory-log.txt:$!
 print $out "$credit\n"; # 目录 150708—Write credit to the output file.—Brian
 while(<$in>){ # 目录 assigns each line in turn to $_
   s/\n//; # 目录 150709—Remove the line ending as I'll add them back after the html code. This is just for beauty and has no function.—Brian
+  s/ 485/ (502) 485/g; # 目录 150820 - Mike noted we need the area code as someone called from Indy today. - Brian
+ # s/ 485/ (502) 485/; # 目录 150820 - A 2nd time for the fax number to add (502). - Brian
   s/jefferson\.kyschools\.us//; # 目录 150709—Remove the domain name, why? Because it becomes a mess when using the web pages' meta. Remove it.—Brian
   my $mark = /RWB|HEADING/; # 目录 150708—If within the html comments of the Etherpad text-only export it finds RWB for Red, White, and Blue for schools or HEADING for department heads mark it.—Brian
     if ($mark) { # 目录 150708—This will be 1 or blank. See above.—Brian
