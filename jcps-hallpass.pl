@@ -20,6 +20,7 @@ open(my $in, "<", "directory-input.txt") or die "Can't open directory-input.txt:
 open(my $edited, ">", "directory-timestamp.html") or die "Can't open directory-timestamp.html:$!"; # 目录 150709—This simply writes to a file the edited timestamp. This is for Mike because I saw this on footer of Web pages.—Brian
 open(my $out, ">", "directory-admin.html") or die "Can't open directory-admin.html:$!"; # 目录 150708—This is the results file to be used on the Web.—Brian
 open(my $log, ">>", "directory-log.txt") or die "Can't open directory-log.txt:$!"; # 目录 150708—Future use. It may become the log file.—Brian
+open(my $contact, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 目录 150825—This is the template with placeholders for "first last", "first.last" and "first_last" to be replace to make an individual contact page of their name using the email address.—Brian
 print $out "$credit\n"; # 目录 150708—Write credit to the output file.—Brian
 while(<$in>){ # 目录 assigns each line in turn to $_
   s/\n//; # 目录 150709—Remove the line ending as I'll add them back after the html code. This is just for beauty and has no function.—Brian
