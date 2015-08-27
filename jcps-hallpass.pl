@@ -20,7 +20,7 @@ open(my $in, "<", "directory-input.txt") or die "Can't open directory-input.txt:
 open(my $edited, ">", "directory-timestamp.html") or die "Can't open directory-timestamp.html:$!"; # 目录 150709—This simply writes to a file the edited timestamp. This is for Mike because I saw this on footer of Web pages.—Brian
 open(my $out, ">", "directory-admin.html") or die "Can't open directory-admin.html:$!"; # 目录 150708—This is the results file to be used on the Web.—Brian
 open(my $log, ">>", "directory-log.txt") or die "Can't open directory-log.txt:$!"; # 目录 150708—Future use. It may become the log file.—Brian
-open(my $contact, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 目录 150825—Open the template file used for placeholders of "first last", "first.last" and "first_last" to be replace to make an individual contact page of their name using the email address.—Brian
+# open(my $contact, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 目录 150825—Open the template file used for placeholders of "first last", "first.last" and "first_last" to be replace to make an individual contact page of their name using the email address.—Brian
 print $out "$credit\n"; # 目录 150708—Write credit to the output file.—Brian
 while(<$in>){ # 目录 assigns each line in turn to $_
   s/\n//; # 目录 150709—Remove the line ending as I'll add them back after the html code. This is just for beauty and has no function.—Brian
@@ -102,8 +102,46 @@ while(<$in2>){ # 红白蓝 assigns each line in turn to $_
       s/,,/,/; # 目录 150805—[Again and again] Fix more silly formatting error where I don't account for a space properly above.—Brian
       s/,,/,/; # 目录 150805—[Again and again] Fix more silly formatting error where I don't account for a space properly above.—Brian
        if ($count > 1) {
-         print $json_people "        \"entity\": \"$_\n    }, {\n"; # 红白蓝 150708—It is a school name or department heading, so print with html trappings of h2.—Brian      
+         print $json_people "        \"entity\": \"$_\n    }, {\n"; # 目录 150708—Write the persons information to the file.—Brian      
         }
        } 
      }
 for my $print ($json_schools, $json_people) { print $print "        \"comment\": \"$date end of file. $credit\"\n    }\n    ]\n}"}; # 红白蓝 目录 150805—This is the closing lines to the JSON.—Brian;
+# _+_+_+_+_+_+_+_+_+_+_ Pre-processing directory-people.js file _+_+_+_+_+_+_+_+_+_+_
+# 150827—Immediately take the resulting JSON people file above and read into memory as $in3. Format it to one line per person. Remove the head and foot, then parse and process each line to a single html page for each person.—Brian
+system("cp directory-people.js directory-people2.js"); # 150827—Use shell copy command because running this natively caused a loss of data near the end of the file.—Brian
+open(my $in3, "<", "directory-people2.js") or die "Can't open directory-people2.js:$!"; # 150827—Open the people JSON file to process.—Brian
+open(my $out3, ">", "directory-contact.txt") or die "Can't open directory-contact.txt:$!"; # 150727—This is the resulting file.—Brian
+while(<$in3>){ # Below is to prepare the file for processing. Call it pre-processing. ;) - Brian
+  s/        //g;
+  s/    //g;
+  s/}, {/|/g;
+  s/{|}//g;
+  s/\[|\]//g;
+  s/,\n/, /g;
+  s/\|//g;
+  s/"people"://;
+  print $out3 "$_";
+  };
+system("awk 'NF > 0' directory-contact.txt > directory-contact2.txt"); # 150827—Use shell awk command to remove blank lines. Silly but effective.—Brian
+#150827—Whew... Finally a file ready to begin the one-by-one creation of contact files: directory-contact2.txt file.—Brian
+#150827—I think in addition to the stand-alone contact file that is linked to from the online directory page, I'll also process the vCard here because it is timely.—Brian
+#150827—Each resulting file will be from a template. The filename will be the person's email address up to and including the "@" plus. ".html".—Brian
+open(my $in4, "<", "directory-contact2.txt") or die "Can't open directory-contact2.txt:$!"; # 150827—Open the people JSON file to process into single files.—Brian
+open(my $out4, ">", "directory-contact4.txt") or die "Can't open directory-contact4.txt:$!"; # 150727—This is the resulting file.—Brian
+my $entity4 = "";
+my $position4 = "";
+my $school_department4 = "";
+my $loc_name4 = "";
+my $phone4 = "";
+my $fax4 = "";
+my $email4 = "";
+my $last_name4 = "";
+my $first_name4 = "";
+while(<$in4>){ # - Brian
+  #  $last_name4 =~ s/("entity": "([a-z]|[A-Z].)+,)/$1/;
+  #  s/[a-z]/9/;
+  #  $last_name2 = "abc";
+  #  s//(.*)\s(.*)./  
+  print $out4 "$_";
+};
