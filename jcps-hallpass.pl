@@ -148,6 +148,8 @@ my $email4 = "";
 my $meta4 = "";
 my $first4 = "";
 my $last4 = "";
+my $filename4 = "";
+my $filename4a = "";
 while(<$in4>){ # - Brian
   my $count4 = () = $_ =~ /\:/g; # 150828—Counts number of colons. If 7 it's a department person otherwise it's 6 and is a school person. This accounts for the building number just before phone in departments only.—Brian
 #  $mark4=0; # 150828—Clear the marker for a human.—Brian
@@ -155,14 +157,16 @@ while(<$in4>){ # - Brian
   if ($count4 == 7) { # 150828—This is to account for existence of a location name for departments which all departments should have it. Schools have 6 colons as they don't have a location name, departments have 7.—Brian
     my ( $entity4, $position4, $loc_name4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/;
     my ( $last4, $first4 ) = split /\,/,$entity4; # 150828—To isolate first name and last name for use in single contact page title and elsewhere.—Brian
+    my ( $filename4, $filename4a ) = split /@/,$email4; # 150828—A very chintzy way to get the name but I'm tired. I only need the first one for the html filename.—Brian 
     # print $out4 "$count4 $email4\n";
-     print $out4 "$first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
+     print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
 #    $mark4=1; # 150828—Set the marker to note a human record.—Brian 
    }  elsif ($count4 == 6) {
     my $loc_name4 = ""; # 150828—Schools don't have location names as departments so blank the variable.—Brian
     my ( $entity4, $position4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/; 
     my ( $last4, $first4 ) = split /\,/,$entity4; # 150828—To isolate first name and last name for use in single contact page title and elsewhere.—Brian
-    print $out4 "$first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
+    my ( $filename4, $filename4a ) = split /@/,$email4; # 150828—A very chintzy way to get the name but I'm tired. I only need the first one for the html filename.—Brian 
+    print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
     # print $out4 "$count4 $email4\n";
 #    $mark4=1; # 150828—Set the marker to note a human record.—Brian
    }
