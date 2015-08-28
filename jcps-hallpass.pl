@@ -121,27 +121,29 @@ while(<$in3>){ # Below is to prepare the file for processing. Call it pre-proces
   s/,\n/, /g;
   s/\|//g;
   s/"people"://;
+  s/("entity":|"position"|"loc_name"|"phone"|"fax"|"entity"|"school_department"|"email"|"meta")/•/g;
+  s/", : "/:/g;
+  s/•: "/:/g;
+  s/",//g;
+  s/\\"/"/g; #150828—Preserve real quote for nicknames.—Brian
+  s/"s*$//g; #150828—Ending quote removal. NOTE VIP: Sill leaves an end quote on lines with nicknames such as "Butch".—Brian
+  s/• "//g;
   print $out3 "$_";
   };
 system("awk 'NF > 0' directory-contact.txt > directory-contact2.txt"); # 150827—Use shell awk command to remove blank lines. Silly but effective.—Brian
 #150827—Whew... Finally a file ready to begin the one-by-one creation of contact files: directory-contact2.txt file.—Brian
-#150827—I think in addition to the stand-alone contact file that is linked to from the online directory page, I'll also process the vCard here because it is timely.—Brian
+#150827—I think in addition to creation of the stand-alone contact html file that is linked to from the online directory page, I'll also process the vCard here because it is timely.—Brian
 #150827—Each resulting file will be from a template. The filename will be the person's email address up to and including the "@" plus. ".html".—Brian
 open(my $in4, "<", "directory-contact2.txt") or die "Can't open directory-contact2.txt:$!"; # 150827—Open the people JSON file to process into single files.—Brian
 open(my $out4, ">", "directory-contact4.txt") or die "Can't open directory-contact4.txt:$!"; # 150727—This is the resulting file.—Brian
-my $entity4 = "";
-my $position4 = "";
-my $school_department4 = "";
-my $loc_name4 = "";
-my $phone4 = "";
-my $fax4 = "";
-my $email4 = "";
-my $last_name4 = "";
-my $first_name4 = "";
 while(<$in4>){ # - Brian
-  #  $last_name4 =~ s/("entity": "([a-z]|[A-Z].)+,)/$1/;
-  #  s/[a-z]/9/;
-  #  $last_name2 = "abc";
-  #  s//(.*)\s(.*)./  
-  print $out4 "$_";
+my $count4 = () = $_ =~ /\:/g; # 150828—Counts number of colons. If 7 it's a department person otherwise it's 6 and is a school person. This accounts for the building number just before phone in departments only.—Brian
+  s/ :/:/g; #150828—Take out the extra space before the colon.—Brian
+  if ($count4 == 7) { # 150828—This is to account for the Location Name for departments which have it. Schools have 6 colons, departments have 7.—Brian
+    my ( $entity4, $position4, $loc_name4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/;
+    print $out4 "$count4 $email4\n";
+   }  elsif ($count4 == 6) {
+    my ( $entity4, $position4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/; 
+    print $out4 "$count4 $email4\n";
+   }
 };
