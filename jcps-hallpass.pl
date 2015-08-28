@@ -137,7 +137,7 @@ system("awk 'NF > 0' directory-contact.txt > directory-contact2.txt"); # 150827�
 #150827—Each resulting file will be from a template. The filename will be the person's email address up to and including the "@" plus. ".html".—Brian
 open(my $in4, "<", "directory-contact2.txt") or die "Can't open directory-contact2.txt:$!"; # 150827—Open the people JSON file to process into single files.—Brian
 open(my $out4, ">", "directory-contact4.txt") or die "Can't open directory-contact4.txt:$!"; # 150727—This is the resulting file.—Brian
-my $mark4 = ""; # 150828—This is to note a line that has a person so I don't process a comment line after making the vars for individual files.—Brian
+# my $mark4 = ""; # 150828—This is to note a line that has a person so I don't process a comment line after making the vars for individual files.—Brian
 my $entity4 = "";
 my $position4 = "";
 my $loc_name4 = "";
@@ -159,15 +159,21 @@ while(<$in4>){ # - Brian
     my ( $last4, $first4 ) = split /\,/,$entity4; # 150828—To isolate first name and last name for use in single contact page title and elsewhere.—Brian
     my ( $filename4, $filename4a ) = split /@/,$email4; # 150828—A very chintzy way to get the name but I'm tired. I only need the first one for the html filename.—Brian 
     # print $out4 "$count4 $email4\n";
-     print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
+    open(my $contact4, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 150828—This is the template file for each contact html file.—Brian
+    # 150828—Here is where I should sub in the template file above.—Brian
+    close $contact4;
+    print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
 #    $mark4=1; # 150828—Set the marker to note a human record.—Brian 
    }  elsif ($count4 == 6) {
     my $loc_name4 = ""; # 150828—Schools don't have location names as departments so blank the variable.—Brian
     my ( $entity4, $position4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/; 
     my ( $last4, $first4 ) = split /\,/,$entity4; # 150828—To isolate first name and last name for use in single contact page title and elsewhere.—Brian
     my ( $filename4, $filename4a ) = split /@/,$email4; # 150828—A very chintzy way to get the name but I'm tired. I only need the first one for the html filename.—Brian 
-    print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
     # print $out4 "$count4 $email4\n";
+    open(my $contact4, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 150828—This is the template file for each contact html file.—Brian
+    # 150828—Here is where I should sub in the template file above.—Brian
+    close $contact4;
+    print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
 #    $mark4=1; # 150828—Set the marker to note a human record.—Brian
    }
 };
