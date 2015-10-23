@@ -22,6 +22,9 @@ People JSON for iOS app at /mpu/data/schools.js
 
 There are 2 more files and they use the same Etherpad data but also work with relational files. They are for the printed directory and the online principals list. They need the relational data from the Red, White and Blue list. They are processed in FileMaker. - Brian
 
+Operation
+Only PERL is needed for basic processing. It is the jcps-hallpass.pl file. The only other file needed is the directory-input.txt file which is the renamed export of the Etherpad export file. With just those 2 files, run the PERL script and it will make the other files. Upload the 2 javascript files into the /mpu/data/ folder on the website for the iOS app. The directory-admin.html, just copy its contents and replace the same in the index.html of the /Phone directory on the website. 
+
 History
 
 This project began in-house 8/8/2014 by Brian Ginn, the new Systems Coordinator of Materials Production. Why? We needed a way to handle the data behind the printed directory mainly the index generation automatically. Until now, the index was done by hand. 
