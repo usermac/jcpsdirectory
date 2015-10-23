@@ -1,6 +1,7 @@
 #!/usr/bin/perl
 use strict;
 use warnings;
+use autodie;
 # All information processed is public information.—Brian
 # 150707—Is YYMMDD for documentation purposes.—Brian
 # 150729—Comments are on the same line as the code.—Brian
@@ -131,49 +132,3 @@ while(<$in3>){ # Below is to prepare the file for processing. Call it pre-proces
   print $out3 "$_";
   };
 system("awk 'NF > 0' directory-contact.txt > directory-contact2.txt"); # 150827—Use shell awk command to remove blank lines. Silly but effective.—Brian
-# _+_+_+_+_+_+_+_+_+_+_ Make the individual HTML contact files and vCards _+_+_+_+_+_+_+_+_+_+_
-#150827—Whew... Finally a file ready to begin the one-by-one creation of contact files: directory-contact2.txt file.—Brian
-#150827—I think in addition to creation of the stand-alone contact html file that is linked to from the online directory page, I'll also process the vCard here because it is timely.—Brian
-#150827—Each resulting file will be from a template. The filename will be the person's email address up to and including the "@" plus. ".html".—Brian
-open(my $in4, "<", "directory-contact2.txt") or die "Can't open directory-contact2.txt:$!"; # 150827—Open the people JSON file to process into single files.—Brian
-open(my $out4, ">", "directory-contact4.txt") or die "Can't open directory-contact4.txt:$!"; # 150727—This is the resulting file.—Brian
-# my $mark4 = ""; # 150828—This is to note a line that has a person so I don't process a comment line after making the vars for individual files.—Brian
-my $entity4 = "";
-my $position4 = "";
-my $loc_name4 = "";
-my $phone4 = "";
-my $fax4 = "";
-my $school_department4 = "";
-my $email4 = "";
-my $meta4 = "";
-my $first4 = "";
-my $last4 = "";
-my $filename4 = "";
-my $filename4a = "";
-while(<$in4>){ # - Brian
-  my $count4 = () = $_ =~ /\:/g; # 150828—Counts number of colons. If 7 it's a department person otherwise it's 6 and is a school person. This accounts for the building number just before phone in departments only.—Brian
-#  $mark4=0; # 150828—Clear the marker for a human.—Brian
-  s/ :/:/g; # 150828—Take out the extra space before the colon.—Brian
-  if ($count4 == 7) { # 150828—This is to account for existence of a location name for departments which all departments should have it. Schools have 6 colons as they don't have a location name, departments have 7.—Brian
-    my ( $entity4, $position4, $loc_name4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/;
-    my ( $last4, $first4 ) = split /\,/,$entity4; # 150828—To isolate first name and last name for use in single contact page title and elsewhere.—Brian
-    my ( $filename4, $filename4a ) = split /@/,$email4; # 150828—A very chintzy way to get the name but I'm tired. I only need the first one for the html filename.—Brian 
-    # print $out4 "$count4 $email4\n";
-    open(my $contact4, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 150828—This is the template file for each contact html file.—Brian
-    # 150828—Here is where I should sub in the template file above.—Brian
-    close $contact4;
-    print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
-#    $mark4=1; # 150828—Set the marker to note a human record.—Brian 
-   }  elsif ($count4 == 6) {
-    my $loc_name4 = ""; # 150828—Schools don't have location names as departments so blank the variable.—Brian
-    my ( $entity4, $position4, $phone4, $fax4, $school_department4, $email4, $meta4 ) = split /\:/; 
-    my ( $last4, $first4 ) = split /\,/,$entity4; # 150828—To isolate first name and last name for use in single contact page title and elsewhere.—Brian
-    my ( $filename4, $filename4a ) = split /@/,$email4; # 150828—A very chintzy way to get the name but I'm tired. I only need the first one for the html filename.—Brian 
-    # print $out4 "$count4 $email4\n";
-    open(my $contact4, "<", "brian.ginn@.html") or die "Can't open brian.ginn@.html:$!"; # 150828—This is the template file for each contact html file.—Brian
-    # 150828—Here is where I should sub in the template file above.—Brian
-    close $contact4;
-    print $out4 "$filename4 $first4 $last4 is $entity4<br>\n<a href=\"mailto:$email4\">&#x1f4e7;</a> $email4<br><br>\n\n";
-#    $mark4=1; # 150828—Set the marker to note a human record.—Brian
-   }
-};
