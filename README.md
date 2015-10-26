@@ -17,7 +17,7 @@ What results is a series of files. Some are manually inserted into a shell and o
 
 READ-ONLY output:
 
-Online Directory @ /Phone
+directory-admin.html contents copied into the index.html file for the Online Directory @ /Phone
 
 Schools JSON for iOS app at /mpu/data/directory-schools.js 
 
