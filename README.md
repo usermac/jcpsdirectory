@@ -3,7 +3,7 @@
 
 # Benefits
 
-1. Easy Updateing by staff
+1. Easy Updating by staff
 2. Fastest find ever seen for end-user. 
 3. Meta search. Try "Monday Memo"
 
