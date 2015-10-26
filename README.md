@@ -49,4 +49,8 @@ It was data provided by MIS that was imported into a FileMaker Pro 13 database a
 
 That Etherpad list of about 2,300 administrative contacts has the core data such as name, phone, fax, location and department or school. Each line is compared to another database in FileMaker Pro on our server named DepartmentHeadings. The link creates the formal line listing of the physical location. 
 
+# Challenges
+
+We have a new phone system coming starting now. It is in 15% of our locations. It changes some numbers and does not correspond to outside numbers in many cases. This is an ongoing issue as of 10/2015. 
+
 — Brian
