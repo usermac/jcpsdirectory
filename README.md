@@ -1,11 +1,14 @@
 # jcpsdirectory
 10/23/2015—Louisville, Kentucky. Process to move data from Etherpad to the JCPS live website. Immutable Data is in the Etherpad that any JCPS connected computer can edit. Etherpad is a subdomain only reachable by a JCPS connected computer and a single source for the data. 
 
-Benefits
+# Benefits
 
-Easy Updateing by staff
+1. Easy Updateing by staff
+2. Fastest find ever seen for end-user. 
+3. Meta search. Try "Monday Memo"
 
-Fastest find ever seen for end-user. 
+# Live 
+See it live and in-use here http://www.jefferson.kyschools.us/phone/
 
 In the GIF below, the green button part is the end-user search page located at /phone. The rest is showing changes made to the Etherpad document. 
 
@@ -13,7 +16,7 @@ In the GIF below, the green button part is the end-user search page located at /
 
 Credit should go to Jonny Strömberg for his listjs that makes the search so very fast on the web page.
 
-Workflow
+# Workflow
 
 ![White board workflow](Directory-workflow-v2.png)
 
@@ -21,7 +24,7 @@ From Ehterpad I export it as text-only. This results in a very long, 2,600 line 
 
 What results is a series of files. Some are manually inserted into a shell and others standalone and feed a new, this year, iOS app as JSON. 
 
-READ-ONLY output:
+# READ-ONLY output:
 
 directory-admin.html contents copied into the index.html file for the Online Directory @ /Phone
 
@@ -31,11 +34,11 @@ People JSON for iOS app at /mpu/data/directory-people2.js
 
 There are 2 more files and they use the same Etherpad data but also work with relational files. They are for the printed directory and the online principals list. They need the relational data from the Red, White and Blue list. They are processed in FileMaker. - Brian
 
-Operation
+# Operation
 
 Only PERL is needed for basic processing. It is the jcps-hallpass.pl file. The only other file needed is the directory-input.txt file which is the renamed export of the Etherpad export file. With just those 2 files, run the PERL script and it will make the other files. Upload the 2 javascript files into the /mpu/data/ folder on the website for the iOS app. The directory-admin.html, just copy its contents and replace the same in the index.html of the /Phone directory on the website. 
 
-History
+# History
 
 This project began in-house 8/8/2014 by Brian Ginn, the new Systems Coordinator of Materials Production. Why? We needed a way to handle the data behind the printed directory mainly the index generation automatically. Until now, the index was done by hand. 
 
