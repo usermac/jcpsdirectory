@@ -17,8 +17,10 @@ What results is a series of files. Some are manually inserted into a shell and o
 
 READ-ONLY output:
 Online Directory @ /Phone
-Schools JSON for iOS app at /mpu/data/schools.js 
-People JSON for iOS app at /mpu/data/schools.js 
+
+Schools JSON for iOS app at /mpu/data/directory-schools.js 
+
+People JSON for iOS app at /mpu/data/directory-people2.js 
 
 There are 2 more files and they use the same Etherpad data but also work with relational files. They are for the printed directory and the online principals list. They need the relational data from the Red, White and Blue list. They are processed in FileMaker. - Brian
 
