@@ -9,6 +9,7 @@
 
 # Live 
 See it live and in-use here http://www.jefferson.kyschools.us/phone/
+( Until January 2016 ).
 
 In the GIF below, the green button part is the end-user search page located at /phone. The rest is showing changes made to the Etherpad document. 
 
@@ -54,6 +55,6 @@ That Etherpad list of about 2,300 administrative contacts has the core data such
 We have a new phone system coming starting now. It is in 15% of our locations. It changes some numbers and does not correspond to outside numbers in many cases. This is an ongoing issue as of 10/2015. 
 
 # Contact
-Brian Ginn can be reached at brian.ginn@jefferson.kyschools.us or phone (5021) 550-0092 EST.
+Brian Ginn can be reached at brian.ginn@jefferson.kyschools.us or phone (502) 550-0092 EST.
 
 — Brian
